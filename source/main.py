@@ -1,6 +1,8 @@
 import argparse
 import json
 from pathlib import Path
+import re
+
 
 from preprocess import preprocess_resume
 from text_cleaner import clean_text
@@ -66,6 +68,71 @@ def create_resume_template():
         "achievements": []
 
     }
+def fix_broken_contact_lines(text: str) -> str:
+    
+    lines = text.splitlines()
+    fixed_lines = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i].strip()
+
+        # --- Case 1: Broken email (e.g. "b" / "h" / "armoriaarun1998" / "mail.com") ---
+        if 1 <= len(line) <= 3 and line.isalpha():
+            lookahead = lines[i:i+6]
+            joined = "".join(l.strip() for l in lookahead)
+
+            if re.search(r'(gmail|yahoo|hotmail|outlook|icloud)\.com', joined, re.IGNORECASE):
+                merged = ""
+                consumed = 0
+                for l in lookahead:
+                    merged += l.strip()
+                    consumed += 1
+                    if re.search(r'(gmail|yahoo|hotmail|outlook|icloud)\.com', merged, re.IGNORECASE):
+                        break
+
+                domain_match = re.search(r'(gmail|yahoo|hotmail|outlook|icloud)\.com', merged, re.IGNORECASE)
+                if domain_match and "@" not in merged:
+                    split_point = domain_match.start()
+                    merged = merged[:split_point] + "@" + merged[split_point:]
+
+                fixed_lines.append(merged)
+                i += consumed
+                continue
+
+        # --- Case 2: Broken phone number (e.g. "96" / "25069509" split across lines) ---
+        if re.fullmatch(r'[\d\-\s]{1,5}', line) and any(c.isdigit() for c in line):
+            lookahead = lines[i:i+4]
+            digit_fragments = []
+            consumed = 0
+
+            for l in lookahead:
+                stripped = l.strip()
+                # Stop if we hit a clearly non-numeric line (new field starting)
+                if stripped and not re.fullmatch(r'[\d\-\s]+', stripped):
+                    break
+                if stripped:
+                    digit_fragments.append(re.sub(r'\D', '', stripped))
+                consumed += 1
+
+            merged_digits = "".join(digit_fragments)
+
+            # Only treat as a phone number if it lands in a sane length range
+            if 10 <= len(merged_digits) <= 13:
+                fixed_lines.append(merged_digits)
+                i += consumed
+                continue
+
+        # --- Case 3: Stray single icon-adjacent characters that are neither ---
+        # (e.g. a lone "%", "S", "O" left over from a misread icon glyph)
+        if line in ("%", "S", "O", "#", "*", "«", "=", "@") :
+            i += 1
+            continue
+
+        fixed_lines.append(line)
+        i += 1
+
+    return "\n".join(fixed_lines)
 
 
 # -----------------------------
@@ -135,6 +202,7 @@ def process_resume(resume_folder: Path):
         all_text.append(text)
 
     cleaned_text = clean_text("\n\n".join(all_text))
+    cleaned_text = fix_broken_contact_lines(cleaned_text)   # <-- handles email + phone + stray icons
 
     NORMALIZED_FILE = NORMALIZED_DIR / f"{resume_name}.txt"
 
@@ -180,7 +248,7 @@ def process_resume(resume_folder: Path):
     txt_file = TEXT_DIR / f"{resume_name}.txt"
 
     txt_file.write_text(
-        normalized_text,
+        cleaned_text,
         encoding="utf-8"
     )
 
@@ -264,6 +332,7 @@ def process_resume(resume_folder: Path):
     )
 
     return resume
+
 
 
 # -----------------------------

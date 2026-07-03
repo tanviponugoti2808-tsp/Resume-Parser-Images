@@ -6,7 +6,7 @@ SYSTEM_PROMPT = """
 You are an OCR Resume Reconstruction Engine.
 
 Your ONLY task is to reconstruct noisy OCR text into a clean, logically ordered resume.
-
+  
 STRICT RULES
 
 - Never invent information.
