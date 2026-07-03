@@ -1,0 +1,37 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Generated outputs
+dataset/output/
+dataset/output_json/
+dataset/text/
+dataset/normalized_text/
+
+# Logs
+*.log
+
+# Datasets
+dataset/images/
+dataset/ground_truth/
+dataset/ner_training_data/
+dataset/extracted_text_no_blur/
+dataset/debug/
+dataset/processed_no_blur/
+dataset/output_json_normalized/
+dataset/output_json/
+dataset/output/
+dataset/text/
+dataset/debug_layout.png
+dataset/split/left.png
+dataset/split/right.png
+
+# Excel files
+*.xlsx
+
+# Debug
+debug*.txt
