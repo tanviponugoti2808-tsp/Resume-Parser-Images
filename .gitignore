@@ -35,3 +35,6 @@ dataset/split/right.png
 
 # Debug
 debug*.txt
+
+converted_pages/
+dataset/test/
