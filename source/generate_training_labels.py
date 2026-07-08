@@ -1,157 +1,169 @@
+# generate_training_labels.py
 import json
 import re
+import openpyxl
 from pathlib import Path
- 
-TEXT_DIR  = Path("dataset/extracted_text_no_blur")
-JSON_DIR  = Path("dataset/output_json")
-OUT_DIR   = Path("dataset/ner_training_data")
-OUT_DIR.mkdir(parents=True, exist_ok=True)
- 
-# Tag set — every field type we want the model to eventually recognize
-TAG_TYPES = [
-    "NAME", "EMAIL", "PHONE",
-    "COMPANY", "DESIGNATION", "DATE",
-    "DEGREE", "COLLEGE", "UNIVERSITY",
-    "SKILL", "LANGUAGE", "CERTIFICATION",
-]
- 
- 
-def tokenize(text: str):
-    """
-    Simple whitespace + punctuation-aware tokenizer.
-    Keeps emails and dates intact as much as possible.
-    """
-    # Split on whitespace, but keep punctuation attached where it matters (emails, dates)
-    raw_tokens = re.findall(r"\S+", text)
-    return raw_tokens
- 
- 
-def find_token_span(tokens, value: str):
-    """
-    Find the start/end token index where `value` appears in `tokens`.
-    Returns (start_idx, end_idx) inclusive, or None if not found.
- 
-    Matches case-insensitively and tolerates minor whitespace differences.
-    """
-    if not value or not value.strip():
+
+EXCEL_FILE = Path("dataset/consolidated_resumes.xlsx")
+TEXT_DIR = Path("dataset/normalized_text")
+OUTPUT_FILE = Path("dataset/ner_training_data.jsonl")
+
+
+def find_span(text: str, value: str):
+    """Find character start/end of value in text (case-insensitive, first match)."""
+    if not value or not str(value).strip():
         return None
- 
-    value_tokens = tokenize(value.strip())
-    if not value_tokens:
+    value = str(value).strip()
+    idx = text.lower().find(value.lower())
+    if idx == -1:
         return None
- 
-    value_norm = [t.lower().strip(".,;:") for t in value_tokens]
-    n = len(value_norm)
- 
-    for i in range(len(tokens) - n + 1):
-        window = [t.lower().strip(".,;:") for t in tokens[i:i + n]]
-        if window == value_norm:
-            return (i, i + n - 1)
- 
-    # Fallback: try matching just the first token of multi-word values
-    # (helps when OCR garbled a middle word)
-    if n > 1:
-        first_word = value_norm[0]
-        for i, t in enumerate(tokens):
-            if t.lower().strip(".,;:") == first_word:
-                # Confirm at least 50% of remaining words match nearby
-                window = [tt.lower().strip(".,;:") for tt in tokens[i:i + n]]
-                matches = sum(1 for a, b in zip(window, value_norm) if a == b)
-                if matches >= max(1, n // 2):
-                    return (i, i + n - 1)
- 
-    return None
- 
- 
-def apply_bio_tags(tags: list, span, tag_type: str):
-    """Apply B-/I- tags over a token span, without overwriting existing tags."""
-    if span is None:
-        return
-    start, end = span
-    for idx in range(start, min(end + 1, len(tags))):
-        if tags[idx] != "O":
-            continue  # don't overwrite a tag already assigned (avoid overlaps)
-        tags[idx] = f"B-{tag_type}" if idx == start else f"I-{tag_type}"
- 
- 
-def label_resume(text: str, parsed: dict):
-    tokens = tokenize(text)
-    tags = ["O"] * len(tokens)
- 
-    # ── Header fields ──────────────────────────────────────────────
-    apply_bio_tags(tags, find_token_span(tokens, parsed.get("name", "")), "NAME")
-    apply_bio_tags(tags, find_token_span(tokens, parsed.get("email", "")), "EMAIL")
-    apply_bio_tags(tags, find_token_span(tokens, parsed.get("phone", "")), "PHONE")
- 
-    # ── Skills ──────────────────────────────────────────────────────
-    skills = parsed.get("skills", {})
-    skill_list = skills.get("all", []) if isinstance(skills, dict) else []
-    for skill in skill_list:
-        apply_bio_tags(tags, find_token_span(tokens, skill), "SKILL")
- 
-    # ── Experience ──────────────────────────────────────────────────
-    for job in parsed.get("experience", []):
-        apply_bio_tags(tags, find_token_span(tokens, job.get("company", "")), "COMPANY")
-        apply_bio_tags(tags, find_token_span(tokens, job.get("designation", "")), "DESIGNATION")
-        apply_bio_tags(tags, find_token_span(tokens, job.get("duration", "")), "DATE")
- 
-    # ── Education ──────────────────────────────────────────────────
-    for edu in parsed.get("education", []):
-        apply_bio_tags(tags, find_token_span(tokens, edu.get("degree", "")), "DEGREE")
-        apply_bio_tags(tags, find_token_span(tokens, edu.get("college", "")), "COLLEGE")
-        apply_bio_tags(tags, find_token_span(tokens, edu.get("university", "")), "UNIVERSITY")
- 
-    # ── Languages ──────────────────────────────────────────────────
-    for lang in parsed.get("languages", []):
-        apply_bio_tags(tags, find_token_span(tokens, lang), "LANGUAGE")
- 
-    # ── Certifications ────────────────────────────────────────────
-    for cert in parsed.get("certifications", []):
-        apply_bio_tags(tags, find_token_span(tokens, cert), "CERTIFICATION")
- 
-    return tokens, tags
- 
- 
-def main():
-    text_files = sorted(TEXT_DIR.glob("*.txt"))
-    print(f"Found {len(text_files)} text files.\n")
- 
-    total_tagged_tokens = 0
-    total_tokens = 0
-    success = 0
- 
-    for text_file in text_files:
-        resume_name = text_file.stem
-        json_file = JSON_DIR / f"{resume_name}.json"
- 
-        if not json_file.exists():
-            print(f"  [SKIP] No JSON found for {resume_name}")
+    return (idx, idx + len(value))
+
+
+def remove_overlaps(entities):
+    """Keep longest non-overlapping spans, sorted by start position."""
+    entities = sorted(entities, key=lambda e: (e[0], -(e[1] - e[0])))
+    result = []
+    last_end = -1
+    for start, end, label in entities:
+        if start >= last_end:
+            result.append((start, end, label))
+            last_end = end
+    return result
+
+
+def load_excel_data():
+    wb = openpyxl.load_workbook(EXCEL_FILE, data_only=True)
+
+    candidates = {}
+    ws = wb["Candidates"]
+    headers = [c.value for c in ws[1]]
+    for row in ws.iter_rows(min_row=2, values_only=True):
+        rec = dict(zip(headers, row))
+        file_name = rec.get("File Name")
+        if file_name:
+            candidates[file_name] = rec
+
+    education = {}
+    ws = wb["Education"]
+    headers = [c.value for c in ws[1]]
+    for row in ws.iter_rows(min_row=2, values_only=True):
+        rec = dict(zip(headers, row))
+        fn = rec.get("File Name")
+        if fn:
+            education.setdefault(fn, []).append(rec)
+
+    experience = {}
+    ws = wb["Experience"]
+    headers = [c.value for c in ws[1]]
+    for row in ws.iter_rows(min_row=2, values_only=True):
+        rec = dict(zip(headers, row))
+        fn = rec.get("File Name")
+        if fn:
+            experience.setdefault(fn, []).append(rec)
+
+    certificates = {}
+    ws = wb["Certificates"]
+    headers = [c.value for c in ws[1]]
+    for row in ws.iter_rows(min_row=2, values_only=True):
+        rec = dict(zip(headers, row))
+        fn = rec.get("File Name")
+        if fn:
+            certificates.setdefault(fn, []).append(rec)
+
+    return candidates, education, experience, certificates
+
+
+def build_examples():
+    candidates, education, experience, certificates = load_excel_data()
+
+    examples = []
+    skipped_no_text = []
+    total_entities = 0
+
+    for file_name, cand in candidates.items():
+        # file_name is like "Amit Resume.png" -> resume_name is "Amit Resume"
+        resume_name = Path(file_name).stem
+        text_file = TEXT_DIR / f"{resume_name}.txt"
+
+        if not text_file.exists():
+            skipped_no_text.append(resume_name)
             continue
- 
+
         text = text_file.read_text(encoding="utf-8")
-        parsed = json.loads(json_file.read_text(encoding="utf-8"))
- 
-        tokens, tags = label_resume(text, parsed)
- 
-        tagged_count = sum(1 for t in tags if t != "O")
-        total_tagged_tokens += tagged_count
-        total_tokens += len(tokens)
- 
-        coverage = (tagged_count / len(tokens) * 100) if tokens else 0
- 
-        out_path = OUT_DIR / f"{resume_name}.jsonl"
-        with open(out_path, "w", encoding="utf-8") as f:
-            f.write(json.dumps({"tokens": tokens, "tags": tags}, ensure_ascii=False))
- 
-        print(f"  [{resume_name}] {len(tokens)} tokens, {tagged_count} tagged ({coverage:.1f}% coverage)")
-        success += 1
- 
-    print(f"\nDone. {success}/{len(text_files)} resumes labeled.")
-    overall_coverage = (total_tagged_tokens / total_tokens * 100) if total_tokens else 0
-    print(f"Overall label coverage: {overall_coverage:.1f}% of tokens tagged")
-    print(f"\nOutput saved to: {OUT_DIR}/")
-    print("Next step: review a sample of these .jsonl files for correctness before training.")
- 
- 
+        entities = []
+
+        # --- Candidate-level scalar fields ---
+        field_label_map = [
+            ("Name", "NAME"),
+            ("Email", "EMAIL"),
+            ("Phone", "PHONE"),
+            ("Location", "LOCATION"),
+        ]
+        for field, label in field_label_map:
+            span = find_span(text, cand.get(field))
+            if span:
+                entities.append((span[0], span[1], label))
+
+        # --- Skills (semicolon-separated string) ---
+        skills_raw = cand.get("Skills") or ""
+        for skill in skills_raw.split(";"):
+            skill = skill.strip()
+            span = find_span(text, skill)
+            if span:
+                entities.append((span[0], span[1], "SKILL"))
+
+        # --- Education rows ---
+        for edu in education.get(file_name, []):
+            for field, label in [
+                ("Degree", "DEGREE"),
+                ("Institution", "ORG"),
+                ("Start Year", "DATE"),
+                ("End Year", "DATE"),
+            ]:
+                span = find_span(text, edu.get(field))
+                if span:
+                    entities.append((span[0], span[1], label))
+
+        # --- Experience rows ---
+        for exp in experience.get(file_name, []):
+            for field, label in [
+                ("Company", "ORG"),
+                ("Designation", "TITLE"),
+                ("Start Date", "DATE"),
+                ("End Date", "DATE"),
+            ]:
+                span = find_span(text, exp.get(field))
+                if span:
+                    entities.append((span[0], span[1], label))
+
+        # --- Certificates ---
+        for cert in certificates.get(file_name, []):
+            for field, label in [
+                ("Certification", "CERTIFICATION"),
+                ("Issuing Organization", "ORG"),
+            ]:
+                span = find_span(text, cert.get(field))
+                if span:
+                    entities.append((span[0], span[1], label))
+
+        if entities:
+            entities = remove_overlaps(entities)
+            total_entities += len(entities)
+            examples.append({"text": text, "entities": entities})
+
+    OUTPUT_FILE.write_text(
+        "\n".join(json.dumps(ex) for ex in examples),
+        encoding="utf-8"
+    )
+
+    print(f"Generated {len(examples)} training examples -> {OUTPUT_FILE}")
+    print(f"Total entity spans labeled: {total_entities}")
+    if skipped_no_text:
+        print(f"\nSkipped {len(skipped_no_text)} candidates (no matching normalized text file):")
+        for name in skipped_no_text:
+            print(f"  - {name}")
+
+
 if __name__ == "__main__":
-    main()
+    build_examples()

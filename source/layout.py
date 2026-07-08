@@ -8,70 +8,48 @@ import os
 # ==========================================
 
 def detect_layout(image_path):
-
     image = cv2.imread(image_path)
-
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    _, thresh = cv2.threshold(gray, 200, 255, cv2.THRESH_BINARY_INV)
 
-    _, thresh = cv2.threshold(
-        gray,
-        200,
-        255,
-        cv2.THRESH_BINARY_INV
-    )
-
-    kernel = cv2.getStructuringElement(
-        cv2.MORPH_RECT,
-        (12,3)
-    )
-
-    dilated = cv2.dilate(
-        thresh,
-        kernel,
-        iterations=1
-    )
-
-    contours, _ = cv2.findContours(
-        dilated,
-        cv2.RETR_EXTERNAL,
-        cv2.CHAIN_APPROX_SIMPLE
-    )
+    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (12, 3))
+    dilated = cv2.dilate(thresh, kernel, iterations=1)
+    contours, _ = cv2.findContours(dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
     output = image.copy()
-
     width = image.shape[1]
+    page_center = width // 2
 
     left_boxes = 0
     right_boxes = 0
 
     for cnt in contours:
-
-        x,y,w,h = cv2.boundingRect(cnt)
+        x, y, w, h = cv2.boundingRect(cnt)
 
         if w < 80 or h < 20:
             continue
 
-        cv2.rectangle(
-            output,
-            (x,y),
-            (x+w,y+h),
-            (0,255,0),
-            2
-        )
+        # --- NEW FAIL-SAFE ZONE ---
+        # If a text block spans across the middle of the page or is a centered heading, 
+        # do not count it as a column-defining box.
+        if x < page_center and (x + w) > page_center:
+            # Draw it in Blue to show it's recognized as a spanning/centered element
+            cv2.rectangle(output, (x, y), (x + w, y + h), (255, 0, 0), 2)
+            continue 
 
-        center = x + w//2
+        # Standard bounding box visualization
+        cv2.rectangle(output, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
-        if center < width//2:
+        box_center = x + w // 2
+        if box_center < page_center:
             left_boxes += 1
         else:
             right_boxes += 1
 
-    cv2.imwrite(
-        "dataset/debug_layout.png",
-        output
-    )
+    cv2.imwrite("dataset/debug_layout.png", output)
 
-    if left_boxes > 3 and right_boxes > 3:
+    # A true 2-column layout should have substantial blocks split on both sides
+    if left_boxes > 5 and right_boxes > 5:
         return "two_column"
 
     return "single_column"

@@ -1,0 +1,30 @@
+# --- PDF handling ---
+PyMuPDF>=1.23.0          # imported as 'fitz' in pdf.py
+
+# --- Image processing ---
+opencv-python>=4.8.0     # cv2 - preprocess.py, layout.py, ocr_columnaware.py, section_detector.py
+numpy>=1.24.0            # layout.py, ocr_columnaware.py
+Pillow>=10.0.0           # PIL.Image in ocr.py
+matplotlib>=3.7.0        # preprocess.py (display_results - visualization/debug only)
+
+# --- OCR ---
+pytesseract>=0.3.10      # ocr.py, ocr_columnaware.py
+# NOTE: pytesseract is just a Python wrapper - you must separately install
+# the Tesseract OCR engine itself (system binary), e.g.:
+#   Windows: https://github.com/UB-Mannheim/tesseract/wiki
+#   Then set pytesseract.pytesseract.tesseract_cmd to its install path
+#   (already hardcoded in ocr.py / ocr_columnaware.py for Windows)
+
+# --- Local LLM (Qwen3:8b) ---
+ollama>=0.3.0            # normalize.py, qwen_extractor.py, test_qwen.py
+# NOTE: also requires the Ollama app/server running locally with the
+# qwen3:8b model pulled, e.g.:
+#   ollama pull qwen3:8b
+
+# --- NER training ---
+spacy>=3.7.0             # train_ner.py
+# NOTE: also requires the blank English pipeline components which ship
+# with spaCy itself (spacy.blank("en") does not need a separate download)
+
+# --- Excel export ---
+openpyxl>=3.1.0          # excel.py, generate_training_labels.py

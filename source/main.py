@@ -408,8 +408,8 @@ def main():
         print(f"Excel file created: {EXCEL_FILE}")
     else:
         print("No resumes parsed successfully — skipping Excel export.")
+        
 
 
 if __name__ == "__main__":
-
     main()

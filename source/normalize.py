@@ -1,4 +1,4 @@
-from ollama import chat
+from ollama import chat,Client
 
 MODEL = "qwen3:8b"
 
@@ -66,26 +66,23 @@ Also:
 """
 
 
-def normalize_resume(ocr_text: str) -> str:
 
+def normalize_resume(ocr_text: str) -> str:
+    # 1. Your existing chat model logic runs here...
     response = chat(
         model=MODEL,
-        messages=[
-            {
-                "role": "system",
-                "content": SYSTEM_PROMPT
-            },
-            {
-                "role": "user",
-                "content": ocr_text
-            }
-        ],
+        messages=[{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": ocr_text}],
         think=False
     )
-
     text = response["message"]["content"]
-
-    # Safety cleanup in case the model emits a marker
     text = text.replace("/think", "").strip()
+
+    # 2. ADD THIS NEW LAYER HERE: Force Ollama to instantly unload from RAM
+    try:
+        # Setting keep_alive to 0 or a negative number tells Ollama to free the RAM immediately
+        Client().chat(model=MODEL, keep_alive=0)
+        print(" -> System RAM cleared successfully.")
+    except Exception as e:
+        print(f" -> Non-critical RAM sweep skipped: {e}")
 
     return text
