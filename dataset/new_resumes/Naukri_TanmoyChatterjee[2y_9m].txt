@@ -1,0 +1,35 @@
+Tanmoy Chatterjee
++91 7679976742
+tanmoy0Ochatterjee@gmail.com
+Kolkata,West Bengal, India
+Experience
+Clinical Data Analyst, CliniOps Techsoft Private Limited
+July 2022-June 2025
+3 years of experience in Clinical Data Management with expertise in study setup and
+conduct
+Study Setup: e-CRF design, edit check programming, workflow management, and
+preparation of documentation (Data Management Plan, e-CRF guidelines, edit check
+specifications, UAT test cases)
+Study Conduct: SAE reconciliation, MedDRA coding, and WHODrug coding
+Involved in system validation activities ensuring compliance with regulatory
+requirements
+Worked on clinical studies in Dermatology and Oncology
+Education
+Netaji Subhas Chandra Bose Institute of Pharmacy {MAKAUT)
+Bachelors in Pharmacy, 2018-2022
+Professional Expertise
+“i Programming: Experience in JavaScript for programming edit checks system checks
+4 Medical Coding: Skilled in MedDRA and WHODrug coding.
+4B e-CRF Design: Competent in designing electronic Case Report Forms (e-CRFs) and data
+dictionaries.
+4 SQL Basic: academic exposure; no professional experience.
+Certificates
+e
+Introduction to Clinical Data (Coursera)
+e
+Clinical Trial Data Management and Quality Assurance (Coursera)}
+e
+Good Clinical Practice
+e
+Medical writing skills for begineers(IMWA)
+hereby declare that the details above are correct and true to the best of my knowledge

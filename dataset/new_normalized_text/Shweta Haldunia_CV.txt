@@ -1,0 +1,41 @@
+SHWETA HALDUNIA  
+shwetahaldunia@gmail.com  
++91 86521111  
+Delhi, India  
+
+PROFILE  
+With over 8 years of experience in Clinical Data Management and Clinical Operations, I have successfully managed Paper and EDC trials across all phases, from conduct to close-out. I am proficient in designing AT scenarios for eCRF, Edit Checks, and Data Validation, with hands-on experience in tools like iMedidata RAVE and kTrials. I excel in ensuring regulatory compliance, managing eTMF documentation in Veeva Vault, and leading internal and client audits. My strong leadership and communication skills enable effective collaboration with cross-functional teams, ensuring high-quality deliverables. I am known for my ability to deliver creative solutions and drive project success.  
+
+WORK EXPERIENCE  
+Cognizant Technology Solutions | Lead Data Manager, SME  
+Sep 2022 – Present  
+Study Setup & Documentation: Perform data management activities per SOW; lead/attend study meetings (Kick-off, DRM, team meetings); manage TMF documents in sponsor EDMS; oversee Diary Cards, Memory Aids, and eCRF design/review with dynamism and derivations.  
+Validation & Testing: Guide or perform creation/revision of DVS, CCI, CMS/RES; execute and oversee AT for eCRFs, tSDV, and UAT of reports; ensure quality Data Validation Reports, Data Review Reports, and Patient Profiles.  
+Data Quality & Closure: Conduct quality checks per QCP; manage eCRF data point freeze/lock as per Database Locking Checklist; perform risk analysis and implement mitigation plans for quality and timeline adherence.  
+Stakeholder & People Management: Act as main POC to stakeholders, especially Database Developer Lead; ensure delivery of data management activities; drive continuous improvement under guidance of Data Manager Project Lead/TA Lead.  
+Audit SME: Lead internal as well as client audit for various studies.  
+
+IQVIA | Clinical Process Specialist  
+Oct 2019 – Aug 2022  
+Data Analysis & Reporting: Lead study teams in planning, maintenance, and closeout phases; provide detailed analysis of study data, identify trends (Action Items, Missing Pages, Safety Reports, etc.), and generate reports or trackers.  
+Dashboard Development & Risk Mitigation: Develop and maintain global study and project dashboards; support high-risk trials by providing detailed risk analysis reports to mitigate issues.  
+System Support & Compliance: Manage access for study team systems; ensure timely data updates and maintain compliance with monitoring plans, eTrainings, and eSOPs; respond to stakeholder requests (CCRAs, SRS, CRAs).  
+Operational & Administrative Tasks: Resolve data discrepancies, prepare dashboard templates, send CRA triggers, and provide administrative support for clinical trial execution.  
+
+Clintha Research | Clinical Data Coordinator  
+Jul 2018 – Sep 2019  
+Study Documentation & Planning: Create, maintain, and update key study documents such as Data Management Plans, Data Validation Plans, and Data Monitoring Plans for Phase IV studies.  
+Data Integrity & Testing: Perform UAT testing of study systems, conduct data reviews, and apply self-evident corrections as needed.  
+Discrepancy & Data Reconciliation: Identify and resolve data discrepancies for timely resolution.  
+Coordination & SAE Management: Collaborate with coding teams for timely coding of Medical History, Adverse Events, and concomitant medications; manage SAE reconciliation as per applicable guidelines.  
+
+Tata Consultancy Services | Clinical Data Coordinator  
+Apr 2015 – Jan 2017  
+Oncology Phase III Trials: Manage data for oncology Phase III trials throughout the process.  
+Data Discrepancy & Query Management: Identify and resolve data discrepancies by generating queries for timely resolution.  
+Coding & SAE Reconciliation: Coordinate timely coding of Medical History, Adverse Events, and concomitant medications; perform SAE reconciliation.  
+Database Preparation & Automation: Prepare the study database for interim analysis and data publication, while ensuring data integrity through Quality Control Checks. Automate tasks with Excel Macros to reduce manual efforts.  
+
+LANGUAGES  
+English (Fluent)  
+Mandarin (Fluent)

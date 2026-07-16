@@ -1,0 +1,116 @@
+Supriya Anil Salunkhe  
+Email: salunkhesupriyal9@gmail.com  
+Phone: +91-9527495002  
+LinkedIn: https://linkedin.com/in/supriya-s-9321ba104  
+Address: 203/1B/1 Plot no. 33 Shiv-Krupa Nagar, near Thakkar row house, Hirawadi, near Trikoni bungalow, Panchavti, Nashik, Maharashtra, 422003  
+Date of Birth: 19th Jan 1998  
+
+Summary  
+A hardworking individual looking for career and growth in the field of clinical research by using knowledge as well as operational and technical skills to deliver great examples of quality and teamwork.  
+
+Vision  
+To progress continuously towards the organization’s broader vision and to be the operational head of the organization.  
+
+Core Competencies  
+- Have a brief knowledge of EDC (iMedidata RAVE), Rave x, DataLabs, Clinbase, MCTMS, vTMF, PMED, AWS (Amazon Worked Space), Citrix & HPALM.  
+- Hands-on knowledge of MS-Office (MS-Excel, MS-Word, MS-Power Point), Share Drive, Share Point.  
+
+Soft Skills  
+- Ability to work effectively both in a team and independently.  
+- Competent in working under pressure and in time-sensitive situations.  
+- Willingness to learn new ideas and concepts.  
+- Creative and quick learner.  
+- Strong communication skills.  
+- Easily builds rapport with new people.  
+- Committed to ethical practices.  
+
+Work Experience  
+Total 5.5+ years as below  
+
+Organization: Parexel International  
+Parexel is among the world’s largest clinical research organizations (CROs), providing the full range of phase to IV clinical development services to help lifesaving treatments reach patients faster. Leader in using data, technology, advanced analytics and human expertise to help customers drive healthcare and human health forward.  
+Designation: Clinical Data Analyst II (CDA II) / (PCDA)  
+Total Experience: 27/Sep/2021 to till Now  
+Notice Period: 2 Months  
+Parexel is like a new chapter in my life, which has excelled me greatly with new and diverse challenges.  
+Have worked on trials ranging from early to late phases, where handled different databases as well as various sponsors. We successfully met and delivered on client expectations.  
+During my journey at Parexel, have been recognized and awarded multiple times for my contributions.  
+
+Organization: TATA Consultancy Services (TCS)  
+A global leader in IT services, consulting & business solutions with a large network of innovation & delivery centers.  
+Designation: Data Manager (DM)  
+Total Experience: 2 Years 3 Months (21-Jun-2019 to 14-Sep-2021)  
+In TCS, had the opportunity to work in the ClinPharm (Clinical Pharmacology) therapeutic area, which primarily focuses on the pharmacological effects of drugs to improve labeling parameters.  
+Typically, managed 3 to 5 studies simultaneously and worked with multiple Lead Data Managers (LDMs), maintaining excellent working relationships with them.  
+While working on a project, was awarded the Star Performer Award within a year of joining, in recognition of my performance.  
+
+Key Responsibilities  
+Organization: Parexel International  
+- End-to-end clinical data management activities (startup and study conduct, study closure).  
+- Perform and support the setup activities of DM documents to ensure proper documentation as per SOPs, ICH/GCP Guidelines, and Study Protocol.  
+- Work on creation of data management plan, data validation specification, CRF compliance, protocol deviation specification, mock shell for offline listings, other study specific documentation.  
+- Attending meetings with clinical teams.  
+- Review requirements, specifications, and technical design documents to provide timely and meaningful feedback.  
+- Create detailed, comprehensive, and well-structured data rules and test cases.  
+- Design, author and execute test scripts with focus on quality.  
+- Estimate, prioritize, plan and coordinate testing activities.  
+- Perform internal peer reviews for test script quality and effectiveness.  
+- Perform Data Entry and Data Review.  
+- Perform Manual testing and validation and data cleaning activities.  
+- Perform Monthly SAE reconciliations.  
+- Perform Discrepancy Management: send queries to relevant stakeholders and close them based on their responses.  
+- Perform multiple vendor data reconciliations by creating Offline listings as well as resolving specification and programming issues.  
+- Work closely with Programmers, data management leads, Technical Designers to resolve issues.  
+
+Organization: TATA Consultancy Services (TCS)  
+- Read and understand the study required documents (Protocol, Edit Check Specification document, annotated CRFs).  
+- Read and get trained on all client specific data management SOPs, guidelines, procedures to ensure completeness, consistency, and quality of the clinical trial data with all applicable ICH/GCP guidelines.  
+- Writing eCRF (e-Case Report Form) Specification.  
+- Connect and communicate with multiple stakeholders like Coder, LDM (Lead Data Manager), RAVE EDC programmer, STAT programmer, GDM (Global Data Manager), Lab Vendor, PK vendor etc.  
+- Preparation of Protocol Deviation Document.  
+- Preparing Data Transfer Agreement (DTA) for Vendor.  
+- Writing DVR specifications as well as Test steps.  
+- Creation of UAT Plan, Performing UAT, Preparing UAT report.  
+- Preparing and maintaining Data Management Plan (DMP) Metrics.  
+- Performing discrepancy management in accordance with the agreed timelines.  
+- Reviewing and recording all protocol deviations.  
+- Escalate any discrepancy in the clinical data to the LDM, TA Lead as appropriate.  
+- Identifying issues with validation procedures during study conduct and communicating findings to LDM, TA Lead.  
+- Point of contact (POC) to monitors for data flow, discrepancy management, and all other data management related processes.  
+- Uploading and maintaining study documents on vTMF (Virtual Trial Master File).  
+- Communicating site data issues with LDM, Sites and Monitors.  
+- Performing SAE and Vendor data reconciliation.  
+- Executing data listing programs and dataset reviews for patient data consistency.  
+- Performing discrepancy management on front end checks and the programmed correction.  
+- Utilization of appropriate data management tools to monitor quality and timeliness of data flow.  
+- Performing database lock and freezing.  
+- Coordinating with other CDM teams (Coders, CDP, SAS programmer, Stat programmer).  
+- Attend relevant study teleconference with client.  
+- Timely and quality deliverable for LDM review.  
+- Participate in the functional training and mentoring of new Associates joining the team.  
+
+Achievements  
+- Recognized with award 2.0 twice in PAREXEL.  
+- Received multiple recognitions from DML and respective study clients in PAREXEL.  
+- Awarded with Star Performer Award at TCS within a year of project joining.  
+- At TCS, my team got awarded with Start Team Award.  
+
+Educational Qualifications  
+- MBA in Human Resource Management, Narsee Monjee Institute of Management Studies, Mumbai  
+- B.Pharmacy, H.R. Patel Institute of Pharmaceutical Education and Research Center, North Maharashtra University, Jalgaon, Maharashtra  
+- Higher Secondary Certificate Examination, (2015) Nashik Board, Shirpur  
+- Secondary School Certification Examination, (2013) Nashik Board, Shirpur  
+
+Personal Details  
+Name: Supriya Anil Salunkhe  
+Contact Details: 9527495002  
+E-mail: salunkhesupriyal9@gmail.com  
+Address: 203/1B/1 Plot no. 33 Shiv-Krupa Nagar, near Thakkar row house, Hirawadi, near Trikoni bungalow, Panchavti, Nashik, Maharashtra, 422003  
+Date of Birth: 19th Jan 1998  
+Hobbies: Watching Movies, Painting, Clay Modeling, Photography  
+
+Declaration  
+I hereby declare that all the above information is true and correct to the best of my knowledge.  
+
+Date:  
+Place:

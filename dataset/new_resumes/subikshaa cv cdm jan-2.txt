@@ -1,0 +1,150 @@
+CONTACT Su
+9
+Plot @ ;
+EXPERIENCE §=—W~—_
+6-Jan-2025 Till today e
+f
+c
+E
+20-Oct-2023 1-Jan- eC
+2025 A
+E
+F
+id
+F
+C
+F
+1
+20-Sep-2021 3-Jun- of
+2023 It
+F
+Subikshaa
+?
+ot no 15, Vetri nagar 2nd street, west tambaram, Chennai 600045
+8825948537
+fuc\
+Easubikshaamahesh1302@gmail.com
+bea
+ath
+G
+(hss
+cu
+Sr BA clinical data management
+Agilisium
+Data Coordinator for Sample Inventory
+* Responsible for the generation of the sample table with the help of lab manual and
+protocol
+* Responsible for end-to-end pipeline and workflow validation
++ Responsible for data syner and upload of documents to EDP
++ Responsible for validation of reports generated from sample inventory
+* Ensure all the samples have been translated into the table
+* Ensure the protocol and lab manual is reviewed for any discrepancies
+*Responsible for data listings review and upload
++ Responsible for mannual and random QC of system reconciliation
++ Responsible for query tracking
+Data and Document Management Analyst
+Accenture Operations
+Experience working as a Data reviewer and Lead Data Manager
++ Experience in handling studies from startup to closeout
+* Responsible for designing CRF and EDS
+* Responsible for validation of EDS and SAS listing Specs
+* Responsible for DTS creation and validatin
+* Experience in data visualization and SDTM data analysis
+* Experience in vendor management
++ Experience in handling various genetic markers, biomarkers, and laboratory data
+* Experience in working on SDTM data sets and issue identification.
+* User level understanding of SAS programming
++ Intermediate level expertise in MS Excel
++ Responsible For Query Management Responsible for SAS Data Listing Review and
+Retrieving
+* Reports On Monthly Basis
+* Responsible For Vendor Data Management (End to End) Responsible for UAT of Edit
+Checks and SAS Listing
++ Experience Working as A Trial Data Manager and Data Reviewer for Multiple Studies
+Responsible for Metrics Creation Responsible for Overall Study Report
+* Creation And Presenting to The Data Team Lead Represents DM Team In CTT and OTA
+Call
+Resolve Issues with Study Team Responsible for Dry Run and LSH refresh During Study
+Timeliness and Resolve the Issues Based on The Reports
+* Responsible for SAE Reconciliation and Pre-advanced (Central Lab Recon)
+* Responsible for TBNK biomarker reconciliation
+* Responsible for DTS creation and validation
+* Responsible for LLR review and data entry
+« Sent Metrics to the study team based on the required frequency.
+* Responsible for validation of UAT during PPC
+* Responsible for audit trial and DDPASS review
++ Presented the study metrics and issue to the study team during DQT and CTT calls.
+* Responsible for meta data checks
+* Responsible for PD Checks review
+» Assignment Clinical Data Coordinator
+IQVIA
+Responsible for query handling on daily basis.
+* Responsible for SAS listing.
+* Experience in RAVE and Inform.
+* Responsible for ADMS and Non ADMS listings.
+* Responsible for protocol deviation review.
+* Responsible for vendor data reconciliation.
+* Responsible for data cleaning activities during the conduct and closeout.
+* Responsible for QC of data during IA and closeout data transfers.
+«Responsible for validation of documents during the start up of the study.
++ Responsible for validation of SAS listinga before entering production
+2-Nov-2020 2-Sep- « Safety Associate Trainee
+2021 IQVIA
+Responsible for case end to end case peocessing with in the regulatory timelines.
+Responsible for lot analysis of
+biological products. Responsible for NACK and DCR corrections. Responsible for narrative
+writing. Responsible for
+submition the cases with contemporary and regulatorycompliance. Responsible for training
+the new associates to the
+project requirements. Responsible for log data entry and QRE of the cases. Worked on
+sapphire and argus data base.
+Responsible for query management and followup. Experience as a workflow SUbject Matter
+Expert(SME). Responsible for
+training the new hires on case related activities. Responsible for running and maintaining
+reports for inspection
+readiness.
+EDUCATION = ————____—————— I
+2016 to 2020 ¢ Kalasalingam Academy of research and education
+B tech biotechnology
+8.37
+2016 e PSG sarvajana Higher secondary School
+HSC
+67
+SKILLS © tl O
+¢ Clinical data management
+« Vendor data management
+« Discrepency management
+« UAT testing
+« Excel proficiency
+e JIRA
+« JReview
+CERTIFICATION =—§
+« Certified Scrum Master
+ACHIEVEMENTS & AWARDS =§ eee
+e Recieved appreciation for successfully completing interim analysis woth submission quality
+Recieved appreciation form client for successful upgradation of EUCTR and intermin
+analysis with stringent timeline Made a place in the wall of fame of IQVIA for the month of
+June (internal) Selected as an internal SME for followup related activities Recieved
+spotlight award for achieving a successful IA data transfer by working closely with BIOS and
+DM team Recieved ovation award for achieving successful IA, validation of SAS listings and
+vendor data recon while handling multiple deliverables at the same time Won 2nd prize in
+paper presentation Event name: Biomasteros Venue: KARE Won 2nd prize in quiz Event
+name : Biomasteros Venue: KARE Won 1 st prize in technical clue and tresure hunt Event
+name : National technical symposium on presonalized medicine Won 2nd prize in paper
+presentation Event name : National technical symposium on personalized medicine
+PLATFORMS WORKED ON = ————_______
+« Medi data RAVE EDC
+Medi data RAVE (Classic) EDC
+Inform EDC
+Sapphire Safety data base
+Argus safety data base
+Veeva vault (automatic case loading safety data base)
+JIRA
+EDP
+PERSONAL PROFILE
+PERSONAL PROFILE = — $$$
+e Date of Birth : 13/02/1999
+¥ Marital Status : Unmarried
+V Nationality : Indian
+v Languages : English, Tamil, Malayalam
+V Hobby : Art and craft, origami, embroidery

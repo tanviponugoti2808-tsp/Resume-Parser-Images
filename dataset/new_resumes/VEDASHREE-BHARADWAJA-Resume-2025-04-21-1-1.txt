@@ -1,0 +1,82 @@
+VEDASHREE BHARADWAJA
+& +91 77957 34492 © Bangalore, India vedashreebharadwaj@gmail.com ff Linkedin
+Strategic and quality-driven Senior Clinical Data Manager with nearly 10 years of experience, including 8+
+years in end-to-end Clinical Data Management (CDM) across global clinical trials. Proven track record of
+driving process improvements, mentoring new hires, and ensuring data quality and compliance in high-
+stakes therapeutic studies. Adept at using Medidata Rave, Oracle Clinical One, ArisG, Medrio, and HP-ALM.
+Recognized for streamlining data cleaning workflows and reducing errors through efficient training, SOP
+development, and validation rule libraries.
+CORE COMPETENCIES
+* End-to-End Clinical Data
+* Study Start-up & Database
+* SAE & Vendor Reconciliation
+Management
+Build
+« CDISC Standards (SDTM,
+* eCRF & DVR Specifications
+* SOP & Training Development
+ADaM)
+¢ Tools: Medidata RAVE, Oracle
+¢ Therapeutic Areas: Oncology,
+* Query Management & Data
+Clinical One, ArisG, DMW, HP-
+Psychiatry, Cardiovascular,
+Cleaning
+ALM, Medrio
+Gastroenterology
+PROFESSIONAL EXPERIENCE
+Sr. Clinical Data Coordinator, Ephicacy
+07/2024 present Bangalore, India
+* Manage data cleaning, query resolution, and listing reviews for a Gastic Cancer (CLAUDIN 18.2-TAC T-Cell
+Therapy) clinical trial.
+* Design interactive training materials and job aids to elevate onboarding experience and quality adherence
+for new hires.
+* Conduct hands-on sessions and reviews to ensure SOP compliance and study-specific protocol integrity.
+Sr. Clinical Data Manager, Excelya
+01/2023 07/2024 Bangalore, India
+* Delivered complete CDM solutions using Oracle Clinical One and DMW across multiple oncology studies.
+* Authored eCRF, DVR, and Protocol Deviation Specifications, ensuring delivery within Project Management
+Plans.
+* Developed and reviewed test scripts and guidelines for UAT, built CDISC-based libraries to standardize
+validation rules.
+¢ Acted as SME and conducted knowledge forums and cross-functional training for compliance
+enhancement.
+Business Process Lead ~ Clinical Data Management,
+07/2021 12/2022 Bangalore, India
+Tata Consultancy Services (TCS)
+¢ Led SAE and vendor reconciliation across studies in Schizophrenia, Hypertension, and Crohn’s Disease.
+¢ Performed data migration and lab data analysis while ensuring GCP adherence and protocol compliance.
+* Delivered impactful training sessions and managed project timelines and stakeholder communication.
+Clinical Data Specialist, /QV/A
+05/2017 06/2021 Bangalore, India
+* Managed concurrent clinical studies while leading SAS-based validation, testing, and backend quality
+control.
+* Trained new team members in EDC platforms, regulatory compliance, and HP-ALM workflows.
+¢ Ensured adherence to GCP and internal SOPs across global oncology studies.
+Scientific Research Analyst, Molecular Connections
+05/2015 12/2016 Bangalore, India
+¢ Conducted literature review and database creation as SME in antioxidants and phytochemistry.
+* Led protocol verification and training initiatives, ensuring data integrity and operational consistency.
+KEY ACHIEVEMENTS
+e
+Reduced query resolution time by 20% through streamlined processes.
+Managed 15+ clinical studies, achieving 100% timeline compliance.
+e
+Trained and mentored 25+ new hires, achieving full SOP and quality alignment.
+°
+Improved data accuracy by 15% via SAE/vendor reconciliation efforts.
+Built a standardized library of validation rules/forms using CDISC, enhancing study build efficiency.
+EDUCATION
+Master’s in Biotechnology, Jain University
+2012 2014 Bangalore, India
+Bachelor’s in Biotechnology,
+2008 2011 Bangalore, India
+BMS College (Bangalore University)
+TOOLS & PLATFORMS
+« Medidata RAVE « Oracle Clinical One + ArisG * DMW + HP-ALM « QTest « Medrio + SAS » CDISC Standards
+Soft Skills & Leadership
+* Team Leadership, Cross-Functional Collaboration, Training & Mentoring, Attention to Detail, Written &
+Verbal Communication
+CERTIFICATIONS
+¢ Microsoft Excel Certification Expected Jun 2025
+* Power BI Certification — Expected Jun 2025

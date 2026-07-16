@@ -1,0 +1,82 @@
+VIOLI
+vi
+
+Summary
+Experienced Sr. Clinical Data Analyst with a proven track record in maintaining compliance with GCP standards and executing comprehensive data management tasks. Demonstrated expertise in data validation, user acceptance testing, and addressing data discrepancies. Adept at collaborating with project teams to ensure data accuracy and quality control.
+
+Experience
+Fortrea Bengaluru, India
+Sr. Clinical Data Analyst
+12/2022 - Current
+Labcorp Bengaluru
+Clinical Data Associate II
+05/2021 - 10/2022
+Covance Bengaluru
+Associate Clinical Data Analyst
+04/2019 - 04/2021
+
+- Maintained compliance with specific GCP standards, global harmonized SOPs and relevant protocols for every project handled.
+- Executed comprehensive data management tasks, including data review and query handling to meet quality standards within deadlines.
+- Evaluated clinical study information using Edit Check Specifications, Data Review plans and eCRF guidelines.
+- Addressed problematic data by generating, resolving, and tracking relevant queries in aggregate data reviews.
+- Implemented special listings and reconciliation discrepancy listings for data verification.
+- Collaborated with project team to handle data management setup, maintenance, and closure.
+- Generated test data to evaluate database screen design and functionality.
+- Generated study status reports and performed database extracts.
+- Facilitated completion of Database Lock responsibilities.
+- Facilitated training sessions for new recruits on data management procedures.
+- Consistently reviewed and addressed queries while providing timely database updates.
+- Carried out user testing as per the requirements of the Validation Plan in relevant data management environments.
+- Flagged significant data discrepancies and performed comprehensive quality control reviews.
+- Synchronized project documentation, reports, and listings with the EDC database to guarantee data management accuracy.
+- Addressed issues with CRF and Database quality control processes, communicating them to the Lead CDA/Data Manager.
+- Systematically recorded discrepancies in electronic CRF and vendor data.
+- Facilitated decommissioning and archiving processes in study close-out phases.
+- Reviewed ongoing queries and updated database per Data Management Plans and standardized tasks.
+- Carry out UAT based on prescribed Validation Plan for designated Data Management systems.
+- Generated and resolved queries to address inconsistencies in data.
+
+Therapeutic Areas
+- Genetic Disorders (Pre-Phase II)
+- General Hormonal (Phase II)
+- Oncology (Phase IV Observational)
+- Oncology (Phase 1)
+- Neurology: Genetic Disorders: Phase III
+
+System Experience
+- TrialMaster Omnicomm: 2 years of experience
+- Inform (Oracle Health Sciences): 3.6 years of experience
+- Medidata Rave: 6 months of experience
+- Veeva: 1 month of experience
+
+Skills
+- Data Validation
+- User Acceptance Testing
+- Microsoft Excel
+
+Languages
+- Konkani: First Language
+- English: Proficient
+- Kannada: Intermediate
+- Hindi: Advanced
+- Bengali: Basic
+
+Education
+St. Aloysius College, Mangalore, KA
+Master of Science in Biotechnology
+2018
+
+Mount Carmel College, Bengaluru, KA
+Bachelor of Science in Biotechnology, Chemistry and Botany
+2016
+
+eCRF review manual.
+- Analyzed reports and implemented corresponding measures from the eCRF review manual.
+- Collaborated with EDC vendor to obtain necessary technical support.
+- Facilitated decommissioning and archiving tasks.
+- Provided Project Managers with essential data for user access evaluation and data cleaning.
+
+Experience
+- Excellent communication
+- Teamwork and collaboration
+- Data decommissioning and archiving

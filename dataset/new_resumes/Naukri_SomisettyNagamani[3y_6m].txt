@@ -1,0 +1,65 @@
+NAGAMANI SOMISETTY
+Clinical Data Analyst
+Bengaluru, India > snmani2023@gmail.com © LinkedIn > (+91) 7032062261
+[PROFESSIONAL SUMMARY
+Clinical Data Analyst with 2+ years of experience in oncology-focused healthcare data analysis. Proven expertise in
+real-world data (RWD) extraction, validation, and analysis to support clinical research and decision-making. Strong
+background in EHR data, biomarkers, NGS reports, adverse event analysis, and SQL-based data querying. Adept at
+ensuring high data quality, regulatory compliance, and actionable insights across multiple cancer cohorts.
+IKEY SKILLS
+Clinical Data Analysis, Healthcare Data Analyst, SQL, Real World Data (RWD), Oncology Data, Biomarkers, NGS,
+Data Validation, Data Quality, Excel, HIPAA, Clinical Research
+PROFESSIONAL EXPERIENCE
+ConcertAJ, Bangalore
+Clinical Data Analyst, Oncology, RWD Jul23 — Present
+Analyzed large-scale real-world patient data (RWD) from platforms such as EMOL Health and CancerLinQ to
+identify trends, patterns, and clinically meaningful insights.
+Supported research across multiple cancer cohorts including Breast, Colorectal, Gastroesophageal, Lung,
+Pancreatic cancers, and Melanoma.
+Extracted, structured and analyzed biomarker and Next-Generation Sequencing (NGS) data for downstream
+analytics and research insights.
+Applied inclusion—exclusion criteria, analyzed adverse events (AE) and hospitalizations and medications
+within EHR-based abstraction tools (Tenor, Soprano).
+Performed data validation and quality checks to ensure high analytical accuracy.
+Collaborated with cross-functional stakeholders and external partners on oncology RWD initiatives.
+Ensured compliance with HIPAA, CITI, and institutional data privacy standards.
+Navya Care, Bangalore
+Clinical Analyst, Oncology Aug 22 — Jun 23
+Analyzed oncology patient medical records and indexed structured clinical data into internal systems.
+Prepared case summaries and supported clinical research documentation and expert reviews.
+Managed end-to-end case workflows with a focus on data accuracy and timely delivery.
+Addressed clinical and non-clinical patient and caregiver queries through inbound and outbound
+communication.
+Interpreted clinical evidence and contributed to research-oriented data preparation.
+Ensured effective communication and resolution of patient-related concerns.
+Omega Healthcare Management Services
+Medical Coder and Biller Aug 21 — Mar 22
+e
+Mapped clinical documentation to standardized coding systems (ICD-10-CM, CPT).
+e
+Reviewed records for billing accuracy, insurance compliance, and regulatory adherence.
+TECHNICAL SKILLS
+e Ensured high data accuracy and documentation quality.
+TECHNICAL SKILLS
+SQL (Intermediate) — Data querying, filtering, aggregation, joins, subqueries, and data validation for
+healthcare datasets
+MS Excel: Advanced formulas, data cleaning, analysis
+MS PowerPoint (Scientific & business presentations)
+EHR Systems and Clinical Databases
+Clinical Data Management (EDC, CRF, eCRF, SAE Reconciliation)
+e Data Quality Control & Validation
+CERTIFICATIONS & AWARDS
+e Partner Appreciation Award — 0.99 quality score across oncology cohorts
+Clinical Research & Clinical Data Management Certification — Avenida Academy
+ICH-GCP Certification — NIDA Clinical Trials Network
+Introduction to Clinical Research — Global Health Network
+NPTEL Certification — Experimental Biotechnology (2022)
+Workshop on Laboratory Animal Management & Breeding (2023)
+EDUCATION
+e Master of Pharmacy (Pharmacology) June 2023
+¢ Bachelor of Pharmacy July 2021
+ACADEMIC PROJECTS & ACHIEVEMENTS
+Participated in National Symposium on Management of Neurological Disorders, NIPER Guwahati (2022)
+M.Pharm Project: Ameliorative Effect of Zingerone Against Aluminium Chloride-Induced Alzheimer’s Disease
+in Male Wistar Rats — In vivo & In silico studies
+B. Pharm Project: Questionnaire-based survey on symptoms following COVID-19 vaccination

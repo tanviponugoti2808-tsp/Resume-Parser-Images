@@ -29,6 +29,8 @@ dataset/text/
 dataset/debug_layout.png
 dataset/split/left.png
 dataset/split/right.png
+dataset/new_resumes
+dataset/new_normalized_text
 
 # Excel files
 *.xlsx

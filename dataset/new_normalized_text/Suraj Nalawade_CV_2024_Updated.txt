@@ -1,0 +1,130 @@
+Mr. Suraj Nalawade  
+Email: surajnalawade2381997@gmail.com  
+LinkedIn: linkedin.com/in/suraj-nalawade  
+Mob: +91-9921982918 / 7558589335  
+Permanent Address: A/P: Virali, Tal- Man, Dist- Satara, Maharashtra 415540  
+
+Career Objective  
+To pursue a challenging career in an organization with an environment that encourages creativity, teamwork, and provides excellent growth opportunities.  
+
+Professional Summary  
+Highly analytical and result-oriented Clinical Data Manager with over 4 years 9 months of hands-on experience in Clinical Trials Set-Up, Conduct, and Close-Out activities. Recognized as an efficient team player with a proven ability to excel in fast-paced environments while maintaining high standards of quality. Possesses exceptional multitasking skills and a keen eye for detail. Seeking a challenging position within an organization where my profound technical and analytical skills can be leveraged to ensure the effective execution of Clinical Data Management processes.  
+
+Employment History  
+* Tata Consultancy Services (Aug 2019 - Oct 2021)  
+  Job Title: Clinical Data Manager  
+  Therapeutic Area Experience: Oncology  
+
+* IQVIA (Nov 2021 - Till Date)  
+  Job Title: Clinical Data Specialist  
+  Therapeutic Area Experience: Oncology, Dermatitis, Osteoarthritis, Respiratory  
+
+Work Experience  
+Tata Consultancy Services:  
+- Performed data management activities as assigned, ensuring timely and efficient management.  
+- Performed query management activities, allocation of queries, and maintaining query closure SLA.  
+- Conducted daily query management.  
+- Handled lab data entry and ensured SLA was met, highlighting if lab values were missing or had unit mismatches.  
+- Performed eTMF review monthly to check if any new LNV was uploaded by the site and pending from DM.  
+- Conducted third-party reconciliation, SAE reconciliation, and manual data review.  
+- Conducted SDTM check review.  
+- Generated coding queries from TMS and queried them in EDC.  
+- Performed activities specified by the Medical Monitor.  
+- Provided accurate project metrics to effectively manage the progress of assigned projects. Also prepared KPI reports to understand the status of assigned projects.  
+- Performed final cleaning as per timelines.  
+- Conducted database pre-lock checklist review and adhered to timelines for relevant documentation activities.  
+- Managed and reviewed data per LDM instructions for interim analysis and data lock.  
+
+IQVIA:  
+- Served as DOC or backup to a Data Operations Coordinator.  
+- Extensively worked on Study Set-Up, Conduct, and Close-Out activities.  
+- Performed data management activities to ensure accurate, consistent, and complete clinical databases.  
+- Conducted manual data review and issued queries on the system.  
+- Reconciled external data such as central lab data and Serious Adverse Event Reconciliation.  
+- Maintained subject tracker and DM status reports.  
+- Trained and mentored team members on various activities like listing and query review, SAE reconciliation, vendor reconciliation, etc.  
+- Participated in various training and knowledge-sharing sessions.  
+- Maintained all supporting documentation in accordance with SOPs, Work Instructions, and Guidelines to ensure traceability and regulatory compliance.  
+- Performed quality reviews and appropriately identified all issues.  
+- Conducted ADMS review.  
+- Reviewed DR listings using the DR module.  
+- Performed POC roles for different study activities like vendor reconciliation, SAE reconciliation, and also performed QC of vendor logs.  
+- Coordinated with DML (Data Manager Lead), DBD (Database Developer), and SMM (Study Medical Manager) as needed to ensure efficient and high-quality management of assigned trials.  
+- As a Study DOC, worked on helping and training other team members about study activities and process knowledge.  
+- Performed freezing, locking, and unlocking activities as per study requirements.  
+- Filed DHE for irreconcilable issues.  
+- Involved in total 4 interim analyses, 3 DBLs, and 1 migration.  
+- Shared EDC status reports and CPT on a daily basis during study timelines.  
+
+Highlighted Competencies:  
+- Good conflict management and prioritization skills.  
+- Project Management: Ability to manage multiple studies simultaneously and under pressure.  
+- Ability to establish and maintain effective working and good communication relationships with coworkers, managers, and clients.  
+
+Work Achievements & Rewards:  
+- IQVIA Spotlight and Ovation Award (2024)  
+- IQVIA Bronze Award (2023)  
+- IQVIA Bronze Award (2022)  
+- TCS Star Performer Award  
+
+Skills:  
+CDM Domain Skills:  
+- Query Management, Test Data Entry, Data Listings Analysis in RAVE  
+- Data Validation through SAS Listings  
+- SAE Reconciliation through SARA Tool  
+- External Data Reconciliation  
+- Creation of Edit Check Specification and UAT  
+
+Proficient at using MS Office tools.  
+- Managing Study Activities as Study Lead for all three phases  
+
+Soft Skills:  
+- Good Team Player  
+- Leadership  
+- Adaptability  
+- Positive Attitude  
+
+Technical Expertise:  
+- MS Excel  
+- Power Point  
+- RAVE  
+- RAVE X  
+- INFORM  
+- eTMF  
+- ADMS  
+- DR Module & Issue Navigator  
+
+Academic Qualification:  
+Year | Board/University | Percentage  
+---|---|---  
+B. Pharm | ACOP, VITA | First Class with Distinction  
+Shivaji University, Kolhapur | 2018-19  
+HSC | J.N.V. Zare, Kolhapur Board | First Class  
+2014-15  
+SSC | J.V.V. Virali, Kolhapur Board | First Class with Distinction  
+2012-13  
+
+Extra-Curricular:  
+- NSS  
+
+Co-curricular Activities:  
+- Completed industrial training at IDOMAX CHEMICALS VIJAPUR VES, Miraj  
+- Completed medical training at Sangeeta Medical, Zare  
+- Completed pathological training at Jyoti Laboratory, Dahiwadi  
+- Attended 69th IPC at Chandigarh  
+- Participated in district-level Avishkar poster presentation competition held at Tasgaon  
+- Attended seminar on the importance of Pharmacovigilance, its scope, and future opportunities at Peth Vadgaon  
+- Attended national conference on emerging prospects in the pharmaceutical field at Pune  
+- Attended state-level conference on recent job avenues for Pharma graduates at Shahu Kala Mandir, Satara  
+
+Project Work:  
+"Formulation and Evolution of Herbal Mouth Dissolving Tablet from Achyranthus Aspera."  
+
+DECLARATION:  
+I hereby declare that the above-mentioned particulars are true to the best of my knowledge. I assure you that I will discharge my duties to the entire satisfaction.  
+
+Date:  
+Place:  
+
+Thanks & Regards  
+Suraj Nalawade

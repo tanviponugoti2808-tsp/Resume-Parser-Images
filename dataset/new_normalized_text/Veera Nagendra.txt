@@ -1,0 +1,49 @@
+Katam Veera Nagendra  
++91-9900981130  
+veeranagendra.k@gmail.com  
+
+EDUCATION  
+B.Sc. from S.R.N. Institute of Technology, Babanayya National Institute of Technology, Krishnadevarayal University, Guntur (2005)  
+
+CORE COMPETENCIES  
+Clinical Data Management  
+Project Management  
+Cross-Functional Team Collaboration  
+Regulatory Compliance  
+Standards  
+Stakeholder Engagement  
+Techniques  
+Quality Assurance Protocols  
+Continuous Improvement  
+Process Improvement  
+Strategies  
+People Management  
+
+PROFILE SUMMARY  
+A result-oriented professional with nearly 14 years of rich experience in Project Management, including setting up and implementing end-to-end data management activities. Led migration studies, analyzed risks, and ensured data quality during platform transitions, while managing and monitoring data to ensure compliance throughout the migration process. Facilitated team meetings, fostered an environment for sharing experiences, and administered day-to-day challenges to streamline processes. Recognized for exceptional problem-solving abilities, effectively addressing complex data management challenges and implementing innovative solutions that streamline workflows and enhance project outcomes. Demonstrated technical leadership, taking responsibility for overseeing project execution and guiding the overall process. Fostered a positive and inclusive team culture, promoting collaboration, innovation, and continuous improvement; maintained a high level of motivation and morale within the team, recognizing and celebrating individual and collective successes.  
+
+WORK EXPERIENCE  
+Zonoseq Biotech Pvt. Ltd. | Bangalore  
+Team Lead  
+Key Result Areas:  
+Drove study-level expertise and played a pivotal role in Clinical Trial Teams (CTTs), ensuring high-quality execution. Provided strategic insights and actionable recommendations in Data Conformance and Data Availability meetings. Architected study databases, developed robust edit check programs, and led comprehensive User Acceptance Testing (UAT) to ensure data integrity. Spearheaded team meetings, one-on-one coaching, and study status discussions to optimize project outcomes. Guaranteed on-time study delivery while maintaining strict adherence to scope, quality standards, and budgetary constraints. Established and refined departmental specifications, offering expert guidance for outsourced clinical trials. Administered trial documentation with precision, ensuring compliance and seamless record management. Forged strong collaborations with external data providers to streamline the integration of third-party study data. Demonstrated expertise in metadata management, assessing the impact of data elements and ensuring optimal data governance. Proactively identified potential risks, implemented mitigation strategies, and escalated critical issues to management. Led structured mentoring programs for new team members, accelerated their learning curve, and enhanced overall team performance. Resolving issues and managing increasing complexity by leveraging new knowledge, professional skills, and resourceful solutions in programming, technology, and project leadership. Executing tasks within established timelines, adhering to departmental procedures and project contracts. Resolving conflicts and driving engagement by implementing effective problem-solving strategies, fostering a positive work environment, and using motivation techniques to enhance productivity. Building high-performing teams by fostering collaboration and accountability while managing team performance through goal setting, continuous feedback, and coaching.  
+
+Research India Pvt. Ltd. | Bangalore  
+Associate | Data Lead  
+Key Result Areas:  
+Developed a comprehensive data management plan, project roadmap, activity timelines, and budgeting framework. Created and maintained critical study documents, including annotated CRFs, database structures, and data validation plans. Designed and implemented study databases, program robust edit checks, and conducted thorough User Acceptance Testing (UAT). Generated detailed study status reports to track progress and ensure transparency. Drove on-time study delivery while maintaining strict adherence to scope, budget, and quality standards. Ensured optimal resource allocation and availability to meet project demands efficiently. Tracked and maintained study metrics daily, monitoring progress and identifying areas for improvement. Led team meetings, one-on-one discussions, and study status meetings to enhance coordination and execution. Spearheaded structured mentoring programs to onboard and develop new team members. Built and sustained strong relationships with clients and key stakeholders, ensuring smooth collaboration. Applied risk management techniques to minimize study-related challenges and ensure project stability. Monitored project performance using advanced tools and methodologies to drive continuous improvement.  
+
+Novartis Healthcare | Hyderabad  
+Senior Clinical Standards Specialist  
+Key Result Areas:  
+Developed and managed metadata, including domains, variables, and edit checks, ensuring data consistency and integrity. Reviewed study protocols and design case report forms (CRFs) using structured metadata. Planned and budgeted study activities, ensuring alignment with project goals and financial constraints. Attended study governance and global governance meetings to secure approvals for studies and global clinical data standards. Skilled in configuring and applying the CDISC SDTM model, including Events, Findings, Interventions, and Special Purpose domains, and utilizing Open CDISC for validation. Modified code and generated CDISC-compliant datasets to meet regulatory and compliance standards.  
+
+Accenture Services Pvt. Ltd. | Hyderabad  
+Senior Clinical Database Programmer  
+Key Result Areas:  
+Developed and oversaw the study project plan, ensuring seamless execution and monitoring of study activities. Strategically allocated resources based on projected study demands and activity forecasts. Led one-on-one meetings and study status meetings to track progress and address key updates. Participated in client discussions to review study requirements, status updates, challenges, and other critical aspects. Ensured high-quality deliverables for both internal and external studies, maintaining compliance with industry standards. Developed SDTM domains in alignment with CDISC SDTM standards to ensure regulatory compliance and data consistency.  
+
+Andronovos Labs Pvt. Ltd. | Hyderabad  
+Senior Clinical Database Programmer  
+Key Result Areas:  
+Developed essential study documents, including annotated CRFs, database structures, and data validation plans. Designed and built study databases, program edit checks, and executed User Acceptance Testing (UAT) for databases and edit checks. Diagnosed and resolved study database issues, EDC study challenges, and other technical concerns to ensure smooth operations.

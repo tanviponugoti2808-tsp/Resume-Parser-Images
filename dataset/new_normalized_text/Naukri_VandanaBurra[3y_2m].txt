@@ -1,0 +1,78 @@
+BURRA VANDANA  
+Bengaluru, India  
++91 84649 65948 vandanaburral42@gmail.com  
+
+PROFESSIONAL SUMMARY  
+Clinical Data Services professional with experience in CTMS, Veeva Vault, and Master Data Management (MDM) supporting global clinical trials. Experienced in clinical trial data setup, quality assurance, governance activities, and medical data annotation for AI-based healthcare products. Strong background in QA activities, documentation, and cross-functional collaboration in compliance-driven environments.  
+
+PROFESSIONAL EXPERIENCE  
+Clinical Data Services Associate  
+Accenture Solutions Pvt. Ltd., Bengaluru  
+Project: Novartis Clinovate  
+- Performed initial data setup at the start of trials, countries, and sites  
+- Maintained and updated CTMS data throughout the clinical trial lifecycle  
+- Ensured accurate and timely setup and maintenance of data for in-house and outsourced studies  
+- Coordinated with Novartis clinical trial teams to ensure CTMS data accuracy  
+- Proactively validated trial information against CTMS data across all trial phases  
+- Created, updated, and managed work packages, milestones, and enrollment data  
+- Managed Trial Portal information and supported portal launch activities  
+- Conducted kickoff meetings with clinical trial teams and coordinated with Drug Development teams  
+- Established standardized definitions for critical data entities such as principal investigators, adverse events, and patients, investigators, sites, and study teams  
+- Supported Master Data Management (MDM) governance, data quality reviews, and stewardship workflows  
+- Performed data quality analysis, de-duplication, and data improvement activities  
+- Managed the lifecycle of master data including creation, updates, and deactivation  
+- Communicated with stakeholders and governance boards for approvals and standards alignment  
+
+Clinical Data Analyst  
+Accenture Solutions Pvt. Ltd., Bengaluru  
+Project: Novartis Clinovate  
+- Ensured end-to-end CTMS data quality and accuracy at trial, country, and site levels  
+- Performed accurate and timely setup of clinical activities and timelines for in-house and outsourced studies  
+- Maintained and monitored trial data change request queues  
+- Gained a strong understanding of the Novartis Clinical Trial Process (CTP)  
+- Worked with IMPACT and Horizon applications for clinical trial data management  
+- Updated and maintained business process documentation  
+- Supported training activities and operational documentation  
+
+Medical Data Annotator  
+Artivatic Data Labs Pvt. Ltd., Bengaluru  
+- Worked on medical datasets and annotations for NLP models and AI-based healthcare products  
+- Annotated and labeled medical and clinical text data according to defined annotation guidelines  
+- Performed quality assurance (QA) activities to ensure annotation accuracy and consistency  
+- Reviewed annotated data and resolved discrepancies in collaboration with internal teams  
+- Supported preparation of high-quality training data for machine learning and NLP pipelines  
+
+EDUCATION  
+Bachelor of Pharmacy  
+Viswanadha Institute of Pharmaceutical Sciences  
+CGPA: 7.53  
+Jun 2018 — Jun 2022  
+
+SKILLS  
+Clinical & Data Skills  
+- Clinical Trial Management Systems (CTMS)  
+- Clinical Data Management  
+- Data Quality Checks and Analysis  
+- SAE Reconciliation  
+- Risk Management  
+- Document Quality Review  
+
+Tools & Technologies  
+- Veeva Vault  
+- Master Data Management (MDM)  
+- Horizon  
+- IMPACT  
+- GEMS  
+- Reltio  
+- Reference Data Tools  
+- Advanced Microsoft Excel  
+- Microsoft Word and PowerPoint  
+- Clinical SAS Programming (Basics)  
+
+AWARDS  
+Core Value Champion Award  
+Accenture Solutions Pvt. Ltd.  
+Awarded for fostering and demonstrating Accenture’s core values.  
+
+LANGUAGES  
+English, Hindi, Telugu

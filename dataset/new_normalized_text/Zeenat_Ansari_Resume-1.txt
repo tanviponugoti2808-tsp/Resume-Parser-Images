@@ -1,0 +1,71 @@
+Zeenat Jahan Bashir Ansari  
+Clinical Data Management Associate  
+Navi Mumbai, India  
++91 9833018232 | zeenat.ansaril020@gmail.com | LinkedIn: https://www.linkedin.com/in/zeenat-ansari-96028  
+
+PROFESSIONAL SUMMARY  
+Clinical Data Management Associate with hands-on experience in oncology clinical trials. Expertise in eCRF review, query management, SAE/ADR and external data reconciliation. Knowledge of ICH-GCP and Good Documentation Practices (GDP). Experienced in collaborating with cross-functional teams to ensure accurate, compliant, and high-quality clinical trial data.  
+
+TECHNICAL SKILLS/TOOLS  
+Technical Skills: Query Management, External Data Reconciliation, SAE Reconciliation, Check Requirement Review, CRF Review, Good Documentation Practices (GDP), Data Validation, Data Cleaning, Problem Solving, Time Management, Coordination, Adaptability  
+Tools: Medidata Rave, SQL, Power BI, MS Excel, MS Word, MS PowerPoint  
+
+EXPERIENCE  
+Tata Consultancy Services (TCS), Thane, India  
+Clinical Data Management Associate  
+Dec 2024 – Present  
+- Handle query data review (QDR), manual data cleaning, and study snapshot activities in Medidata Rave for oncology trials, ensuring high data quality, timeline adherence, and readiness for downstream deliverables.  
+- Prepare DCP listings and weekly study status reports, providing CTMs and CRAs with clear visibility into study progress, open issues, and data trends.  
+- Perform tumor assessment listings and IRT reconciliation, independently identifying discrepancies and driving them through to resolution in collaboration with investigative sites, pharmacovigilance, and coding teams.  
+- Act as a key contact for data-related queries, working closely with Trial Data Managers and cross-functional teams while ensuring compliance with GDP and ICH-GCP guidelines.  
+- Proactively review data trends, raise potential risks early, and resolve inconsistencies to minimize impact on data quality.  
+- Recognized and appreciated by Trial Data Managers and Study Physicians for accurate and timely data cleaning across 4 study snapshots.  
+
+Clinical Research Solutions LLP, Navi Mumbai  
+Medical Writer Intern  
+Jul 2024 – Jul 2024  
+- Assisted in literature reviews using PubMed and ClinicalTrials.gov to support medical writing deliverables.  
+- Reviewed research material for scientific accuracy to ensure alignment with project goals and brief.  
+- Interpreted data to meet client or author requirements.  
+
+EDUCATION  
+Master of Pharmacy (Pharmacology)  
+Dr. Babasaheb Ambedkar Marathwada University  
+CGPA: 7.94  
+Bachelor of Pharmacy  
+University of Mumbai  
+CGPA: 8.53  
+Advance Diploma in Clinical Research  
+CliniLaunch Research Institute  
+2018 – 2022  
+
+PROJECTS  
+Nephroprotective Effect of Glucosamine in Cadmium Chloride-Induced Kidney Injury in Rats (Postgraduate Project)  
+- Conducted animal studies on 40+ rats to evaluate glucosamine’s protective effect on kidney function using biochemical and histopathological assays.  
+
+Analytical Process Development for Perfumery Products (Undergraduate Project)  
+- Extracted Cis-3-hexanol from green leaf and estimated using GC-MS, ensuring precise and accurate results aligned with project objectives.  
+
+CERTIFICATIONS  
+- SQL Fundamentals / Oracle SQL  
+- Advanced Excel – Pivot Tables, VLOOKUP, Formulas  
+- ICH-GCP Certification – National Institute on Drug Abuse (NIDA), Centre for Clinical Trials (2027)  
+- Pharmacovigilance Aggregate Reports Course – Uppsala Monitoring Centre  
+- German Language (A2)  
+
+ACHIEVEMENTS  
+- Received appreciation from TDM and Study Physician for accurate and timely data cleaning of study snapshots.  
+- Achieved Distinction in M. Pharmacy (2024).  
+- Achieved Distinction in B. Pharmacy (2022).  
+- Qualified Graduate Pharmacy Aptitude Test (GPAT): All India Rank 668.  
+
+PUBLICATIONS  
+- Nephroprotective Potential of Glucosamine Against Cadmium Chloride-Induced Kidney Injury  
+- Nano Biosensors: Current Developments & Uses  
+- Quantum Dots and Their Multimodal Applications: An Overview  
+
+LANGUAGES PROFICIENCY  
+- English  
+- Hindi  
+- Marathi  
+- German (A2)

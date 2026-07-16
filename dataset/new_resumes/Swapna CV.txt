@@ -1,0 +1,185 @@
+SWAPNA KALIDHINDI
+I
+© Swapna!kalidhindi@gmail’co
+im)
+19948359054]
+ABOUT ME
+Tam a clinical data manager with close to 9 years of expertise in Clinical data management. I am well versed in all
+the processes and workflow of Clinical data management operations on both EDC and paper-based clinical trials. I
+have good knowledge and exposure to EDC systems: Medidata Rave, Oracle Clinical (classic and RDC), Data
+labs and Inform.
+Currently holding a Subject matter expert role for Third-party Data handling, Data transfer specification
+and Local lab for OC-RDC studies.
+Study Start-up: Built the study databases for 2+ Oncology trials. I have good expertise in study database
+build that involves Protocol finalization, CRF design and finalization (Standard and Study-specific), created
+strategies for form level and field Level dynamics, Edit checks creation (global, study-specific, simple,
+custom functions, derivations etc.), end-to-end UAT, rule-file development, ALS review and preparation of
+the study go-live documentation as per TMF Guidelines.
+Study Conduct: Performed Query management, reports creation and review, and Reconciliation of various
+records, i.e., ECG Reconciliation, Biomarker data reconciliation, PK reconciliation, SAE Reconciliation,
+Lab data reconciliation, imaging data reconciliations. I also created study metrics through visualization by
+including several snapshots and other deliverables.
+Study Close-out: I have locked 3 studies (OCRDC and Rave) and performed all the final reconciliation
+activities of all the necessary critical checks for the successful database lock.
+[WORK EXPERIENCE
+04/2023 —
+Senior Clinical Data Specialist, Fortrea Development Pvt Ltd, Bengaluru.
+05/2024
+°
+Handling 3+ trials in Oncology and early development study from setup to
+closeout.
+Provide leadership for data management team on allocated trials.
+Develops, maintains & manages the Data Transfer Specifications (DTS) and Data
+Quality Review Plan (DQRP) for assigned trials.
+Providing input in writing the study specific validation checks and necessary
+reports to ensure high quality and consistent data.
+Review and contribute to preparation of protocols, specifically related to the data
+management section, visit schema and study design with supervision
+Support and assist data management staff for allocated trials.
+Review protocols for proper data capture including Case Report Form design.
+e Able to perform a thoroughly detailed review of eCRF
+e Leads team and coordinates the testing of clinical study
+according to company standards. Able to resolve datab:
+e Prepare Data Transfer Agreement/Specifications with \
+e alignment from the study CTT for all the Third-party d:
+e Implement, guide and conduct workshops for Trail datz
+e setup and development as DTS Champion for DM Clus
+e Effectively discuss the data cleaning and data Issue stat
+Data Manager and also involves and coordinates with c
+when required on data deliverable activities.
+e Review and create DM resource allocation plan report i
+maintain them during the course of the trail.
+e Over see's and manages the team activities and perforn
+team alignment to project deliverables.
+e Perform database lock activities per company SOPs.
+e Perform Serious Adverse Event reconciliation activities
+guidelines.
+e Perform external and third-party data reconciliation lik:
+e Imaging, and PK data as per applicable guidelines.
+e Performs LAB data reconciliation and LAB data QC.
+¢ Provides guidance and monitors the progress of data m.
+vendors.
+e Ability to present and provide professional DM input tc
+e onclinical study eCRFs and eCRF completion instructi
+e Participate in regular team meetings and provide input’
+e Interact with programmers, study managers and statistir
+study database, performs data quality assurance activiti
+resolution of data queries.
+e Assist in database upgrades/migrations including perfo:
+e Acceptance Tests.
+e Ability to maintain study workbooks and data managen
+¢ Develop and track timelines and ensure CDM project n
+coordination with the project team.
+e Ensure clean and on-time Data and Image Transfers.
+e Contributes to a professional working environment and
+initiatives.
+e Identify errors and inconsistencies, resolve them, or ini
+e either via the field monitor or directly with the investig
+quality and timely database locks.
+e Oversee and Coordinate with Data management suppor
+e DM activities addressed and delivered on time.
+e Continuously meet the team and track the progress of a
+status to Project Data Manager.
+09/2019 Clinical Data Coordinator, Navatio Pharma Solution
+04/2023
+e Reviews and contributes to preparation of protocols, spi
+Visit Evaluation Schedule (VES), Study Design and Da
+e Responsible for the development of Data Handling Plar
+Plan (DRP) documents.
+2F data requirements.
+udy databases to match eCRFs
+‘abase issues with team members.
+‘h Vendor and get an
+y data.
+lata Managers for DTS
+‘luster.
+status with outsourced trails Trail
+‘heross functional stake holders
+ort for assigned projects and
+yrmance along with maintaining
+ties according to SOPs and
+like Biomarker, ePRO,
+‘
+t management activities with
+it to Clinical Trial Team(s)
+ictions needed.
+vut where needed.
+isticians in creating a clinical
+vities, and manages the
+rforming User
+gement files
+ct milestones are met in
+ind departmental
+initiate their resolution
+stigational site, to ensure high
+port team to get all the
+of activities and update the
+ons Pvt Ltd, Hyderabad
+specifically related to the
+Data Management section.
+‘tan (DHP) and Data Review
+e Performs DM activities for start-up of a study including preparing the eCRF, CCGs,
+DHPs, DRPs and performing User Acceptance Testing (UAT) if required.
+e Obtains input from study team members on the design of clinical databases while
+ensuring data quality and compliance with SOPs.
+e Under supervision from PCDM (or delegate), ensures consistency of assigned trials
+with program level standards (DHPs, DRPs & eCRF) prepares final study
+documentation.
+¢ Performs ongoing review of all data generated from the clinical study including
+central and local lab data and coding. Interacts with the study team members to
+define the necessary listings needed to support data validation.
+e Identifies possible trends in data Leads and participates in the final review of all data
+generated from the clinical study.
+e Performs activities necessary for database finalization and adhering to the timelines
+established by the study team.
+e Verifies and tracks eCRF/CRF completion and provide data status updates.
+e Ensures appropriate Novartis tracking systems are up to date and accurate.
+e Actively participates at the study team level meetings.
+¢ Utilizes status and metric reports to identify training needs and issues with
+investigator sites.
+e Gathers requirements for third party data.
+e Maintains effective working relationships with Contract Research Organization
+(CRO) and other Third-party vendors as required.
+e Perform 3rd Party reconciliation activities in a timely manner and according to SOPs
+and Working Practices (WPs).
+e Perform Serious Adverse Event (SAE) reconciliation activities in a timely manner
+and according to SOPs and WPs.
+e Participating in the training of new colleagues and the ongoing training of colleagues
+on standards, process guidelines and SOPs.
+12/2013 Clinical Data Analyst, Antrix Technology Pvi Ltd , Bengaluru.
+10/2018
+e Perform query management for 2 pivotal studies and closing more than 90
+queries a day without any compromise on quality.
+e Work closely with the study TDM to ensure that we are fully aligned with the
+study protocol and following the NVS processes in query management.
+e Generate standard reports using J-Review reporting tool and sent them on a
+regular basis to the study stakeholders.
+e Actively participate in the Study level DM meetings and Program level BDM
+Meetings.
+e Ensure 100% quality and timely turnaround on all the deliverables assigned.
+e Actively participated in team meetings and provided updates on deliverables to
+Line Managers, TDM and PDM.
+e Perform manual reviews of the data and issue queries to the site for
+Clarifications.
+e Work closely with the CROs for the Outsourced studies and Qc of the work done
+by CRO DM.
+e Perform QC of LNRs and update the CRAs and TDM.
+e Perform User Acceptance Testing (Screen, CCG and Edit Check Testing) and
+support timely study go-live.
+e Participate in Change Requests and ensure study timely deliverables.
+e Good Working knowledge of SAE Reconciliation.
+e Good working knowledge of RECIST Data Reconciliation.
+e Support any ad-hoc requests from Trial Data Manager for study related activities.
+e Perform cress panel checks review and manual listings review for studies.
+e Data cleaning and raising queries in the database.
+e Updating allocation status to study lead.
+EDUCATION
+2022 Ph.D. Biochemistry
+KSR College of arts and Science, Tamil Nadu
+2011 M.Sc. Biochemistry
+KSR College of arts and Science, Tamil Nadu.
+English, Telugu, Hindi, Tamil
+[PERSONAL DETAILS ]
+e Nationality : Indian
+¢ Marital status : Married
+e Address : Hyderabad, Telangana -500008, India

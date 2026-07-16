@@ -1,0 +1,89 @@
+Dr. Pavan Kumar M  
+Email ID: pavankmr3003@gmail.com  
+Mobile: 9700688603  
+
+CAREER OBJECTIVE  
+Seeking a privileged career in a well-established clinical and healthcare setting where I can apply my medical and pharmacy skills with professional behavior, communicate elegantly for client satisfaction for the benefit of healthcare organization. I would also like to be positive towards the organization, team spirit and professional growth.  
+
+WORK HISTORY  
+Title: Senior Product Consultant (Data Manager)  
+Period and Duration: Mar-2023 to Present (1 Year and 10 Months)  
+Organization: Saama Technologies, Chennai  
+
+Title: Clinical Data Specialist  
+Period and Duration: Sep-2021 to Mar-2023 (1 Year and 6 Months)  
+Organization: IQVIA, Bengaluru  
+
+Title: Clinical System Tester  
+Period and Duration: 1 Jul-2018 to Sep-2021 (3 Years and 3 Months)  
+Organization: PRA Health Sciences, Chennai  
+
+CURRENT JOB ACTIVITIES  
+- Working on products like Smart Data Quality (SDQ), Smart Auto Mapper (SAM), Hub administration, and Deep Learning (DL) to process different tasks associated with CDM.  
+- Reviewing Protocol, Clinical data mapping specification (CDMS), IDRP and vendor DTS.  
+- Creating data query logics as per IDRP and in accordance with product.  
+- Configuration of the product as per the study and scheduling data jobs.  
+- Verification of the predictions generated, approving the checks and migration to production database.  
+- Responsible for measuring and monitoring the product or service’s performance as well as presenting product related client, market, and competitive intelligence to the team.  
+- Support the implementation of new product development and ad-hoc data queries and data mining from various systems.  
+- Stay connected to the business and managing changes or adjustments to requirements.  
+- Perform Requirement Analysis, understand the business needs, identify pros and cons of technical solutions.  
+
+ACADEMIC QUALIFICATIONS  
+Course | Institute | University / Year of Board Passing | Board Passing  
+---|---|---|---  
+Doctor of Pharmacy | Seven Hills College of Pharmacy, Tirupati | JNTUA | 2018 | 82.11  
+Intermediate (XI) | Himaja Junior College, Puttur | BIEAP | 2012 | 91.80  
+SSC (X) | Vivekananda English Medium High School, Puttur | BSEAP | 2010 | 90.83  
+
+CLINICAL RESEARCH TOOLS  
+- EDC/CTMS Tool: Medidata RAVE, Signant Health, XClinical MARVIN, ClinPhone, Oracle Inform, Almac, Veeva Vault, Suvoda, Datalabs, Teva 4G, PRISM, Trident, Jarvis, Endpoint  
+- Mobile Health: Tesla, Study start up: Od, Well versed in defining and validating the data with protocols for clinical studies and handling trial lifecycle.  
+- Reporting Tool: PhlexEview, J-Review, Clinical6, PL/SQL, Patient Cloud, Spotfire  
+- Analysis & Platform: Study start up: Od, Well versed in defining and validating the data with protocols for clinical studies and handling trial lifecycle.  
+
+CLINICAL RESEARCH RESPONSIBILITIES  
+- Ensuring ICH GCP regulations and SOP’s are adhered for all data management activities.  
+- Preparation and review of Annotated case report form (aCRF) and unique CRF documents.  
+- Preparation and review of DVR specifications and Test case development, Review, Testing and Documentation of Edit check, Listing, External Listing, DC role permissions, Dynamic check, Custom program, Custom report, Integration, TSDV.  
+- Executing Test scripts using HPALM, Microsoft TFS and understanding the study and client requirements and incorporating them before the database in production.  
+- Data Management Plans and applicable standardized data management processes to identify missing, incomplete, implausible data.  
+- Manual review before transfer and study status reporting.  
+- Performing aggregate review of clinical data by patient, site, and/or project to identify data trends (patient safety, compliance, etc.), and/or data inconsistencies.  
+- Escalate any discrepancy in the clinical data and conduct and communication findings to LDM, TA lead.  
+- Communicating site data flow issues with LDM, TA lead, and/or TA Lead, sites and monitors.  
+- Potentially interact and collaborate with other project members (statistics, CDM technical support, drug safety, etc.) to support the set-up, maintenance, and closure of the project to ensure consistent, cohesive data handling and quality.  
+- Expertise in data cleaning activities.  
+
+ACADEMIC PROJECT  
+Title: Impact of Clinical Pharmacist Mediated Patient Counseling on Health-Related Quality of Life (HRQoL) in Hypertensive Patients in a Tertiary Care Teaching Hospital  
+Institution: Sri Venkateswara Institute of Medical Sciences (SVIMS), Tirupati  
+Duration: 6 Months  
+Team Size: 3 Members  
+
+KEY ACCOMPLISHMENTS  
+- Project X: IRT and MHP Integration: I have identified a programming error and worked with an external vendor to get the job done which was a key point in being able to go live for a project.  
+- Project Y: Custom Function: I spotted an error and worked with developers to fix a CF which was a critical task from a Client tied in with VP.  
+- Project Z: IRT and MHP Integration: I jumped in to test after my working hours to complete a project within the timeline.  
+- Had received a special recognition bonus for the year 2020.  
+
+ACHIEVEMENTS  
+- Winner in Quiz competition conducted during Pharma Utsav-2014 & 2016, National pharma week celebrations held at Seven Hills College of Pharmacy, Tirupati  
+
+PERSONALITY TRAITS  
+- Multitasking, Adaptability, Creativity, Problem solving  
+
+HOBBIES / INTERESTS  
+- Surfing, Bicycling, Listening to Music  
+
+PERSONAL PROFILE  
+- Father’s Name: J Muni Kumar  
+- Mother’s Name: M Sheela  
+- Date of Birth: 30-Mar-1994  
+- Marital Status: Married  
+- Languages Known: Tamil, Telugu, Hindi, English, Kannada  
+- Nationality: Indian  
+- Permanent Address: #3-103, Vidyuth Nagar, Pillaripattu Road, Puttur (M), Chittoor (D), Andhra Pradesh, 51757583  
+
+DECLARATION  
+I gravely announce that facts of information and facts in the resume are inclusive and correct and I take full liability for the correctness of the information.

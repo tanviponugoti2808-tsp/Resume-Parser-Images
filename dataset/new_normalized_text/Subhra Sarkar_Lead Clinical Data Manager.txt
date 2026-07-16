@@ -1,0 +1,119 @@
+Shubhra Sarkar  
+subhrasarkar29@gmail.com | 07001912493  
+
+Profile Summary  
+- Study Protocol Review: Thoroughly reviewed and understood study protocols, ensuring alignment with timelines and project goals.  
+- Data Review & Reconciliation: Conducted comprehensive data reviews and reconciliations to ensure accuracy and consistency across all data sources.  
+- Proactively managed queries and escalated discrepancies as needed.  
+- Reviewed, guided and onboarded new joiners to the project.  
+- Internal Data Audits: Review and auditing of data in SAS Data set and eCRFs.  
+- Query Management: Led query management tasks, ensuring timely resolution and communication with study teams. Implemented feedback from study teams to refine data quality.  
+- External Checks: Performed external checks to identify and rectify manual discrepancies, ensuring data integrity.  
+- Edit Checks Development: Developed and implemented specifications for edit checks and listings (Data Validation Specifications DVS), enhancing data accuracy.  
+- UAT Execution: Conducted User Acceptance Testing (UAT) for databases, ensuring system functionality met study requirements.  
+- Documentation: Developed and maintained study-specific procedures and documentation, ensuring compliance and consistency.  
+- Cross-Functional Collaboration: Regularly attended cross-functional study team meetings, providing updates on data management activities and ensuring alignment with project goals.  
+- Metric Reporting: Ensured effective implementation of standard metrics and status reporting, contributing to the overall success of the study.  
+- Quality Assurance: Ensured an error-free data environment, with no open queries, by implementing rigorous quality control processes.  
+- Study Setup Support: Assisted the Trial Data Manager (TDM) in all study setup activities, including identifying and addressing out-of-scope tasks.  
+- Training and Mentorship: Training provided to the Site, CRAs and Sponsor representatives. Mentored new joiners and junior resources, and acted as POC for the allocated studies.  
+- Validation Support: Process and Database validation activities.  
+
+Significant Achievements:  
+- Has been an honored member of the elite End Point Review Committee for a Phase-II Rare disease study.  
+- Have won multiple Spot Awards for Data Quality and Data Integrity.  
+- Worked as LDM in multiple studies.  
+- Has been an honored member of the elite Database Validation and process validation Team.  
+- Prepared Study Start-up checklist as an additional initiative.  
+
+Key Skills  
+- Lead CDM Team  
+- Clinical Data Management  
+- Timeline Management  
+- Risk Management  
+- Stakeholder Management  
+- Client Communication  
+- Study Protocol Knowledge  
+- Data Review and Reconciliation  
+- Edit Check Development  
+- GCP and Regulatory Guidelines  
+- Audit Readiness  
+- Clinical Data Management Systems (CDMS)  
+- Stakeholder Communication  
+- Discrepancy Resolution  
+- Process Improvement  
+- Quality Control  
+- Documentation  
+- Medical Coding  
+- Personal Details  
+
+Languages Known: English, Bengali, and Hindi  
+Address: C-203, Candeur Signature, Varthur-Hobli, Bengaluru 560087, India  
+
+Competencies  
+- Clinical Data Management  
+- Regulatory Compliance  
+- Planning and Execution  
+- Resource Management  
+- Team Leadership  
+- Decision Making  
+- Mentorship  
+- Problem Solving  
+- Critical Thinking  
+- Detail Orientation  
+- Stakeholder Management  
+- Documentation  
+- Collaboration  
+- Adaptability  
+- Process Optimization  
+- Technology Adoption  
+- Continuous Learning  
+- Integrity  
+- Responsibility  
+
+Education & Credentials  
+- 2014: Master of Pharmacy in Pharmaceuticals (M. Pharma)  
+- 2011: Bachelor of Pharmacy  
+
+Certifications  
+- Medra Coding Certified  
+- WHO-DD coding Certified  
+- Good Clinical Practices (GCP) (inhouse training and certification)  
+- Data Integrity  
+
+Career Timeline  
+
+Current Experience  
+Emmes Services PVT. LTD.  
+Role: Lead Clinical Data Manager  
+Highlights:  
+- Manage data management team to ensure project deliverables are met with the timeline.  
+- Lead the data management start up, conduct and close out activities for multiple clinical studies, including but not limited to forms development, UAT, data review, query management, and database lock.  
+- Possess detailed knowledge of the protocol and its associated activities and timelines.  
+- Designs and develops electronic case report forms (eCRFs) and is responsible for the testing and validation of study-specific electronic data capture (EDC) systems.  
+- Draft Data Management documents at the study start up phases.  
+- Draft Edit Check document.  
+- Programming of Edit Checks in the EDC.  
+- Lead and participate in the ongoing review of edit checks, format and output.  
+- UAT of Edit Checks.  
+- MEDDRA and WHO Drug Coding.  
+- Provides data management and operational support for a protocol or group of protocols.  
+- Query management.  
+- Collaborates with the project team and other study personnel to determine data collection requirements based on the study protocol.  
+- Ensure accurate, effective and timely communication of study status and discrepancies to senior members of the team.  
+- Have experience in Microsoft Excel.  
+- Mentoring new employees.  
+
+Previous Experience  
+IQVIA RDS  
+Role: Clinical Data Specialist  
+Highlights:  
+- Conduct basic data review.  
+- Conduct basic data review.  
+- Discrepancy Management.  
+- Listing Review.  
+- Lab Data Reconciliation.  
+- Meet personal project objectives as assigned by manager.  
+- Understand and comply with core operating procedures and working instructions.  
+- Understand basic database structures.  
+- Develop and maintain good communications and working relationships with CDM team.

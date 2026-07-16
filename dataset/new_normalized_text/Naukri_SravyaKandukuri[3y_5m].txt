@@ -1,0 +1,81 @@
+SRAVYA KANDUKURI  
+Clinical Data Management Professional  
+sravyakandukuri0213@gmail.com  
++91 9908210061  
+Hyderabad  
+
+PROFILE SUMMARY  
+Clinical Data Management professional with 3 years and 5 months of experience, including 8 months as a Clinical Data Analyst, specializing in end-to-end clinical data operations across Phase I-III clinical trials in Oncology, Neurology, Cardiology, Dermatology, Infectious Diseases, and Respiratory.  
+Skilled in discrepancy management, query resolution, vendor data reconciliation, edit check specification.  
+Proficient in Medidata Rave, Oracle Clinical, PL/SQL, SPOTFIRE, and MS Office tools.  
+Experienced in UAT, edit check testing, data migration, SDTM mapping, and clinical report development.  
+Strong working knowledge of GCP, FDA regulations, and SOP compliance with a focus on data integrity and audit readiness.  
+Capable of mentoring junior staff, collaborating with cross-functional teams, and supporting audits and inspections.  
+
+PROFESSIONAL EXPERIENCE  
+Clinical Data Manager, Clinica Mapletree Analytics  
+Hyderabad | 08/2019 ~ 06/2022  
+Designed and managed CRFs, annotated CRFs, and authored key documents like DMPs, eCRF Completion Guidelines, and SOPs.  
+Handled external data transfers and performed vendor data reconciliation (e.g., PT, PD, ECG, Lab).  
+Conducted UAT, edit check validation, and functional testing of clinical systems.  
+Led data migration from Oracle Clinical to Medidata Rave and contributed to SDTM mapping.  
+Created, validated, and automated clinical/operational reports.  
+Supported audits by maintaining trackers and QC documentation.  
+Coordinated cross-functionally with Clinical, Programming, Biostatistics, PV, and Vendors.  
+Conducted protocol reviews and implemented changes into study documentation.  
+Delivered training to new team members and supported continuous process improvement.  
+Facilitated database lock readiness by performing final data review, reconciliation, and issue resolution in collaboration with all stakeholders.  
+Implemented real-time tracking systems to monitor data cleaning progress, query closure rates, and reconciliation status.  
+Actively participated in protocol deviation reviews and collaborated with medical monitors for clarification and documentation.  
+Supported eCRF mid-study changes, ensuring impact assessments and proper implementation through UAT.  
+Served as the primary data management contact for sponsors and CRO partners, ensuring communication flow and timely delivery.  
+Initiated efficiency improvement strategies that reduced data review timelines by up to 20%.  
+
+Clinical Data Analyst, Clinica Mapletree Analytics  
+Hyderabad | 06/2022 01/2023  
+Performed lab data reconciliation and maintained vendor-specific trackers.  
+Conducted data management quality reviews and discrepancy management.  
+Developed test cases and executed edit check requirements.  
+Reviewed CRF design, protocol, and other study requirements.  
+Participated in the full data lifecycle including study start-up, conduct, and close-out.  
+Managed query generation, resolution tracking, and data cleaning activities.  
+Conducted periodic data freezing and final data accuracy.  
+Ensured compliance with SOPs, FDA regulations, and regulatory expectations.  
+Assisted in CRF annotation and mapping activities.  
+Conducted weekly discrepancy review meetings to ensure timely query resolution.  
+Participated in risk-based data management activities, including key risk indicators (KRIs).  
+Coordinated with external vendors (labs, ECG, imaging) for data transfer timelines, format specifications, and reconciliation output.  
+Contributed to training materials and delivered onboarding sessions for new CDAs.  
+Participated in data review meetings with sponsors, providing insights into data trends and cleaning progress.  
+
+EDUCATION  
+Master’s in Health Informatics, USA  
+Bachelor’s in Life Sciences, Dr. NTR University of Health Sciences, India  
+
+CORE SKILLS  
+Clinical Data Management  
+Vendor Data Reconciliation  
+Edit Check Testing & UAT  
+Data Cleaning Activities  
+Protocol Review & Amendments  
+SDTM Mapping Support  
+Discrepancy/Query Management  
+Lab Data Reconciliation  
+CRF Design & Annotation  
+Metrics & Report Generation  
+Data Migration (OC to Rave)  
+SOP Development & QC  
+
+CERTIFICATION  
+Certified Professional Coder (CPC)  
+AAPC | Member ID: 0183638 | Score: 88%  
+
+TECHNICAL SKILLS  
+CDMS  
+Medidata Rave, Oracle Clinical  
+Documentation  
+Edit Check Specifications, DMP, Annotated CRF  
+Programming/Tools  
+PL/SQL, SPOTFIRE  
+Software  
+Microsoft Excel, PowerPoint

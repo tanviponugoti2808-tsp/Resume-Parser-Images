@@ -1,0 +1,133 @@
+SHAIK. NISHMA
+Clinical Data Coordinator 1
+Email: nishma766L@gmail.com
+Mobile: 7661063827
+RBROEFESSIONALSSU
+IES
+Pa DAEIAL AIS.
+ARYs
+Dedicated Clinical Data Manager with 3
+specializing in study startup, conduct, al
+Clinion), data validation, query resolutic
+ICH-GCP, regulatory compliance, and clii
+_——
+VAICS Consulting Pvt Ltd
+Clinnex
+Core CDM Activities:
+Technical Tools
+Therapeutic Area Expertise
+Office Tools
+Other Technical Skills
+LECH NICAISSUMMARY,
+POA,
+DINE E ES EN
+STUDY STARTUP ACTIVITIES:
+>
+Designed and developed Cas:
+>
+Prepared Edit Check Progran
+integrity.
+>
+Conducted comprehensive U
+e
+Performed Data base
+validations, condition
+requirements.
+So
+h 3.7 years of experience in Clinical Data Management (CDM),
+, and closeout activities. Proficient in EDC systems (Medrio,
+stion, and database lock procedures. Strong understanding of
+clinical research principles.
+oT
+Start End
+Apr 2025 Till date
+Jun 2022 Apr 2025
+« Edit check specification document
+« eCRF Specification
+« UAT testing
+¢ Query resolution
+« Data reconciliation
+« Medical Coding-MedRA, WHO-DD
+e Locking and freezing activities
+e« Medrio
+¢ Clinion
+« Infectious Disease, Vaccine study, PK study, Device
+Study
+« Microsoft Word
+e Microsoft Excel
+e Microsoft PowerPoint
+« SQL
+oT
+‘ase Report Forms (CRFs} for accurate data collection.
+‘amming (ECP) and manual checks to ensure data
+2 User Acceptance Testing (UAT), including:
+ise screen testing to verify field properties, input
+onal logic, and form navigation as per protocol
+Executed Edit check testing to validate system-generai
+data accuracy, protocol compliance, and timely query ;
+Role-wise testing is conducted to ensure user-specific
+and functionalities aligned with study roles and securii
+Performed Query report testing to validate accuracy, ¢
+resolution tracking of system-generated and manual q
+Verified Audit log reports testing to ensure accurate t
+activities, data changes, and compliance with regulato
+PDF Extraction Testing-Verified the accuracy and form
+PDF's for CRF’s and Audit trails to ensure regulatory comr
+traceability.
+STUDY CONDUCT ACTIVITIES:
+>
+Performed ongoing data review for accuracy, completeness, a
+>
+Generated, tracked, and resolved system and manual queries
+>
+Conducted listings review (AE, SAE, MH, CM, Labs, ConMeds, '
+>
+Performed medical coding using MedDRA (AEs/MH) and W
+Medications)
+Executed data reconciliation activities:
+SAE reconciliation with safety database
+Lab data reconciliation (central and local labs)
+PK/PD and IRT reconciliation
+Maintained Clean Patient Tracker to monitor subject and visit
+>
+Reviewed protocol deviations and missing data
+>
+Supported interim data reviews and data exports
+>
+Followed SOPs, GCP, and regulatory guidelines throughout the
+CLOSEOUT ACTIVITIES:
+> Conducted final data cleaning and quality control (QC) checks.
+> Managed soft lock and hard lock processes to finalize datasets.
+> Ensured proper documentation and archival of clinical trial data.
+EDUGATIONAISQUALIEIGATION
+et EAE!
+PAS
+a
+Pe
+PharmD from Rao’s College of Pharmacy, University of JNTUA in 2022
+ICERTIRICATIONS)
+NIDA Certification (Valid: Feb 2022 Feb 2025)
+Advanced Diploma in Clinical Research
+e
+Skill India Certification Clinical Research Associate
+e
+SQL Certification Frontlines Media Edutech Pvt. Ltd.
+Certification on Generative Al-CUMINDS INNOVATIONS
+Agile Scrum Foundation certificate-Simplilearn
+ry generation.
+trated checks, ensuring
+ry generation.
+fic access, permissions,
+urity requirements.
+y, generation logic, and
+il queries.
+e tracking of user
+atory standard.
+rmatting of extracted
+impliance and data
+3, and consistency
+es within timelines
+Is, Vitals)
+WHO-DD (Concomitant
+sit status
+the study

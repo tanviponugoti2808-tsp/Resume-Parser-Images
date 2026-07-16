@@ -1,0 +1,139 @@
+Curriculum Vitae
+SOMYA JOSHI
+Clinical Data Management Professional (Immediate Joiner)
+Email:soumnya.sah@hotmail.com
+M: +91-9599992532
+Address-502,Sri Susmita Residency Shilpa Park|Kondapur
+Hyderabad-500084
+SUMMARY
+An enthusiastic, skilled, experienced Clinical Research Professional with 15 years in the Clinical Research Industry,
+including 9 years of specialized expertise in Clinical Data Management. Acclaimed for overseeing data across all
+clinical trial phases with precision and a commitment to quality, regulatory compliance, and therapeutic integrity.
+Proficient in using advanced data management systems to deliver accurate, efficient, and timely results. Trusted
+tearn player known for aligning seamlessly with organizational goals and contributing to high-performing project
+teams.
+PROFESSIONAL EXPERIENCE
+SYNEOS HEALTH, Hyderabad
+Senior Clinical Data Associate (Dec 2019-June2025)
+Platform: Medidata Rave, Veeva Vault, Inform, Oracle Clinical (OCRDC and Paper-based)
+Therapeutic areas: Respiratory, Oncology, Dermatology, Cardiovascular, Vaccine
+INC Research (Formerly known as Syneos), Gurgaon
+Clinical Data Associate III (Sep 201 5-Dec2019)
+Platform: Medidata Rave, Inform, Oracle Clinical (OCRDC and Paper-based)
+Therapeutic areas: Respiratory, Oncology, Cardiovascular,
+KPS Clinical services pvt. Ltd, Greater Noida
+Asst.QA (Jan 2014-Sep201 5)
+Max Health Care, New Delhi
+Senior Research Officer (June 2010-Dec2013)
+WORK EXPERIENCE
+Study Start-up
+e
+Performs User Acceptance Testing (UAT) for data entry screens, edits and data review listings.
+e
+Execute role-based testing to ensure appropriate system access and permissions across all study roles.
+e
+Create key data management documents during the study start-up phase, including Data Validation
+Specifications and eCRF Completion Guidelines, ensuring alignment with protocol requirements and
+regulatory standards.
+Study Conduct
+°
+Lead clinical data management activities across multiple projects, providing strategic support to the Project
+Manager as needed and coordinating with fellow Clinical Data Associates (CDAs).
+Perform comprehensive data validation by reviewing Data Listings and SAS-generated outputs to identify
+inconsistencies and anomalies.
+Review data queries throughout the trial, ensuring timely resolution and adherence to data quality standards and
+regulatory guidelines.
+Receive, review, and enter site-specific laboratory normal ranges (LNR) into the clinical database, ensuring
+accuracy and compliance with protocol specifications.
+Ensure consistency between external datasets (e.g., vendor-provided lab, ECG, or imaging data) and the CRF
+Curriculum Vitae
+database by performing systematic data reconciliation. Identify discrepancie:
+standard processes, and raise data queries to the appropriate stakeholders fc
+regulatory standards.
+Perform Serious Adverse Event (SAE) reconciliations by comparing SAE data
+Safety databases to ensure consistency, completeness, and accuracy. Collab
+clinical teams to resolve discrepancies, adhering to regulatory timelines and <
+Conduct Data Management quality reviews and internal quality control (QC) c
+(EDC) studies, ensuring adherence to study protocols and system-specific ste
+Serve as backup for the Project Data Manager (PDM), including participation
+project updates and ensure alignment with study timelines and quality stande
+Proactively communicate with project teams and management to provide acc
+completion, convey current availability for additional assignments, and flag al
+Ensure transparency and alignment to support effective project planning and
+Effectively manage and prioritize multiple tasks across concurrent clinical prc
+Adapt to shifting timelines or changing priorities by reorganizing daily workloi
+communication with project teams and management, providing accurate tast
+and early identification of potential resourcing
+Conduct post-migration testing activities to ensure functional accuracy and d
+Capture (EDC) systems. Validate updates to screens, edit checks, matrices, al
+following system migrations or protocol amendments, ensuring alignment wit
+compliance standards.
+Provides support to the PDM on a study as required. May involve soliciting su
+other CDAs, taking full responsibility for an aspect of the study delivery, or pre
+PDM's back up for specific activities (including attend sponsor's meetings to
+Migration/PPC related activities. Creation of Change order log and Edit check
+sponsor requirement.
+Preparing various weekly and monthly metrics, CPT.
+Database Lock Planning & Documentation Oversight
+e
+Review database lock and interim milestones, ensuring alignment with cl
+timelines
+Support the Data Management Lead in the strategic planning and execution o
+Perform critical final lock processes, including database freezing and formal
+Carry out postlock and archival activities, maintaining compliance with
+standards.
+a
+a
+EDUCATION QUALIFICATION
+e
+P.G Diploma in Clinical Research from CLINIMIDS in 2010.
+e
+M.SC (Microbiology) From Vinayaka Mission University 2010.
+e
+B.Sc. (Medical Microbiology) From H.N.B University in 2008.
+e
+12th Grade XII passed under UA Board 2005.
+PERSONAL DETAILS
+Name: Somya Joshi
+Husband Name: Manish Joshi
+Gender: Female
+Nationality: Indian
+Marital Status: Married
+cies, document them according to
+'s for resolution in compliance with
+ata reported in clinical databases with
+llaborate with pharmacovigilance and
+ad standards for safety reporting.
+2) checks for Electronic Data Capture
+standards.
+on in sponsor meetings to provide
+ndards.
+accurate time estimates for task
+g any potential resourcing conflicts.
+ind delivery.
+projects to ensure timely completion
+kload as needed. Maintain proactive
+task estimates, availability updates,
+id data integrity across Electronic Data
+3, and user role configurations
+:with study requirements and
+} support from and coordinating with
+producing study metrics reports.
+3 to provide updates).
+eck specification document as per
+1 client expectations and delivery
+in of database lock activities
+tal locking procedures
+fith regulatory and organizational
+Curriculum Vitae
+e
+Hobbies: Art and craft, Reading, listening music, Travelling
+e
+Strengths: Positive Attitude, Determined, High Energies.
+e
+Languages Known: English & Hindi
+DECLARATION
+Given an opportunity, have the confidence of executing any given assignment with utmost diligence and to the
+growth of the organization. hereby declare that the information furnished above is true to the best of my
+knowledge.
+Place:Hyderabad

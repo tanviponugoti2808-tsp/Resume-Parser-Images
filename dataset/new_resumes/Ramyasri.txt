@@ -1,0 +1,98 @@
+CURRICULUM V
+Ramyasri Macharla
+Clinical data associate -II
+Career Summary
+/
+Dedicated Clinical
+Data
+Management
+experience ensuring high-quality, reliable d
+with specialized therapeutic expertise in Cari
+Adept at designing eCRFs, extensive experic
+check specifications and performing compre
+Expert in ensuring 100% data integrity thro
+reconciliation between clinical, safety, and e
+Highly proficient in using Rave database wi
+GCP guidelines to ensure inspection readin
+of 21 CFR Part 11 compliance.
+Ability to Cross-Functional Collabora
+multitasking skills.
+Work Experience
+Organization: Clinicamapletree analytics, Hyderab<
+Designation: Clinical data associate-II.
+Duration: September 2021 to till date.
+Responsibilities:
+Designed eCRF layouts for global Phase II/ITI tri:
+standards and protocol requirements.
+Designed edit check specifications for cardiovasct
+Executed comprehensive User Acceptance T:
+and resolving 98% of potential system logic e1
+(FPFV) that prevented 200+ queries across 30
+Developed study-specific Data Transfer Agreer
+the ingestion of biomarker and PK/PD data for glc
+[ VITAE
+Email id: rsri:macharla@gmail.com
+Mobile: +91-9177998229
+mnt
+professional
+with
+over4 years
+of
+2 data across Phases II-III of clinical research
+ardiology and Endocrinology.
+2rience in developing and validating robust edit
+prehensive User Acceptance Testing (UAT).
+rough meticulous SAE reconciliation and lab
+d external vendor databases.
+with expertise in CDISC standards and ICH-
+liness and committed to the highest standards
+oration,
+excellent time management and
+abad.
+trials, ensuring alignment with CDASH
+iscular trials that reduced query rate by 40%.
+: Testing (UAT) for EDC builds, identifying
+c errors prior to the first patient's first visit
+30 sites.
+eements (DTA) for external vendors, streamlining
+global Phase III trial.
+« Built query prioritization framework that cut average site response time
+« Managed the end-to-end SAE reconciliation process, ensuring 10!
+the Clinical (EDC) and Safety (PV) databases for global Cardio
+trails.
+« Oversaw complex lab reconciliation for central laboratories in
+markers (HbA1c) and lipid profiles and ensured 100% synchroniz
+« Collaborated with cross-functional study teams to finalize datat
+achieving on-time delivery of high-quality project.
+Technical Skills
+= Clinical Data Management Systems: RAVE EDC.
+=» CDM Skills: DMP, eCRF design, Data validation by edit checks
+management, SAE reconciliation, Lab data reconciliation, DB lo
+= Office Tools: MS Office.
+= Strong domain knowledge in Clinical trial life cycle.
+= Sound knowledge of medical terminology.
+Education
+= Master of Pharmacy (Pharmacy Practice): St.Peters Institute «
+sciences, Kakathiya university, Warangal, Telangana (84.2%).
+= Bachelor of Pharmacy: Rosory college of Pharmacy, Jawaharla
+University, Warangal, Telangana (77.18%).
+Personal Details
+Date of Birth 18-08-1990 Marital statu
+Permanent Address Hyderabad, Telangana.
+Declaration
+Thereby declare that the information furnished above is true to the best o
+Place: Hyderabad
+diology and Endocrinology
+ne from fortnight to a week.
+100% consistency between
+diology and Endocrinology
+including ECG, glycemic
+nization.
+ttabase lock checklists and
+cks, UAT, DTA, Query
+} lock checklist.
+te of Pharmaceutical
+iurlal Nehru Technological
+atus Married
+t of my knowledge.
+( Ramyasri Macharla)

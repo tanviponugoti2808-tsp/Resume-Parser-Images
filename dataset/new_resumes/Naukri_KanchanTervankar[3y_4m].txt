@@ -1,0 +1,64 @@
+KANCHAN RAMCHANDRA TERVANKAR
+E-201, Ganga kunj Society, Kalas Gaon, Vishrantwadi, Pune 411015
+|kanchanterv97@gmail.com
+Mob- 9373723191
+PROFILE SUMMARY
+Analytical and detail-oriented Data Analyst with 3 years and 6 months of experience in
+Clinical Data Management (CDM). Skilled in data validation, query management, UAT
+testing, and Rave systems, with a strong record of ensuring data integrity and regulatory
+compliance. Adept at collaborating with cross-functional teams and optimizing data
+workflows to improve accuracy and efficiency across large-scale clinical trials.
+CORE SKILLS
+* Clinical Data Management
+« Rave EDC & Ewise Tools
+Data Validation & Query Resolution
+¢ UAT Scenario Writing & Execution
+¢ Data Cleaning & Standardization
+¢ Process Optimization & Quality Control
+¢ MS Office (Excel, Word, PowerPoint)
+PROFESSIONAL EXPERIENCE
+e
+Cognizant Technology Solutions — Junior Data Analyst
+Therapeutic Area: Vaccine
+April 2022 November 2025
+¢ Over 3.6 years of experience in Clinical Data Management, with 3+ years hands-on
+expertise in Rave.
+* Setup Phase: Developed and validated Edit Checks (AT), authored UAT scenarios, and
+performed data entry as per study protocols.
+¢ Conduct Phase: Managed mega-trial data for COVID-19 vaccine studies involving 35,000+
+subjects. Executed Query Trend Analysis, QDR generation, CIAs, and IVRS UAT testing using
+Ewise and IRT reports. Performed data validation, dataset reviews, and data cleaning within
+strict timelines (TAT). Maintained Trial Master Files (TMFs) and ensured compliance with
+audit and quality standards.
+* Closeout Phase: Managed Database Lock, Partial Locking, and final documentation of
+closeout activities. Ensured smooth transition to archival with complete study
+documentation and checklists.
+« Achievements: Recognized for accuracy and timeliness in query management; supported
+multi-country trial data operations with 100% audit readiness.
+e
+Charkop Maternity Home — Hospital Pharmacist
+March 2021 December 2021
+¢ Oversaw drug distribution, formulation, and dosage control ensuring patient safety and
+compliance.
+¢ Managed prescription preparation, inventory control, and drug safety monitoring,
+* Collaborated with medical staff to ensure rational and effective drug usage.
+EDUCATION
+Bachelor of Pharmacy (B.Pharm) CGPA: 7.94 University of
+Mumbai October 2020
+Higher Secondary Certificate (H.S.C.) 73.85% Konkan
+Divisional Board March 2015
+ACADEMIC PROJECT
+Colon Targeted SMEDDS Formulation and Evaluation of Self-Micro Emulsifying Drug Delivery System
+Developed an innovative formulation aimed at targeted drug delivery to the colon for enhanced
+bioavailability.
+ADDITIONAL INFORMATION
+Hobbies & Interests:
+¢ Exploring Artificial Intelligence applications in clinical research
+* Clinical Research & Pharmacy
+¢ Healthcare data analytics and digital transformation
+DECLARATION
+I hereby declare that the information provided above is true and accurate to the best of my knowledge and
+belief.
+Place : Pune, Maharashtra
+Date :
+(Kanchan R Tervankar.)

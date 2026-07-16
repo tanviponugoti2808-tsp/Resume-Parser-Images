@@ -1,0 +1,55 @@
+Swatishriya Patra  
+swatipatra4@gmail.com  
++91 7978554736  
+Bangalore  
+
+SUMMARY  
+Experienced professional with 5 years in Clinical Data Management, currently employed with ICON PLC having experience in Query Management, SAE Reconciliation, Vendor Reconciliation, Listings Review, DV Listing, Freezing, Locking, EDC Validation, Listings, SAS Validation, Clinical Data Review, External Stakeholders to ensure success in the Clinical Study. Expertise in therapeutic areas like Oncology, Cardiovascular Diseases, Toddler Studies. A focused, detail-oriented professional having fair knowledge of ICH-GCP guidelines, good Computer Proficiency and Basic understanding of Clinical Operations of Clinical Databases, EDC specifically Oracle Clinical 4.5, Medidata RAVE, Veeva Vault, J Review, Microsoft Office, Zavacor, Lablink, Workfront, Trackwise, Realm, Citrix (workspace) and well versed with MS Office applications with strong background in Project Management, Study Maintenance and Client Coordination.  
+
+WORK EXPERIENCE  
+Clinical Validation Analyst - CDM Icon PLC (Nov 2022 — Current)  
+- Collaborate with the project team on overall data management strategy for the program, ensuring quality and efficiency. Preparing and raising resourcing request, participate in Operation layout, testing of data entry screens, DMP, eCCG Creation and EDC design database.  
+- Perform Data Management activities like Query Management, UAT, SAE Reconciliation, Listing reviews, Allocation of daily tasks to the study resources, QC of edit check specifications, handling ad-hoc requests on closeout activities like freeze/lock activities, perform pre lock checklist review.  
+- Perform UAT of database, generate reports and approve UAT related documentation. Check Specifications and perform quality check of the same. Assist in maintaining protocol management activities. Provide inputs to the CRF layout as per protocol requirement and protocol. Participate in meetings with sponsor and prepare meeting minutes for the same.  
+- For client, Manage & Review data as per LDM instructions for interim analysis, Soft and Hard lock.  
+- Reviewed and validated eCRFs & edit checks using test cases. Test plan creation, test plan report, Custom Program, Listing, Edit Check, Dynamic Check, Integration Check, validation of eCRFs and Dynamic Search List (DSL) checks, SAE reconciliation report validation and support the team through database build requirements.  
+- Lead the design and validation of checks for the electronic data capture system used for each study and complete startup activities for study including: building the eCR, completion guide, data validation plan and user acceptance testing (UAT); can lead a study in sequence, train them to be individual contributors, Conduct knowledge transfer sessions for new joiners.  
+- Worked in the preparation of fast-track training materials and modification of process documents as per the current needs, Study metrics preparation. Tracks and reports status and progress for assigned trials and projects, proactive to ensure milestones are met with quality (incl. Snapshots and interim/final lock).  
+- Managed full study start-up activities (from defining the timeline, scope till go-live) for global studies across three different therapeutic areas like Neurology, Ophthalmology, and vaccination, Oncology, as a backup lead and lead (POC) for few studies.  
+
+Associate Validator I - CDM, LabCorp Drug Development (Dec 2019 — Nov 2022)  
+- Prepared and executed test scripts as per rules validation for an EDC system and SAS Validation scripts with focus on quality. Create and enter test data for User Acceptance Testing (UAT) for data entry screens, edits and data review listings, all different roles used in the study.  
+- Reviewing and validating data in accordance with the Data Handling plan and Data Review plan, consistency and accuracy. External lab data reconciliation, issuing query and send update to database upon site confirmation. Perform Listings review for clinically significant data points and issuing queries to the sites for clarifications. Generate all kind of reports using reporting tools like J-Review, Handling all data management aspects for clinical trial of high complexity, involving frequent interim data submissions to the FDA.  
+- Associated with activities involved in Study Startup, Conduct Query Management, SAE Reconciliation and handle ad-hoc requests on closeout activities like freeze/lock level validation of edit checks and ensure all validation related documents are accurate.  
+- Responsible for tracking Study Health and sending updates to higher management, support with process trainings, served as SME for the team and served as lead for few studies.  
+- Documented review and/or creation, User Access Testing, query management, reconciliation in accordance with the project study model, timely delivery of assigned clinical data management tasks in-line with expectations with DM processes.  
+- Estimated, prioritized, planned, coordinated testing activities, and performed testing effectiveness. Coordinated with team members in the development and testing of eCRF and data validation checks and served as a study lead as and when required.  
+- Carried out all activities according to LabCorp Standard Operation Procedures within the framework of Quality Management and Good Clinical Practice (GCP)/ICH guidelines.  
+- Worked in Clinical Databases like Zavacor, iMedidata, Realm, Lablink and Workfront. Provided support to Validation team leads as required and contributed towards creation of test cases, data entry, documentation and filing, Sending study status reports to the team.  
+
+Clinical Data Processing Associate - CDM, Quanticate International (Aug 2019 — Dec 2019)  
+- Reviewed eCRFs following SOPs, WI to identify incomplete and missing data.  
+- Reviewed clinical trials data and perform data entry in EDC tools like iMedidata, RAVE, Oracle Clinical; worked in Citrix workspace like Citrix, SharePoint and Workfront.  
+- Involved in DM activities like reviewing Protocol & CRF pages, CRF design, eCRF rearrangement, eCRF tracking, QC of rearranged eCRFs, creating Study specific trackers, missing data reports, DB testing, first & second pass entry, query management, QC of the study data, sponsor correspondence.  
+
+EDUCATION  
+- Master’s in Applied Microbiology (2017-2019)  
+  MITS School of Biotechnology, Bhubaneswar, Odisha  
+- Bachelor’s in Biotechnology (2014-2017)  
+  MITS School of Biotechnology, Bhubaneswar, Odisha  
+- Class 12th - CHSE, 2014  
+  Kalinga Bharti Residential College, Cuttack, Odisha  
+- Class 10th - ICSE, 2012  
+  Vimala Convent School, Bhawanipatna, Odisha  
+
+SKILLS  
+Project Management, Stakeholder Management, Decision Making, Problem Solving, Data Management, Vendor Reconciliation, Listings Review, EDC Validation, Query Management, SAE Reconciliation, Data Cleaning, Data Review, Clinical Data Processing, Documentation, Communication, Team Player, Effective Leadership, Strong Attention to Detail, Time Management, Verbal & Non-Verbal Communication  
+
+KEY ACCOMPLISHMENTS  
+- Assisted in developing analysis workflow improvements to raise effectiveness and decrease the errors.  
+- Project X — I was able to spot an error and worked with developers to fix it which helped migration Go Live within the timeline.  
+- Received many client appreciations for submitting the project deliverables on time.  
+- Received an appreciation for collaborating with team constantly for efficient running of the ongoing studies.  
+
+DECLARATION:  
+Thereby declare that all above information mentioned above is true to the best of my knowledge.

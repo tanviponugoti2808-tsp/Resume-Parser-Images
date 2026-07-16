@@ -1,0 +1,66 @@
+SHAIK NISHMA  
+Clinical Data Coordinator  
+Email: nishma766L@gmail.com  
+Mobile: 7661063827  
+
+PROFESSIONAL SUMMARY  
+Dedicated Clinical Data Manager with 3.7 years of experience in Clinical Data Management (CDM), specializing in study startup, conduct, closeout activities. Proficient in EDC systems (Medrio, Clinion), data validation, query resolution, and database lock procedures. Strong understanding of ICH-GCP, regulatory compliance, and clinical research principles.  
+
+WORK EXPERIENCE  
+
+VAICS Consulting Pvt Ltd  
+Clinical Data Coordinator  
+Apr 2025 – Till date  
+Start End  
+
+Core CDM Activities:  
+- Designed and developed Case Report Forms (CRFs) for accurate data collection.  
+- Prepared Edit Check Program (ECP) and manual checks to ensure data integrity.  
+- Conducted comprehensive User Acceptance Testing (UAT), including screen testing to verify field properties, input validation logic, and form navigation as per protocol.  
+- Executed Edit check testing to validate system-generated data accuracy, protocol compliance, and timely query resolution.  
+- Role-wise testing is conducted to ensure user-specific access, permissions, and functionalities aligned with study roles and security requirements.  
+- Performed Query report testing to validate accuracy, resolution tracking of system-generated and manual queries.  
+- Verified Audit log reports testing to ensure accurate tracking of data activities, data changes, and compliance with regulatory standards.  
+- PDF Extraction Testing – Verified the accuracy and formatting of extracted PDFs for CRFs and Audit trails to ensure regulatory compliance and data traceability.  
+
+STUDY STARTUP ACTIVITIES:  
+- Designed and developed Case Report Forms (CRFs) for accurate data collection.  
+- Prepared Edit Check Program (ECP) and manual checks to ensure data integrity.  
+- Conducted comprehensive User Acceptance Testing (UAT), including screen testing to verify field properties, input validation logic, and form navigation as per protocol.  
+- Executed Edit check testing to validate system-generated data accuracy, protocol compliance, and timely query resolution.  
+- Role-wise testing is conducted to ensure user-specific access, permissions, and functionalities aligned with study roles and security requirements.  
+- Performed Query report testing to validate accuracy, resolution tracking of system-generated and manual queries.  
+- Verified Audit log reports testing to ensure accurate tracking of data activities, data changes, and compliance with regulatory standards.  
+- PDF Extraction Testing – Verified the accuracy and formatting of extracted PDFs for CRFs and Audit trails to ensure regulatory compliance and data traceability.  
+
+STUDY CONDUCT ACTIVITIES:  
+- Performed ongoing data review for accuracy, completeness, and consistency.  
+- Generated, tracked, and resolved system and manual queries.  
+- Conducted listings review (AE, SAE, MH, CM, Labs, ConMeds, Vitals).  
+- Performed medical coding using MedDRA (AEs/MH) and WHO-DD (Concomitant Medications).  
+- Executed data reconciliation activities:  
+  - SAE reconciliation with safety database  
+  - Lab data reconciliation (central and local labs)  
+  - PK/PD and IRT reconciliation  
+- Maintained Clean Patient Tracker to monitor subject and visit status.  
+- Reviewed protocol deviations and missing data.  
+- Supported interim data reviews and data exports.  
+- Followed SOPs, GCP, and regulatory guidelines throughout the study.  
+
+CLOSEOUT ACTIVITIES:  
+- Conducted final data cleaning and quality control (QC) checks.  
+- Managed soft lock and hard lock processes to finalize datasets.  
+- Ensured proper documentation and archival of clinical trial data.  
+
+EDUCATION  
+
+PharmD from Rao’s College of Pharmacy, University of JNTUA in 2022  
+
+CERTIFICATIONS  
+
+NIDA Certification (Valid: Feb 2022 – Feb 2025)  
+Advanced Diploma in Clinical Research  
+Skill India Certification Clinical Research Associate  
+SQL Certification – Frontlines Media Edutech Pvt. Ltd.  
+Certification on Generative AI – CUMINDS INNOVATIONS  
+Agile Scrum Foundation certificate – Simplilearn

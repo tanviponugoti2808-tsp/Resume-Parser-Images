@@ -1,0 +1,117 @@
+Shivaraj Baradi  
+Mobile: 7400188544  
+Email: bsr8669@gmail.com  
+
+Career Objective  
+Aspiring to have a challenging position and growth-oriented opportunities in the field of Clinical Research, which will allow me to utilize my potential and provide a satisfying professional experience.  
+
+Experience  
+10 years & 8 months of experience in Clinical Data Management.  
+
+Accenture Solutions Pvt Ltd:  
+Medical Services Specialist from Dec 2022 to till date.  
+Medical Services Senior Analyst from Aug 2018 to Nov 2022  
+
+Cognizant Technology Solutions:  
+Data Analyst from Sept 2016 to Aug 2018  
+
+Tata Consultancy Services:  
+Clinical Data Manager (May 2014 to Sept 2016)  
+
+Technical Index  
+> Study Setup  
+eCRF specifications  
+Validation specifications  
+Visit Matrix  
+User acceptance testing  
+Test script creation  
+eCRF Review Manual and eCRF completion guidelines  
+TSDV  
+Safety Gateway  
+
+> Study Conduct  
+Protocol Data Review Plan  
+Data Quality Management Plan  
+Discrepancy management  
+Manual Reconciliation  
+Regular liaisons with Sponsor, DB programmer, medical coding and stats team  
+SAE reconciliation  
+Quality Check  
+
+> Tools  
+Medidata Rave / Rave X  
+JReview  
+eTMF  
+RDC  
+Oracle Clinical  
+Spot Fire  
+CDW  
+
+Responsibilities  
+As Medical Services Specialist  
+- Provide inputs regarding Study Startup activities and time  
+- Identify and Document risks and issues for study startup  
+- Review Stable Draft Protocol and provide comments  
+- Track study startup activities and provide regular process  
+- Add Site payment requirements in site payment vendor tool, then perform complete payments matrix documentation and share documents to site payment vendor and DBD, perform UAT and verify UAT completion from Site payment  
+- Schedule IRM Meetings and document MOM, provide eCRP’s to study team for review and make recommended changes  
+- Assess Global library (GLIB) updates for critical changes at initial or migration stage  
+- Develop Data Management Plan including study specific data review strategy with Study DRP Data Review Strategy (e.g.: PDRP Appendix IIb)  
+- Conduct Data Quality meetings to understand inputs on listing specifications and provide input to client  
+- Develop various documents during the set-up phase of the study including check specifications, Database Specifications, dynamic metrics specification as applicable  
+- Review test migration and production audit trial migration  
+- Create TSDV (Targeted Source Data Verification) specifications and route for review to respective study stakeholders  
+- Perform the testing of integration configuration (e.g.: Safety Gateway)  
+- Develop eCRF instructions and prepare eCRF Training based on check specifications  
+- Submit Change Request (CR) if any update to the fields/ forms is required  
+- Request initial and final database snapshot or data extraction  
+- Lock forms in Rave on an ongoing basis in Rave in accordance with lock timelines; also, re-check timelines  
+- Ensure all required documents are present in eTMF for the study (e.g.: Procedures/edit forms is required in Standard library)  
+- Monitor and communicate timelines at protocol level for all studies  
+- Confirm all database cleaning activities are completed for study closure  
+- Facilitate DBL risk assessment and presentation to the DBLRC  
+- Track missing page, pending SDV and pending PI signature status of assigned investigative sites/clinical studies via various applicable reports  
+- Track and follow-up with site-facing roles to have data entry completed by sites or critical missing eCRFs-at the time of lock  
+- Perform quality check for DM activities  
+
+As Medical Services Senior Analyst  
+- Performing Listing review of all the manual checks for multiple studies along with peer review. (Data cleaning)  
+- Handling multiple study timelines.  
+- Preparing standard work instructions (SWI’s) for listing specifications and provide input to client  
+- Review eCRF instructions and provide training if needed  
+- Attend study meetings to review database status  
+- Regularly review status of open queries, follow up with status to client  
+- Performing end to end activities  
+- Handling team of 9 members. Oncology Phase II, III and IV trials  
+- Carrying out conduct activities which include creating study authorizations for both the studies, liaising with study calls and updating study timelines for setup studies  
+- Performed UAT of post-production change  
+- Additional responsibilities involve reviewing reports prepared by team members carrying out end-to-end data management activities and closure activities  
+
+As Data Analyst  
+- Worked with two trial data managers and prepared reports for 2 studies  
+- am key contributor to the team members  
+- Prepared mock CRF’s for study setup  
+- Daily work allocation to team members  
+- Supervising team members  
+
+As Clinical Data Manager  
+- Worked with a team of clinical data managers that including study setup, conduct and closure of UMBRELLA Trials, and handling a team of 5 members  
+- Regular liaisons with sponsor, database, medical coding and statistical programming teams to ensure smooth functioning of clinical study  
+- Daily work allocation, updates of study timelines  
+- Extra – Curricular Activities  
+- Secured Post Graduate Diploma in Management (Operations Management) on 31Dec2019  
+- Secured Lean Six Sigma Green Belt Certification from Var Sigma with a score of 73% in Jul2019  
+- Secured 203 rank in National level Pharmacy Talent Search Examination (Senior Level)-2010  
+- A Paper entitled “FAST DISSOLVING TABLETS: A PATIENT FRIENDLY DRUG DELIVERY SYSTEM”  
+- Poster Presentation at 2nd Indian Pharmaceutical Association-Student’s Congress-2009 at Bangalore  
+
+Personal Information  
+Gender: Male  
+Nationality: Indian  
+Language Known: English, Hindi, Telugu  
+
+Declaration  
+I solemnly affirm and state that the particulars mentioned above are true to the best of my knowledge.  
+
+SHIVARAJ B  
+Page 3|3

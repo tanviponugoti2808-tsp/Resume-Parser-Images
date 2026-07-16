@@ -1,0 +1,43 @@
+RESUME
+Sai Swaroop Pinreddy
+Hyderabad, India
+R, +91 80963 06474 £81 swarooppinreddy@gmail.com
+Professional Summary
+Clinical Data Management Professional with 3+ years of experience in database vi
+testing, SAS listing review, and CRF validation within clinical trials. Experienced in
+environments with exposure to UAT execution, and validation documentation. Str
+CDISC, and 21 CFR Part 11 compliance.
+Professional Experience
+Junior Research Analyst
+Excelra Knowledge Solutions Pvt Ltd
+June 2022 September 2025 Hyderabad, India
+* Supported User Acceptance Testing (UAT) activities for CRFs and Time & E
+¢ Performed validation testing of edit checks based on approved QC checkli
+* Reviewed test cases and test scripts to ensure alignment with protocol re
+¢ Assisted in database lock preparation and validation activities.
+* Reviewed SAS-generated listings for data consistency and protocol compl:
+* Cross-verified clinical data listings against EDC entries.
+¢ Worked in Medidata Rave for query management and data validation tasl
+* Participated in system and functional testing during study build activities.
+* Reviewed controlled validation documentation in document managemen
+* Ensured compliance with GCP, internal SOPs, and regulatory guidelines.
+¢ Supported audit preparation and documentation readiness activities.
+Education
+Bachelor of Pharmacy (B.Pharm) Vaageswai Institute of pharmaceutical sciences,
+Affiliated to JNTUH 2022
+in Medidata Rave
+e validation, edit check
+in Medidata Rave
+Strong understanding of GCP,
+& Events forms.
+cklists.
+requirements.
+apliance.
+asks.
+es.
+ient systems as per SOPs.
+3,
+ces, Karimnagar.
+DECLARATION
+hereby declare that the information provided above is true and correct to the best of my knowledge.
+Sai Swaroop Pinreddy

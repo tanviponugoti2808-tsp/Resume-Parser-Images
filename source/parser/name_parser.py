@@ -30,7 +30,8 @@ _COMPANY_SUFFIX_RE = re.compile(r'\b(?:pvt|pivate|ltd|limited|inc|corp|corporati
 
 _REDUCED_STOP_WORDS: Set[str] = {
     "resume", "cv", "curriculum", "vitae", "page", "details", "contact",
-    "phone", "email", "address", "gender", "linkedin", "github", "zipcode"
+    "phone", "email", "address", "gender", "linkedin", "github", "zipcode",
+    "naukri", "indeed", "monster", "shine"
 }
 
 def clean_candidate(raw: str) -> str:
@@ -55,6 +56,18 @@ def is_valid_name(candidate: str, is_isolated: bool = False) -> bool:
         or _ADDRESS_INDICATORS.search(cleaned)
         or _COMPANY_SUFFIX_RE.search(cleaned)
     ):
+        return False
+    
+    # Reject common structural location markers and cities from being named
+    lower_cleaned = cleaned.lower()
+    location_blacklist = {
+        "pune", "mumbai", "bangalore", "bengaluru", "hubli", "kolhapur", 
+        "india", "maharashtra", "karnataka", "delhi", "hyderabad", "chennai",
+        "state", "district", "tal", "village", "address", "location"
+    }
+    
+    # If the candidate string contains any of these location words, reject it immediately
+    if any(loc in lower_cleaned for loc in location_blacklist):
         return False
 
     # Reject common resume section headings
@@ -85,7 +98,37 @@ def is_valid_name(candidate: str, is_isolated: bool = False) -> bool:
         "management",
         "statistical",
         "programmer",
-        "other"
+        "other",
+        "core",
+        "competencies",
+        "competency",
+        "test",
+        "lead",
+        "senior",
+        "junior",
+        "engineer",
+        "manager",
+        "developer",
+        "analyst",
+        "consultant",
+        "architect",
+        "specialist",
+        "associate",
+        "intern",
+        "trainee",
+        "executive",
+        "administrator",
+        "coordinator",
+        "supervisor",
+        "director",
+        "head",
+        "principal",
+        "staff",
+        "debugging",
+        "responsibilities",
+        "responsibility",
+        "duties",
+        "roles"
     }
 
     words = [
@@ -140,9 +183,18 @@ def generate_candidates(raw_lines: List[str]) -> List[Tuple[int, str, bool]]:
         stripped = raw_line.strip()
         if not stripped:
             continue
+        
+        # Original core isolation check
         prev_blank = (idx == 0 or raw_lines[idx - 1].strip() == "")
         next_blank = (idx == len(raw_lines) - 1 or raw_lines[idx + 1].strip() == "")
-        processed_lines.append((idx, stripped, prev_blank and next_blank))
+        is_isolated = prev_blank and next_blank
+        
+        # SURGICAL HOTFIX: If it is the first line of the document and a single word, 
+        # force it to True so it doesn't get discarded by the single-word penalty block.
+        if idx == 0 and len(stripped.split()) == 1:
+            is_isolated = True
+
+        processed_lines.append((idx, stripped, is_isolated))
 
     for i, (orig_idx, current_str, is_isolated) in enumerate(processed_lines):
         if _FUZZY_HEADER_RE.match(current_str):

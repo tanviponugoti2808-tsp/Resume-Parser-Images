@@ -1,0 +1,161 @@
+Snehali Bhalerao  
+91-19967926865  
+isnehal@bhaleraoZ007@rediffmailicom  
+
+Seeking a challenging position in Clinical Data Management field where I can utilize my skills and contribute to the success of the company and that offers professional growth by working towards organizational goals & objectives.  
+
+Skills/Roles & Responsibilities  
+- Clinical Data Management  
+- Rave, Inform, ORDC & Medrio eClinical  
+- Spotfire tool  
+- Docu sign tool  
+- eTMF  
+- MS office  
+- Project Management  
+- Active listening  
+- Leadership  
+- Mentoring  
+- Problem-solving  
+
+Work History  
+Nov-2023 till date Medrio, (Quality Assurance India LLP)  
+(Senior Lead Clinical Data Manager)  
+- Managing clinical data management activities in compliance with SOPs  
+- Develop and review all standard Clinical Data management documents  
+- General EDC configuration  
+- Form building, Subject status rules, Form rules, Skip logic, Range checks, Edit checks configuration  
+- eCRF build specification creation  
+- Edit check specification/ Data Validation plan creation  
+- UAT-Plan and execution report (UAT-PER) creation  
+- Perform UAT of screen built and edit checks  
+- Data entry Guidelines writing  
+- Data Management plan preparation  
+- User access administration  
+- Data transfer file specifications writing  
+- SAE reconciliation plan creation  
+- Manual/SAS checks specifications  
+- Project plan timelines updates  
+- Site user guide preparation  
+- Mid study update form  
+- Study status metrics reports specification  
+- Provide EDC access to the study people as per their roles in EDC  
+- Perform Technical review/Peer QC of all the study documents  
+- Preparation of study status metrics  
+- Primary point of contact for client and vendor  
+- Sharing study status Metrics with the study team  
+- Conduct regular team meetings with Project manager, internal team and clients  
+- Maintenance of oversight tracker MOM & Decision log  
+- SAS listings/ Manual listings review  
+- Perform SAE Data reconciliation  
+- Query management  
+- Perform Mid study updates/ Database Migration  
+- Preparation of Timelines for database Go-live, Migration, Soft lock, IDMC snapshot and Lock  
+- Worked on subject data summary report during data cleaning  
+- Keeps record of all the activities to ensure the smooth flow of the study throughout its lifecycle  
+- Using Docu sign tool to archive the document  
+- Archive the final approved documents in eTMF and study drive  
+
+Mar-2021 till Nov-2023 Tata Consultancy Services  
+(Study Data Team lead)  
+- Overall in-charge of all the data management activities Including Set up, Conduct and Close out  
+- Preparation of Metrics designing document  
+- Development of eCRF specifications  
+- Study logic and check specification creation  
+- Perform UAT of edit checks  
+- Create and maintain eCRF development tracker  
+- Data Management plan creation  
+- Creation of eCRF completion guidelines  
+- Generation of Blank & Annotated eCRF  
+- Writing specifications for validation/Spotfire listings  
+- Preparation of Lab ranges textbook - Memo document for Local lab  
+- UAT of Non eCRF data during Set up  
+- Updating Project plan timelines  
+- Frequent connect with Sponsor  
+- Metrics and study status preparation  
+- Review SAS (Spotfire) listings  
+- Third-party data reconciliation  
+- Perform SAE Data reconciliation  
+- Query management  
+- Perform study migration  
+- Preparation of Timelines for IDMC/Soft lock/Hard lock  
+- Perform patient transfer activity  
+- Prepare data cleaning checklist prior to IDMC/Soft lock/Hard lock  
+- To Maintain data cleaning tracker for discontinued / screen failure patients  
+- Data cleaning for Early sites closure  
+- Working on data issues highlighted by statistician team - SDTM issue log  
+- To be part of Study community/ Operational meetings  
+- Entering of Lab ranges in EDC for Local lab  
+- Review MLR & MLN reports  
+- Scheduling and Conducting meeting with Client/Vendor/Clinical team  
+- Primary point of contact and work liaison for Clinical Programmer, Data Acquisition and Clinical Coding team  
+- Responsible for maintenance of oversight tracker  
+- Archival of documents in eTMF  
+- Maintaining of protocol deviation issue tracker  
+- Follow up with the statistician team & Coding team for open issues  
+- Coordinating and follow up with site for outstanding issues/ Non-SDV data  
+- Follow up with PI for Investigator signatures on cleaned data  
+- Perform Database Lock activity  
+- Perform post Database lock activities  
+- Creation of patient data reports (PDF) and Investigator letter  
+- Encryption and archiving of patient data in CD/DVD and sends to the respective Investigator  
+- Set priorities and targets of study with the respective team  
+- Monitors and evaluates overall study progress, identify the potential risk/challenges faced during the study  
+- Conduct regular team meetings with Clients  
+- Proactively communicate/escalate the identified unresolved issues/challenges to the higher management  
+- Ensure the team members deliver high quality work and follow effective Data Management process within the team  
+
+Mar-201i to Mar-2021 Cognizant Technology Solutions  
+(Team Leader)  
+- Handling set up, Conduct & post database lock activities  
+- Worked on Rave, Inform & ORDC tools  
+- Preparation of Visit metrics  
+- eCRF specification preparation  
+- Edit check specifications writing  
+- Data Management plan creation  
+- eCRF completion guideline creation  
+- Perform User Acceptance testing (UAT)  
+- Lab data transfer Specification writing  
+- Perform external data reconciliation  
+- Review validation listings on monthly basis  
+- Discrepancy management  
+- Review of Deliverables before share it with the Client  
+- Track study related metrics  
+- Update study issue log  
+- Perform QC as per QMP  
+- Scheduling and allocating work to the Data managers  
+- Ensuring the team's performance in terms of compliance with the SLA/KPI  
+- Training and Mentoring  
+- Setting targets for the team  
+- Identified Process Improvement wherein Automation of manual checks  
+- Ensure all the activities are complete as per agreed timelines  
+- Conduct regular team meetings  
+- Client interactions  
+- Provide monthly status reports to Project Managers and Client  
+- Handling of internal Audit  
+- Creation and maintenance of RCA CAPA documents  
+- Maintenance of oversight tracker  
+- Updating and maintaining Project care documents  
+- Ability to lead/supervise a team  
+- Archival of documents in eTMF  
+- To perform defect Prevention Analysis  
+- Create defect tracker and CAPA deck  
+- Peer review of training documents for the entire Team  
+- POC for seat management assignment  
+- Part of Fun committee  
+- Part of outreach program  
+
+Education  
+Degree | Grade | University/Board | Near | Year  
+M.Sc (Organic Chemistry) | First | Mumbai | Mumbai | 2010  
+B.Sc (Chemistry) | First | Mumbai | Mumbai | 2008  
+HSC | First | Maharashtra | Mumbai | 2005  
+SSC | First | Maharashtra | Mumbai | 2003  
+
+Languages  
+- English  
+- Hindi  
+- Marathi  
+
+Certification  
+- Passed MSCIT in 2007  
+- Lean Six Sigma Certification

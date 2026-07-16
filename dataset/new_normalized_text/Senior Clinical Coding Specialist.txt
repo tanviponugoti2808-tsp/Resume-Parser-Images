@@ -1,0 +1,61 @@
+Rani Challa  
+Senior Clinical Coding Specialist  
+Accenture +91-9361645162  
+Mail: ranichalla25@gmail.com  
+
+Clinical Data Management / Clinical Data Coding  
+Result oriented, process driven and highly skilled Clinical Data Management professional with 12 years of experience in therapeutic areas. Well versed with ICH-GCP, 21 CFR Part 11 and other guidelines. Strong academic qualifications include an Advanced Postgraduate Diploma in Clinical Research and Management.  
+
+HIGHLIGHTS OF EXPERIENCE  
+- Played a key role in migrating studies from OC to Rave  
+- Working experience on clinical studies — Oncology, and other Therapeutic areas (Phase I, II, III)  
+- Experience in performing end-to-end data management activities (Start-up, Conduct and Close-out)  
+- In-depth knowledge and understanding of Protocol, ICF, CRF’s and other study documents  
+- Working knowledge of MedDRA, WHODD  
+- Performed assigned tasks independently and within timelines according to Sponsor specific requirements  
+- Working knowledge in Clinical database tools such as RAVE, OC  
+- Working knowledge in Database and coding tools like iMedidata RAVE, COLLECT, J*Review, SQL, Veeva Vault, CDW  
+
+PROFESSIONAL EXPERIENCE  
+1. Sr Clinical Coding Specialist, Accenture, Chennai — December, 2012 to Present  
+- Coding Activities: Start-up Phase  
+  - Performed the UAT as per validation plan for data management specialists  
+  - Provided the Data flow UAT feedback and ensured the database was updated with required specifications to perform UAT  
+  - Participated in study meetings and provide inputs related to Medical Coding  
+- Conduct Phase  
+  - Query Management: Generate queries per data cleaning specifications  
+  - Quality check for open and closed queries. Monitor the answered queries and communicate with Sponsor for clarifications, as appropriate  
+  - Clinical Data Coding:  
+    - Effectively and accurately reviewed clinical database for investigator assigned manual codes for all the terms which have failed to auto-evaluate  
+    - Performed accurate and consistent medical coding for assigned studies using MedDRA Dictionary and Client Drug Dictionary or UMC WHO Drug Dictionary  
+    - Effectively ensuring all the coding activities are compliant with provided SOPs and guidelines  
+    - Participated in coding review meetings and provided inputs on coding discrepancies  
+    - Drafted the manual queries for the terms that cannot be classified to MedDRA or UMC WHO or Client Drug Dictionary  
+    - Performed consistency review of MedDRA and UMC WHO or Client Drug Dictionary against vendor coded data and perform remap request & Created queries to ensure coded data is consistent and accurate with standard guidelines and conventions  
+    - Supported in User Acceptance Testing (UAT) for coding in initial study set up and in post-production changes. Performed spontaneous reporting of identified discrepancies to study team to make sure coding UAT is completed within assigned timeframe  
+    - Worked on MedDRA versioning activities and performed MedDRA version upgrade potential manual remap identification  
+    - Performed Query management, SAE Reconciliation (missed coding fields) activity by following SOPs  
+    - Generate Coding reports with the unresolved discrepancies and work with medical monitors and study team to resolve all discrepancies  
+    - Serves as a SME for interval review of coded terms and provided feedback towards increasing the quality  
+    - Performed documentation of all the study coding related documents and resolved QR findings (if any) occurs when work flow changes  
+- Close-Out Phase  
+  - Perform final cleaning as per timelines and last query out  
+  - Perform database pre-lock checklist review and adhere to timelines for re-documentation  
+  - Manage and review data per PDM instructions for Interim analysis, Final lock  
+  - Ensure all coding data is reviewed, clean with no outstanding issues and approved  
+  - Encode verbatim terms and reports  
+
+ACADEMIC CREDENTIALS  
+YEAR OF PASSING | PERCENTAGE OF PASSING | QUALIFICATION | NAME OF INSTITUTION  
+2011 | 74 | Advanced Postgraduate Diploma in Clinical Research and Management | Jaipur National University, Jaipur  
+2009 | 67.7 | B.Pharm | Dr. MGR Medical University, Chennai  
+
+COMPUTER SKILLS  
+MS Word, Excel, Power Point, Outlook, Adobe Acrobat  
+Technical Tools: iMedidata Coder, OC-TMS, J*Review, SQI, CDW  
+
+DECLARATION:  
+I hereby declare that the above information and particulars are true and correct to the best of my knowledge and belief.  
+
+Place: Chennai  
+Rani Challa

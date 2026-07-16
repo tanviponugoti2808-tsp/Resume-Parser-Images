@@ -1,0 +1,85 @@
+SAMRAT ROYCHOWDHIRY  
+Address: Bengaluru, Karnataka  
+Email: roychowdhury.samrat21@gmail.com  
+LinkedIn: www.linkedin.com/in/samratroychowdhury/  
+Contact No: +919163715502  
+
+CAREER OBJECTIVE  
+Clinical Research professional with 4 years of experience delivering high-quality, compliant clinical data through rigorous data cleaning, reconciliation, and cross-functional collaboration, consistently recognized for exceeding study expectations.  
+
+WORK EXPERIENCE  
+IQVIA RDS, Bengaluru, India  
+Clinical Data Specialist  
+May 2024 — Present  
+- Promoted high standards of data quality by executing comprehensive data review and cleaning processes, including evaluation of manual listings, programmed outputs, and page-level reviews.  
+- Actively involved in study start-up activities, with a strong focus on UAT and validation.  
+- Facilitated data freezing and database locking activities, ensuring data integrity during critical study milestones.  
+- Managed Query Management activities, ensuring all queries were resolved within defined Turnaround Times (TATs).  
+- Performed SDTM data transfer reconciliation to ensure accuracy, completeness, and consistency of output datasets across multiple studies.  
+- Collaborated in developing automated CPT metrics, improving data quality and operational efficiency.  
+- Accountable for vendor data reconciliation (Lab, Sample Tracking, eCOOP, etc.), ensuring timely and accurate integration of vendor data.  
+- Supervised/ Led programmed listing reviews, including Pinnacle 21 checks, FBT reviews.  
+- Supported clinical studies within the Immunology therapeutic area, with a primary focus on Psoriasis indication.  
+- Successfully delivered 4 Interim Analyses, 1 Database Lock, and 2 Data Snapshots meeting all regulatory and sponsor timelines.  
+- Functioned as a Backup Lead Data Reviewer, acting as a liaison between internal resources, Sponsor GDMs, CRAs, Programmers, and Coders, ensuring seamless communication and issue resolution.  
+- Gained hands-on experience with industry-standard platforms including Medidata Rave, ADMS, QTest, LSAF, and related clinical data systems.  
+- Supervised all study-related documentation within Veeva Vault (V-TMF), ensuring continuous audit readiness and regulatory compliance.  
+- Supported the Library team by designing, writing, and testing 2,500+ data validation checks in a single month, contributing to enhanced data quality standards.  
+- Proactively identified and escalated protocol deviations during trial conduct, supporting compliance and risk mitigation.  
+- Mentored new joiners and team members, providing guidance on both study-related and non-study activities to accelerate onboarding and integration.  
+- Teamed up with Programmers to develop automated vendor and metric reports, reducing delivery timelines to nearly one-quarter of the original effort.  
+- Assisted in the creation and amendment of key clinical trial documents, including CCG, MPD, DVR, and DVS.  
+- Contributed to approximately six clinical studies till date.  
+- Consistently achieved 100% Client Satisfaction Scores across three consecutive study evaluations.  
+- Volunteered in the Organization Fun Committee, planning and executing engagement activities to strengthen team cohesion and enhance workplace morale.  
+
+Fortrea (Formerly LabCorp Drug Development), Bengaluru, India  
+Associate Clinical Data Analyst  
+March 2022 — May 2024  
+- Performed data cleaning activities such as manual listing reviews, programmed listing reviews, and page-level reviews as part of data management processes.  
+- Conducted Query Management tasks on a daily basis.  
+- Utilized EDC platforms such as Omnicomm TrialMaster, Medidata RaveX, and Veeva CDMS for data management tasks.  
+- Assisted in Study Startup, Conduct, and Closeout.  
+- Worked on Screen Dynamics and Edit Checks User Acceptance Testing.  
+- Performed Data Entry as part of UAT activities.  
+- Contributed to the preparation of Edit Checks test case writing along with QC.  
+- Performed UAT for non-EDC processes such as SAS listings.  
+- Supported data processing activities e.g., medical monitor query review, SAE reconciliation, etc.  
+- Executed Freezing/Locking of Case Report Forms (CRF) during database closeout milestones.  
+- Specialized in therapeutic experience within Endocrinology, focusing on Growth Hormone Deficiency (GHD) and Hypoparathyroidism.  
+- Responsible for preparation of Study Metrics and CPT Metrics reports.  
+- Achieved multiple Migrations, Interim analysis, Data Snapshots, and other deliverables on given timelines.  
+- Assisted in identifying and reporting protocol deviations.  
+- Supported the setup of Data Management (DM) documents, ensuring proper documentation.  
+- Maintained effective communication with sponsors and other stakeholders throughout the study lifecycle.  
+- Ensured compliance with standard operating procedures and ICH/GCP guidelines.  
+- Maintained training compliance as per job roles assigned, including on the job trainings.  
+- Assisted in a total of 9 projects to date.  
+
+THERAPEUTIC EXPERIENCE  
+- Endocrinology: Hypoparathyroidism (Phase II/III)  
+- Endocrinology: Growth Hormone Deficiency (Phase IIIb)  
+- Immunology: Psoriasis (Phase II/IID)  
+
+ACADEMIC QUALIFICATIONS  
+- Indian Academy Degree College Autonomous, Bengaluru  
+  Master of Science (M.Sc.) — Biotechnology: CGPA- 8.4  
+- Maulana Abul Kalam Azad University of Technology, Kolkata  
+  Bachelor of Science (B.Sc.) — Biotechnology: CGPA-7.5  
+
+SKILLS  
+- Tools: Google Workspace, Microsoft Office (Word, Outlook, Excel – Advanced), Power BI (Beginner Proficiency), SAS LifeScience Analytical Framework (LSAF), Q-Test, Omnicomm TrialMaster (2 years proficiency Test/Prod), Medidata Rave (3 years proficiency Test/Prod), Veeva Vault EDC (0.5 years proficiency Test).  
+- Databases: Medidata RAVE (3 years proficiency Test/Prod); Omnicomm TrialMaster (2 years proficiency Test/Prod); Veeva Vault EDC (0.5 years proficiency Test).  
+
+ACHIEVEMENTS  
+- Received the IQVIA Impact Bronze Award twice (third-highest organizational recognition) and the IQVIA Impact Spotlight Award three times for consistently upholding responsibilities and exceeding defined study role expectations.  
+- Recognized with the Fortrea People Excellence award twice for outstanding contributions during team meetings and trainings, demonstrating strong interpersonal skills and collaboration.  
+- Received the Fortrea Process Excellence award twice for the contributions, efficiency, and role ownership in the study projects during the time of deliverables.  
+
+LANGUAGES KNOWN  
+- English  
+- Hindi  
+- Bengali  
+
+DECLARATION  
+Thereby declare that the above particulars furnished by me are true to the best of my knowledge and belief. I am available for the interview and can discuss my resume in detail.

@@ -1,0 +1,306 @@
+RESUME
+(OBJECTIVE
+SWAPNIL SURESH
+RASKAR
+Experienced Clinical Data Manager with over 14 years of experience looking
+to leverage extensive background of clinical study start up, conduct, swapnil.raskar@gmail.com
+close out activities and team leading capabilities.
+[EXPERIENCE
+Mobile: +91 9823209897
+LinkedIn URL:
+Organization
+Designation
+Duration
+www.linkedin.com/in/swapni
+l-raskar-CDM.
+Johns Hopkins India
+Jul 2013 To
+(Center for Infectious Diseases,
+Data Manager
+Till date
+Professional URL:
+India)
+https://www.hopkinscidi.org
+/our-team
+Cognizant Technology Solutions,
+Junior Data Analyst
+May 2012 To
+Mumbai
+June 2013
+My Bibliography:
+Pharmanet/i3, Pune
+Oct 2010 To
+https://www.ncbi.nlm.nih.go
+Clinical Data Processor
+(inVentive Health Company)
+May 2012
+v/myncbi/swapnil.raskar.1/b
+ibliography/public/
+Sassoon Hospital, Pune
+Medical Software
+July 2010 To
+(HMIS Project of HP Healthcare)
+Trainer
+Oct 2010
+Personal Data
+‘CERTIFICATIONS & TRAININGS
+Age: 38 years
+Sex: Male
+1 Week NIH, USA Sponsored training program on “Fundamentals of
+Clinical Data Management” in FHI360, North Carolina, USA.
+Nationality: Indian
+FHI 360 certificate of Good Clinical Practices and Human subject
+Languages Known: English,
+protection in research.
+Hindi, Marathi
+CITI PROGRAM Certification of ICH GCP and HSP.
+Passport no: H8621915
+Health Research Fundamentals certification ICMR-NIE)
+Permanent Address:
+NIH web-based training course on Protecting Human Research
+Pune, Maharashtra, India.
+Participants.
+Web based training course on Protection of Human subjects Rights by
+collaborative IRB Training Initiation.
+Certificate course in IT.
+InForm training certificate of Duke Clinical Research Institute
+Oracle Database 11g: Program with PL/SQL Release 2
+e
+‘SKILL SET
+e
+Databases
+Oracle Clinical, Oracle RDC (5.0.1), InFORM
+Advantage eClinical, Medidata Rave (4.0), RE
+Epidata, ODK (open data kit), SQL and R
+Packages
+MS-office 365(word, excel, power point, acces
+Salesforce
+Experience on creating studies, designing form
+EPIDATA
+Experience in designing forms in Epidata Man
+IJOB COMPONENTS
+1
+Data Manager
+Johns Hopkins India, Clinical Trial Unit (unit of Johns Hopkin
+(Jul-2013 — Till date)
+Team Management-
+Responsible for the overall coordination of the Data Management C
+i.
+Responsible for training of the study team members regarding CRF
+resolution, and documentation of query resolutions.
+iii
+Prepares a summary of the incident report form for monthly meetin
+analysis of this report will decide if additional training is required fi
+data entry staff and data QA/QC staff.
+1v
+Monitor the activities of Records Management team. Ensures that tl
+CRFs and SDs is maintained appropriately.
+Supervise data entry and error check resolution.
+VI
+Mentor team members whenever required.
+vii
+Responsible for keeping track of user access controls in the local dz
+viii
+Ensures remote data collection tools connectivity with server and c]
+1X,
+Responsible for annual performance review of DEOs, QA/QC Asso:
+Associate, Statisticians and Associate Data Managers.
+Study Setup-
+Responsible for designing and implementing CRF completion guid:
+environment used.
+i
+Responsible for developing study build document, validation plan <
+document.
+iii
+Work closely with programming team to ensure all critical data poi
+various online and offline checks.
+lV
+Prepare test cases and perform UAT in test database.
+Ensure all the Events/Visits and respective Forms are enabled
+mentioned in protocol.
+VI
+Responsible for setting up study in EDC as per sponsor’s requireme
+(Programming in REDCap, Salesforce, MS Access, EPIDATA)
+vii
+Prepares SOPs, MOPs and will be responsible for updating as per p.
+required,
+Study Conduct-
+Perform Data management activities on the assigned project in a tir
+ll
+Responsible for attending weekly/monthly conference calls.
+iii
+Responsible for updating and tracking issues, resolutions of databa:
+M V5.5, Salesforce,
+REDCap, MS Access, SPSS v16.0,
+cess)
+ms, validations
+[anager
+sins University, USA)
+it Center.
+RF completion, query
+tings. Depending on the
+d for the data collection staff,
+ut the chain of custody for
+database.
+1 check for offline data.
+isociate, Records Management
+lidelines as per the
+in and edit check specification
+yoints are being covered under
+sd as per schedule of events
+sment.
+r procedural change whenever
+timely and efficient manner.
+base and communicating with
+respective programming team.
+IV,
+Responsible for data reconciliation of Lab values and SAEs.
+Responsible for assigning the queries generated within EDC to
+in the same activity in a timely manner.
+vi
+Update database with query resolutions.
+vii
+Will take part in protocol update discussions, and highlight
+management aspects like CRF changes, Schedule of Evaluation
+viii
+Learn new database environments as per study requirements
+accordingly by their job roles.
+1X,
+Responsible for submitting required study data extracts to study
+study investigators.
+Study Close Out-
+Track and Review CRF pages for PI signature and CRA verific:
+iL.
+Ensure all the data discrepancies are resolved.
+iii
+Responsible for sending status reports with respect to enrolled ¢
+data (storage data) to PI before final sign off.
+IV,
+Database lock.
+Junior Data Analyst-
+Cognizant Technology Solutions (from May-2012 To June-2
+Perform data management activities with focus on quality and t
+documentation.
+i
+Co-ordinate with Lead Data Manager to ensure trail is managec
+iii
+Support UAT according to validation plan.
+lV,
+Performing UAT of the Screen database as per the CRF to ensu
+with the final CRF and perform UAT of Edit checks according
+Perform ongoing data review and cleaning activities for assigne
+vi
+Support quality control checks for the trial.
+vii
+Ensure that all data management activities are performed in cor
+requirements.
+viii
+Regular follow-up with the CRA during the lock to ensure that
+approved, to discuss the issues faced by the sites to resolve disc
+issue.
+1X,
+Participate in knowledge sharing sessions as and when required
+Escalate issues and trends in database in timely manner to LD
+XL
+Ensure adherence to productivity and quality targets.
+xii
+Contribute to process improvements.
+Clinical Data Processor —
+Pharmanet/i3 (an inVentive Health Company) from Oct-2
+Perform first pass and second pass entry of data.
+ll
+Scan and index new data received.
+iii
+Case Report Form file management (Records management)
+1V,
+Log Case Report Forms
+Provide quality control on completed work.
+vi
+DCF and DRFA management activities
+vii
+Monitor data entry activity, ensure accurate application of guid:
+Entry Review and Guidelines (DERG) and ensure quality and c
+: to team members and taking part
+at the points with respect to data
+ion changes, etc.
+ts and mentor the team members
+idy statistician whenever asked by
+fication status.
+d patients, follow up retention, lab
+1e-2013)
+id timelines as per trial specific
+ged efficiently with high quality.
+asure that database is consistent
+ng to Edit Check Specification.
+gned trial.
+compliance with the regulatory
+iat the CRF pages are verified and
+liscrepancy or any other technical
+red.
+DM/TDM.
+t-2010 to May-2012
+lidelines referencing Global Data
+d consistency.
+viii.
+Start-up activities like CRF design (Annotations according to global dictionary), edit check
+specifications.
+Recognized and appreciated for process improvement initiatives like: Reducing time in QC
+activities, customer satisfaction internally and externally on timely deliverables of Record
+management, Data entry activities.
+[EDUCATIONAL QUALIFICATION
+University /
+Year of
+Percentage
+Qualification
+Institute
+Board
+Passing
+(%)
+MBA
+Dr. D.Y Patil
+Dr. D.Y Patil Institute of
+Deemed
+Grade A
+(Hospital Administration &
+Online Learning, Pune
+2022
+7.39 GPA
+Healthcare Management)
+University
+PG Diploma in Clinical
+Bilcare Research
+Bilcare Research
+2009
+61.00
+Research
+Academy, Pune.
+Academy, Pune.
+Bachelor of Science
+Anna Saheb Magar
+University of
+Cndustrial Microbiology)
+Mahavidyalaya, Pune.
+Pune
+2008
+67.25
+HLS.C.
+T.C college (Baramati)
+Maharashtra
+2004
+67.00
+R.N Agarwal Technical
+S.S.C.
+Institute
+Maharashtra
+2002
+76.80
+(Baramati)
+‘STRENGTHS
+t)
+Systematic and Hard Working
+e
+Task oriented
+e
+Self-Motivated
+DECLARATION: I vouch for the authenticity of the above furnished information.
+Swapnil Raskar

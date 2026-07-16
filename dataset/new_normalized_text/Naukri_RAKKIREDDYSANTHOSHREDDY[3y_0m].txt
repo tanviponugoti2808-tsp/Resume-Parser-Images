@@ -1,0 +1,80 @@
+CURRICULUM VITAE  
+SANTHOSH REDDY  
+santhoshreddy.albino@gmail.com  
+Junior Data Analyst (JDA)  
+[Sr. Validation Analyst]  
+Tech Spec (Medi data RAVE)  
+Phone No: +91-6281635949  
+
+SUMMARY  
+Having 4 years of experience in the field of Clinical Data Management.  
+Having thorough understanding on Clinical trial Phases, Clinical trial process and Clinical data management process.  
+Proficient in RAVE EDC (Classic RAVE & RAVE X), INFORM & Ox Data Base, and Hands-on experience on Start-up, Conduct Phase & Close out Phase.  
+MEDIDATA SDBE Certified (DM & Data Validation).  
+Hands-on experience on RAVE STUDY BUILD/MEDIDATA CLIENT & ADMIN activities.  
+Good Knowledge on DB Structure and RAVE Modules (Architect, User Administration, Site Administration, PDF Generation configuration & CV).  
+Proficient in Handling EDIT checks Scripting (Complex/Custom Functions checks) UAT TESTING/DATA VALIDATION & SQL Queries.  
+Proficient in handling Documentation SAE/eTMF & CRF’s as per DMP/TEMF Master Plan.  
+Good understanding of FDA/ICH-GCP and Medical Terminology.  
+Knowledge of clinical trial procedures and clinical practice standards of Food and Drug Administration (FDA).  
+Good understanding of CDISC guidelines & Pharmacological studies.  
+Good understanding on 21 CFR Part 11 and Good Clinical Data Management.  
+Oracle Clinical  
+RAVE EDC and Oracle Clinical  
+Process and Close out Phase.  
+
+PROFESSIONAL EXPERIENCE  
+Worked for Paradigm IT (Client: MEDIDATA) (Hyderabad, Telangana, India) - Dec 2022 — June 2023.  
+Worked for Apexon (Techno soft Global Solutions LLP, Hyderabad, Telangana, India) — April 2021 — Present.  
+Worked for LabCorp Drug Development CRO. As a Sr. Validation Analyst (Client).  
+Worked for Cognizant Technologies Pvt Ltd., as a Junior Data Analyst from (Sep 2016 — Oct 2017), Mumbai.  
+Worked for Phase Clinical Life Sciences for 2+ years as Clinical Data Analyst (June 2014 — Sep 2016).  
+
+Report Management  
+Roles & Responsibilities:  
+Report Management  
+Data Validation & Data Review (Clinical Data Listings)  
+Query Management (Data Discrepancies)  
+Conduct & Close out activities in DM  
+DM Review Freezing & Locking (POC)  
+Lab Management (POC)  
+Edit check testing (MANUAL & AUTOMATION)  
+SAE & AE Reconciliation (POC)  
+Validation Documentation & Traceability Matrix  
+Handling TPV Data, IVRS & TWRS.  
+Handling DM activities (DM Review, Data entry lock, Hard locking)  
+Handling Real Time Data management processing (RTDM).  
+Handling client meetings (DMQL).  
+
+Other Responsibilities:  
+Deliver best value and high-quality service.  
+Check your own work in an ongoing way to ensure first-time quality.  
+Review and resolve data discrepancies identified by the system or through manual checks as identified in the data editing guidelines.  
+Support multiple clinical trials, across diverse therapeutic areas, to successful conclusion and provide technical oversight when required.  
+Keep the manager informed about work progress and any issues to avoid surprises.  
+Keep regular interaction and supervision by Manager or assigned mentor.  
+
+ACADEMIC QUALIFICATIONS  
+Master of Pharmacy (Pharmaceutical Analysis & Quality Assurance) from NNRG (UNTU), HYD, with 80%.  
+Bachelor of Pharmacy 2010-2014 from Vaagdevi College Of Pharmacy, Warangal, with 70%.  
+Board of Intermediate from Master’s Junior College, Karimnagar with 63%.  
+S.S.C from J.S.M high school Warangal with 75%.  
+
+TECHNICAL SKILLS  
+Operating Systems: Windows XP/2003/2007/NT  
+Packages: MS-Word, MS-Excel, MS-Access  
+Database: RAVE, INFORM, OC & IBM  
+
+PERSONAL PROFILE  
+Age: > 31 Yr.  
+Marital Status: Married  
+Languages known: English, Telugu, and Hindi  
+Present Address: Hyderabad  
+
+DECLARATION  
+Thereby declare that all the details furnished above are true to the best of my knowledge.  
+
+Place: Hyderabad  
+Date: TODAY  
+
+SANTHOSH.R

@@ -1,0 +1,12 @@
+Metric,Value
+Total Resumes Evaluated,123
+Successfully Processed Resumes,123
+Skipped Resumes (No Text),0
+Total Entities Generated,4647
+Total Entities Skipped,74
+Coverage Percentage,98.43%
+Average Entities Per Resume,37.78
+Exact Matches,4543
+Regex Matches,103
+Synonym Matches,0
+Fuzzy Matches,1

@@ -1,0 +1,112 @@
+BURRA VANDANA
+Bengaluru, India
++91 84649 65948 vandanaburral42@gmail.cor
+PROFESSIONAL SUMMARY
+Clinical Data Services professional with experience in CTMS, Veeva Vault,
+(MDM) supporting global clinical trials. Experienced in clinical trial data. set
+quality assurance, governance activities, and medical data annotation for AI a
+ucts. Strong background in QA activities, documentation, and cross-functior
+driven environments.
+PROFESSIONAL EXPERIENCE
+Clinical Data Services Associate
+Accenture Solutions Pvt. Ltd., Bengaluru
+Project: Novartis Clinovate
+e Performed initial data setup at the start of trials, countries, and sites in
+e Maintained and updated CTMS data throughout the clinical trial lifecyc
+e Ensured accurate and timely setup and maintenance of data for in-house
+e Coordinated with Novartis clinical trial teams to ensure CTMS data acc
+e Proactively validated trial information against CTMS data across all trie
+e Created, updated, and managed work packages, milestones, and enrollme
+e Managed Trial Portal information and supported portal launch activities
+e Conducted kickoff meetings with clinical trial teams and coordinated wit
+e Established standardized definitions for critical data entities such as pi
+adverse events
+e Supported Master Data Management (MDM) governance, data quality rev
+e Performed data quality analysis, de-duplication, and data improvement ¢
+e Managed the lifecycle of master data including creation, updates, and de
+e Communicated with stakeholders and governance boards for approvals ai
+Clinical Data Analyst
+Accenture Solutions Pvt. Ltd., Bengaluru
+Project: Novartis Clinovate
+e Ensured end-to-end CTMS data quality and accuracy at trial, country, a
+e Performed accurate and timely setup of clinical activities and timelines a
+e Maintained and monitored trial data change request queues
+e Gained a strong understanding of the Novartis Clinical Trial Process (C1
+e Worked with IMPACT and Horizon applications for clinical trial data m:
+e Updated and maintained business process documentation
+e Supported training activities and operational documentation
+Medical Data Annotator
+Artivatic Data Labs Pvt. Ltd., Bengaluru
+e@Worked on medical datasets and annotations for NLP models and AI-ba:
+e Annotated and labeled medical and clinical text data according to define
+e Performed quality assurance (QA) activities to ensure annotation accura
+e Reviewed annotated data and resolved discrepancies in collaboration wit
+e Supported preparation of high-quality training data for machine learning
+EDUCATION
+Bachelor of Pharmacy
+Viswanadha Institute of Pharmaceutical Sciences
+CGPA: 7.53
+com
+lt, and Master Data Management
+setup, lifecycle management, data
+I and NLP-based healthcare prod-
+tional collaboration in compliance-
+May 2024 — Present
+in Veeva Vault
+cycle
+use and outsourced studies
+iccuracy within defined timelines
+trial phases
+Iment data in Veeva Vault
+ties
+with Drug Development teams
+3 patients, investigators, sites, and
+reviews, and stewardship workflows
+rt activities
+deactivation
+3 and standards alignment
+Dec 2022 Apr 2024
+y, and site levels
+3s according to protocols
+(CTP)
+management
+Sep 2022 — Dec 2022
+-based healthcare products
+fined annotation guidelines
+uracy and consistency
+with internal teams
+ing and NLP pipelines
+Jun 2018 — Jun 2022
+SKILLS
+Clinical & Data Skills
+e
+Clinical Trial Management Systems (CTMS)
+e
+Clinical Data Management
+e
+Data Quality Checks and Analysis
+e
+SAE Reconciliation
+e
+Risk Management
+e
+Document Quality Review
+Tools & Technologies
+Veeva Vault
+Master Data Management (MDM)
+Horizon
+IMPACT
+GEMS
+Reltio
+Reference Data Tools
+Advanced Microsoft Excel
+Microsoft Word and PowerPoint
+Clinical SAS Programming (Basics)
+AWARDS
+Core Value Champion Award
+2024
+Accenture Solutions Pvt. Ltd.
+Awarded for fostering and demonstrating Accenture’s core values.
+LANGUAGES
+English Hindi
+Telugu

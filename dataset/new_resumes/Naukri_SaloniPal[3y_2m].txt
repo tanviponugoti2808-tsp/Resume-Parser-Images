@@ -1,0 +1,100 @@
+Curriculum Vitae Pal, Saloni
+(ay
+Name:
+Saloni Pal
+Job Title:
+Junior Data Analyst- Clinical Data Management
+SAS Certified Specialist: Base Programming Using SAS 9.4
+https:/Awww.credly.com/badges/c7760123-5ab9-4700-b70f-
+Address:
+0e794c09fae6/public_url
+Phone no.-
+8617454217
+Durgapur, West Bengal
+Email salonipal1111@gmail.com
+[RROFESSIONAMSUMMARY]
+Clinical Data Associate with 3 years of experience supporting global clinical trials across conduct and
+to Start-up phase. Strong hands-on expertise in EDC systems (Medidata Rave/Veeva), data review,
+third-party reconciliations, and data listings. Proven ability to ensure data integrity, inspection rea
+GCP, SOPs, and study protocols while collaborating cross-functionally to deliver high-quality, analy
+SAS Certified Specialist with hands-on training in SDTM/ADaM standards and exposure to listir
+transformation logic. Adept at collaborating with physicians, safety teams, statisticians, and cross-fun
+clean, high-quality, submission-ready clinical datasets.
+© Cognizant Technology Solutions
+Clinical Data Management, Dec 2022-Present
+* Supported Conduct and Close-out phase data management activities across global clinicz
+with ICH-GCP and sponsor SOPs.
+* Executed comprehensive data reviews as per DRPs and IDRPs, identifying discrepancies
+issues.
++ Performed query generation, tracking, and resolution in Medidata Rave, Veeva Vault Clini
+adherence to DVP timelines.
+* Conducted external data reconciliations including SAE, IVRS/IWRS, Canfield, Lab, and ve
+coordinating with internal and external stakeholders.
+« Reviewed and verified Lab Normal Ranges {(LNRs) in Veeva Vault Clinical as per protocol
+* Maintained LNR integrity through QC workflows, discrepancy investigation, and ongoing q
+sponsor-specific guidelines (AbbVie Veeva Labs module exposure).
+* Coordinated with site monitors and study teams to close data quality issues and reinforce
+* Generated and maintained study trackers, issue logs, and reports including COV, Missing
+to support study oversight.
+« Supported interim and final database locks, including data freeze activities and closeout c
+* Served as study documentation owner, performing periodic TMF/eTMF reviews to ensure
+readiness.
++ Actively participated in vendor data management, supporting data transfers, reconciliation
+issue tracking.
+Tools & Systems: Medidata Rave, Veeva Vault Clinical, Jarvis, Tesla MS Excel (VLOOKU
+aLechnicallSkills}
+1of3
+oT
+and Close-out phases. Exposure
+ew, query management, SAE and
+readiness, and compliance with
+nalysis-ready datasets.
+istings, dataset review, and data
+-functional stakeholders to ensure
+—
+nical studies in compliance
+sies, trends, and data quality
+slinical, and Jarvis, ensuring
+J vendor data reconciliation
+»col-defined requirements.
+1g quality checks following
+rce good data entry practices.
+sing Forms, Items, and Visits
+dt checks.
+ure audit and inspection
+tion deliverables, and quality
+IKUP, Pivot Tables)
+Curriculum Vitae Pal, Saloni
+e Data Management Systems: Medidata Rave, Veeva CDMS, eTMF
+e =Programming & Analysis: Base SAS, PROC SQL, SAS Macros (training exposure)
+« Data Standards: SDTM, ADaM (academic & training exposure)
+e Processes: Data Cleaning, Validation, Reconciliation, UAT, Database Testing
+(em Core;Competencies.
+Clinical Data Review & Cleaning
+Query Generation, Tracking & Resolution
+SAE Reconciliation
+Third-Party Vendor Reconciliation
+Data Listings Review
+Data Validation & Edit Check Review
+CRF Review & Database Updates
+Inspection Readiness & Quality Compliance
+EDUCATION
+Class/Degree Board/University institution Name Year copa
+M.Sc. The University The University of Burdwan, West Bengal 2020-22 8.57
+Microbiology Burdwan
+B.Sc. Kazi Nazrul University Michael Madhusudhan 2017-20 8.69
+Microbiology Memorial College, West Bengal
+[TRAININ GSYSYCERTIEICATIONS|
+© SAS Certified Specialist: Base Programming Using SAS 9.4 (2025)
+@ Clinical SAS Programming certification from Bangalore Clinical Research Institute (BCRI) in 2024.
+Created and validated SDTM and ADaM datasets using mock clinical data per CDISC guidelines.
+Developed Tables, Listings, and Figures (TLFs) via Base SAS and PROC SQL.
+Gained exposure to data pooling and transformation logic across mock multicenter studies.
+° Clinical Data Management certification from Bangalore Clinical Research Institute (BCRI) in 2024.
+Trained in data cleaning, coding, reconciliation, and EDC system testing.
+Learned GCDMP principles, SAE reconciliation, and database QC methodologies.
+certify information in my CV to be correct and in compliance with the details shared.
+Saloni Pal TPT TFUELPL U7 Lo [7 |?
+2of3
+Curriculum Vitae Pal, Saloni
+3 of 3

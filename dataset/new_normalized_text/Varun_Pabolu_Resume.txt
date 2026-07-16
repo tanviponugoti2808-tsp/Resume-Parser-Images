@@ -1,0 +1,116 @@
+Verun Peloolu  
+Sr Principal Clinical Data Manager  
+Cengattora, Bangalore  
+History@Work History  
+
+**Aug 2021 - Present**  
+Sr Principal Clinical Data Manager  
+Current Alcon, Bangalore  
+- Lead data management activities as PCDA for Vitreo-Retina Portfolio.  
+- Streamlined internal workflows by automating manual tasks, leading to reduced errors and increased efficiency.  
+- Delivered significant project outcomes by leading cross-functional teams in a cooperative setting.  
+- Ensured third-party and other necessary reconciliation activities are performed for the study promptly.  
+- Provided and implemented data management strategies, ensuring effective sharing and collaboration.  
+- Acted as data management expert in problem-solving aspects, ensuring knowledge transfer and resolution of data issues.  
+- Collaborated with stakeholders at various levels to develop targeted strategies aligned with overarching business objectives.  
+- Created extensive embedded process maps, templates, and documentation in one place.  
+- Recognized and resolved protocol issues that may affect database design or analysis that do not make the best use of available standards.  
+- Responsible and accountable to ensure consistency and maintain study-specific documents in Document Management System.  
+- Responsible for quality control and audit readiness of all assigned data, ensuring accuracy and reliability of the clinical database.  
+- Mentored junior team members, fostering their professional growth and supporting the development of future organizational leaders.  
+
+**Apr 2019 - Aug 2021**  
+Sr. Clinical Data Manager  
+Novartis, Hyderabad  
+- Led data management activities as Trial CDM for Clinical Studies.  
+- Performed DM activities for startup of a study including eCRF, CCG's, Edit Check Specifications, Data Handling Plan (DHP), Data Transfer Specifications, and local lab set up, Query Management, and Data Review for Clinical Study.  
+- Tracks and reports status and progress for assigned trials, ensuring milestones are met with interim/final locks.  
+- Coordinated activities of Data Managers in DM for Refractive Portfolio and other studies.  
+- Made data management decisions and proposed strategies at study level.  
+- Built and maintained effective working relationships with cross-functional teams.  
+- Disseminated study-level information to the Clinical Trial Team (CTT) and Program Clinical Data Manager (PCDM).  
+- Able to summarize and discuss status of deliverables and data management aspects (timelines, scope, resources).  
+- Represented as a representative in CTT meetings.  
+- Proactively identified and resolved potential issues that may cause interruptions and ensuring the continuity of clinical trials.  
+
+**Sep 2018 - Apr 2019**  
+Associate Data Team Lead  
+IQVIA, Bangalore  
+- Conducted comprehensive data management activities including writing, and resolving data clarifications.  
+- Performed quality control activities of the database for clinical trial.  
+- Provided leadership and technical expertise for DM team.  
+- Performed DB Design Activities and effectively implemented Corrective and Preventive Actions (CAPA) in response to audit findings, resulting in improved processes and compliance with regulatory requirements.  
+- Managed Scope of Work (SOW) and/or budget, ensuring all activities are met according to the SOW/contract.  
+- Served as a point of contact for customers on data deliverables, ensuring open communications and meeting contractual obligations.  
+- Established strong communications with Data Operations team, functional leads, project managers, and all other stakeholders.  
+- Met with Data Operations team members to ensure timelines and quality deliverables.  
+- Created CRF, Edit Specifications, SAS Specifications, and other documents.  
+- Ensured appropriate resources are assigned to tasks.  
+- Implemented quality management Plans.  
+- Served as the escalation point for unresolved issues with client data managers, vendors, and internal teams.  
+- Created RACI matrix, Dash Boards, Interactive completion checklist, across several studies.  
+- Optimized team performance through effective resource allocation and workload balancing among team members.  
+
+**Jul 2013 - Aug 2018**  
+Sr. Clinical Data Coordinator  
+IQVIA, Bangalore  
+- Served as a DOC for several studies, coordinating Programmers and the resources assigned to the study.  
+- Also served as backup for DTL during times of absence.  
+- Reviewed edit specifications and prepared test plans.  
+- Performed quality checks on data reviewed by others, ensuring the data performed is of high quality following all internal procedures.  
+- Identified Clean Patients and Locked them for deliverables and critical data.  
+- Interacted with CTT and other stakeholders to ensure timely completion of deliverables and critical data.  
+- Ensured the integrity of the clinical trial data by managing data issues, minimizing discrepancies, and ensuring compliance with study-specific requirements.  
+- Acted as escalation point for unresolved data issues collaborating with client data managers, vendors, and internal teams.  
+- Created Overdue Visit tracker, SOPs, and other tools for data management.  
+- Streamlined data management workflows, leading to reduced data entry errors.  
+
+**Jun 2012 - Jul 2013**  
+Associate Clinical Data Coordinator  
+ICON Clinical Research (P) Ltd, Trivandrum  
+- Discrepancy Management, Freezing and Locking Patients, Manual Listings Review.  
+- Ensuring the completeness, consistency, and quality of data that has gone through data entry.  
+- Understanding Protocol, eCRF Completion Guidelines, DVS, SOPs.  
+- Performing external data reconciliation (SAE, Lab, ECG) in accordance with applicable procedures.  
+- Generating weekly, monthly, and status reports, including listings on a monthly basis.  
+- Collaborated with cross-functional teams to ensure timely completion of deliverables and the integrity of clinical trials.  
+
+**Sep 2011 - May 2012**  
+CDM Internee  
+Avesthagen (P) Ltd, Bangalore  
+- Study build up / set up, Data entry, Discrepancy Management, Edit specifications and DB UAT in OC.  
+- Proven ability to learn quickly and adapt to new situations.  
+- Skilled at working independently and collaboratively in a team environment.  
+- Excellent communication skills, both verbal and written.  
+- Self-motivated, with a strong sense of personal responsibility.  
+
+**Education**  
+**Jul 2009 - Sep 2010**  
+Master of Science: Pharmacology and Biotechnology  
+Sheffield Hallam University, Sheffield, United Kingdom  
+- Successfully completed research project on The Role of Emodin on Leukemic Cell Lines.  
+- Completed training as Lab Assistant from the department.  
+- Worked as a leader for Poster Presentation and won the 2nd prize out of 23 projects in the department.  
+
+**Jul 2005 - Jul 2009**  
+Bachelor of Technology: Biotechnology  
+Nagarjuna University (KLCE), Vijayawada, India  
+- GPA: Ist Class  
+
+**Accomplishments**  
+- SHU - Worked as a leader for Poster Presentation and won the 2nd prize out of 23 projects in the department.  
+- Icon - Won 1st prize in Poster presentation for one of the protocol.  
+- IQVIA - Several Awards Received for showing Leadership Skills, Successful migration of 3 interim Analysis Locks and DB Locks.  
+- Novartis - Received Impact Award for leading a study with complex external data.  
+- Alcon - Received AGS Brilliance Award for achieving Team BIG BOLD Objective for 2020.  
+
+**Therapeutic Areas Worked**  
+- Neurology - Multiple Sclerosis  
+- Oncology - Solid Tumors and Lung Cancer  
+- Cardiovascular  
+- Metabolic Disorders - Anemia  
+- Musculo-Skeletal - Rheumatoid Arthritis  
+- Ophthalmology  
+
+**Certifications**  
+- Certified ScrumMaster (CSM) - Scrum Alliance

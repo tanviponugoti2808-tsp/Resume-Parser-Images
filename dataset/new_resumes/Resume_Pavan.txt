@@ -1,0 +1,235 @@
+RESUME
+Dr. Pavan Kumar M
+Email ID: pavankmr3003@gmail.com
+Mobile: 9700688603
+CAREER OBJECTIVE
+Seeking a privileged career in a well-established clinical and health car
+demonstrate medical and pharmacy skills with professional behaviour
+communicate elegantly for client satisfaction for the benefit of health car
+also like to be positive towards the organization, team spirit and professic
+WORK HISTORY
+Title Period and Duration
+Senior Product Consultant Mar-2023 to Present Sai
+(Data Manager) (1 Year and 10 Months)
+Clinical Data Specialist Sep-2021 to Mar-2023
+(1 Year and 6 Months)
+Clinical System Tester 1 Jul-2018 to Sep-2021 PR
+(3 Years and 3 Months)
+CURRENT JOB ACTIVITIES
+“+ Working on products like Smart Data Quality (SDQ), Smart Auto M:
+GHA) which uses Artificial Intelligence (AI), Machine Learning (ML) a
+different tasks associated with CDM.
+“ Reviewing Protocol, Clinical data mapping specification (CDMS), IDRP
+** Creating data query logics as per IDRP and in accordance with product.
+“> Configuration of the product as per the study and scheduling data jobs.
+“> Verification of the predictions generated, approving the checks and migr
+“* Responsible for measuring and monitoring the product or service’s p
+product related client, market, and competitive intelligence to the team.
+«+ Support the implementation of new product development ad-hoc data qu:
+systems.
+“» Stay connected to the business and managing changes or adjustments to r
+* Perform Requirement Analysis, understand the business needs, identify ”
+pros and cons of technical solutions.
+ACADEMIC QUALIFICATIONS
+Course Institute
+Doctor of Pharmacy Seven Hills College of Pharmacy, Tirupati
+Intermediate (XI) Himaja Junior College, Puttur
+SSC (Xx) Vivekananda English Medium High School,
+Puttur
+‘are system where I can apply and
+yur in clinical patient serving and
+care organization and self. I would
+ssional growth.
+Organization
+Saama Technologies, Chennai
+IQVIA, Bengaluru
+PRA Health Sciences, Chennai
+Mapper (SAM), Hub administration
+) and Deep Learning (DL) to process
+RP and vendor DTS.
+t
+grating them to production database.
+3 performance as well as presenting
+1
+queries and data mining from various
+‘0 reporting use of systems/tools.
+fy business solutions and validate the
+University/ Year of
+Board passing
+JNTUA
+2018
+82.11
+BIEAP
+2012
+91.80
+BSEAP 2010 90.83
+CLINICAL RESEARCH TOOLS
+EDC/CTMS Tool
+IVRS/TWRS/RTSM
+Medidata RAVE
+Signant Health
+XClinical MARVIN
+ClinPhone
+Oracle Inform
+Almac
+Veeva Vault
+Suvoda
+Datalabs
+Teva 4G
+PRISM
+Trident
+Jarvis
+Endpoint
+Tesla
+Study start up:
+Od
+Well versed in defining and validating the dat<
+responsibility throughout the data-management lift
+&
+o,
+Ensuring ICH GCP regulations and SOP’s are adh:
+ee
+G
+Preparation and review of Annotated case report fc
+oy
+Preparation and review of DVR specifications and
+Do
+2%,
+Test case development, Review, Testing and D
+Import program, Custom function, Marvin ED(¢
+Custom report, Integration, TSDV.
+Preparing guidelines for integration testing, Exec
+DMP.
+,
+Work closely with internal and external stake hol
+make sure that all the requirements are incorporate
+Study Conduct:
+Working on Query Management, Backend List
+Patient Tracker in accordance with study requirem
+Performing the QC for the team related to the pre
+Preventive action (CAPA) to maintain the Quality
+Dd
+Review clinical trial data in accordance with Dé
+management processes to identify missing, incomy
+eo
+Regular SDTM review using Pinnacle 21 and Man
+oe
+o,
+Preparation and Maintenance of study metrics and
+Og
+Perform aggregate review of clinical data by pat
+safety, compliance, etc.), and/or data inconsistenci
+Se
+6
+o
+Escalate any discrepancy in the clinical data and I
+conduct and communication findings to LDM, TA
+oe
+o,
+Communicating site data flow issues with LDM, T
+Study Closeout:
+Od
+G
+o,
+Potentially interact and collaborate with other pro
+statistics, CDM technical support, drug safety, etc
+o
+data management aspects of the project to ensure c
+Ox
+6
+Been part of Data base lock, which gained me exp:
+Platform
+Analysis &
+eTMF
+Mobile Health
+Reporting Tool
+Platform
+PhlexEview
+J-Review
+Clinical6
+PL/SQL
+Patient Cloud
+Spotfire
+lata with protocols for clinical studies and handling trial
+lifecycle.
+dhered for all data management activities.
+t form (aCRF) and unique CRF documents.
+md Creation of UAT plan.
+Documentation of Edit check, Listing, External Listing,
+'DC role permissions, Dynamic check, Custom program,
+xecution of Test scripts using HPALM, Microsoft TFS and
+iolders to understand the study and client requirements and
+‘ated before the database in production.
+dstings Review, External Lab Data reconciliation, Clean
+ements.
+process level and Study level to have corrective action and
+ity as priority.
+Data Management Plans and applicable standardized data
+mplete or implausible data.
+Tanual review before transfer.
+nd study status reporting.
+patient, site, and/or project to identify data trends (patient
+acies that require further investigation.
+d Identifying issues with validation procedures during study
+TA lead.
+[, TA Lead, sites and monitors.
+yroject and specially team members (clinical, programming,
+etc.) to support the set-up, maintenance, and closure of the
+‘e consistent, cohesive data handling and quality.
+xpertise in data cleaning activities.
+ACADEMIC PROJECT
+Impact of Clinical Pharmacist mediated Patient Cou
+Title
+Life (HRQoL) in Hypertensive patients in a tertiary «
+Sri Venkateswara Institute of Medical Sciences (SVII
+6 Months
+Team size
+3 Members
+KEY ACCOMPLISHMENTS
+Project X: IRT and MHP Integration: I have identified a pro
+external vendor to get the job done which was a key point i
+which is a very high priority for the sponsor.
+a
+Project Y: Custom Function: I spotted an error and worked
+helped migration Go Live within the timeline.
+Project Z: IRT and MHP Integration: I jumped in to test afi
+critical task from a Client tied in with VP.
+ae
+Had received a special recognition bonus for the year 2020.
+ACHIEVEMENTS
+Winner in Quiz competition conducted during Pharma Utsav- 2
+celebrations held at Seven Hills College of Pharmacy, Tirupati
+PERSONALITY TRAITS
+Multitasking, Adaptability, Creativity, Problem solving
+HOBBIES / INTERESTS
+Surfing, Bicycling, Listening to Music
+PERSONAL PROFILE
+Father’s Name:
+J Muni Kumar
+Mother’s Name:
+M Sheela
+Date of Birth:
+30-Mar-1994
+Marital Status:
+Married
+Languages Known: Tamil, Telugu, Hindi, English, Kannada
+Indian
+Nationality:
+Permanent Address:#3-103, Vidyuth Nagar, Pillaripattu Road,
+Puttur (M), Chittoor (D), Andhra Pradesh, 5175
+DECLARATION
+I gravely announce that facts of information and facts in the resum:
+full liability for the correctness of the information.
+cy care teaching hospital.
+‘counseling on Health-Related Quality of
+cy care teaching hospital.
+VIMS), Tirupati.
+orogramming error and worked with an
+it in being able to go live for a project
+ced with developers to fix a CF which
+after my working hours to complete a
+2014 & 2016, National pharma week
+7583.
+ime are inclusive and correct and I take
+OM. FavanKumat
+(M PAVAN KUMAR)

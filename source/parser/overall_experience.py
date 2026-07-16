@@ -7,6 +7,30 @@ _MONTH_MAP = {
     'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12,
 }
 
+# OCR frequently misreads the capital letter "O" as the digit "0" in
+# month abbreviations -- "Oct" becomes "0ct" (only "Oct" is affected,
+# since it's the only month name starting with "O"). Fix that before any
+# date parsing happens.
+_OCR_MONTH_FIX_RE = re.compile(r'\b0ct\b', re.IGNORECASE)
+
+# The date-range regex below is built around "Month Year" / "Year"
+# tokens (e.g. "Oct 2021", "2021"), not "Day-Month-Year" tokens (e.g.
+# "04-Oct-2021"). Indian-format resumes very commonly write dates as
+# DD-Mon-YYYY, which would otherwise fail to match at all. Strip the
+# leading day-of-month number (and its separator) immediately before a
+# recognized month name so "04-Oct-2021" normalizes to "Oct-2021",
+# which the existing Month-Year matching already handles correctly.
+_DAY_PREFIX_RE = re.compile(
+    r'\b\d{1,2}[\-\s]+(?=(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-zA-Z]*\b)',
+    re.IGNORECASE,
+)
+
+
+def _normalize_dates_for_parsing(text: str) -> str:
+    text = _OCR_MONTH_FIX_RE.sub('Oct', text)
+    text = _DAY_PREFIX_RE.sub('', text)
+    return text
+
 def _parse_date_to_ym(token: str) -> Optional[Tuple[int, int]]:
     if not token:
         return None
@@ -87,12 +111,13 @@ def _extract_date_ranges(text: str) -> List[Tuple[int, int]]:
     return intervals
 
 def extract_overall_experience(text: str, structured_experiences: Optional[List[Dict[str, Any]]] = None) -> str:
+    text = _normalize_dates_for_parsing(text)
     explicit_yrs = _extract_explicit_experience(text)
     intervals = []
     if structured_experiences:
         for exp in structured_experiences:
-            s = _parse_date_to_ym(exp.get('Start Date', ''))
-            e = _parse_date_to_ym(exp.get('End Date', ''))
+            s = _parse_date_to_ym(_normalize_dates_for_parsing(exp.get('Start Date', '') or ''))
+            e = _parse_date_to_ym(_normalize_dates_for_parsing(exp.get('End Date', '') or ''))
             if s and e: intervals.append((s[0] * 12 + s[1], e[0] * 12 + e[1]))
     else:
         intervals = _extract_date_ranges(text)

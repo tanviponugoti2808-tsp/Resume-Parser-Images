@@ -1,0 +1,45 @@
+SASHI KIRAN  
+Clinical Data Manager  
+Bangalore, India | sashikiran.nexus@gmail.com | +91 9951444974 | linkedin.com  
+
+SUMMARY  
+Passionate individual with 2.2 years of experience in end-to-end clinical data management operations for global clinical trials. Proficient in SQL, Informatica ETL, SAS, and EDC systems (Medidata Rave) with hands-on expertise in eCRF design, UAT, edit checks, data validations, database build/lock, query management, protocol amendments, listings, and data programming & transfer. Skilled in applying CDISC standards and ICH-GCP guidelines to ensure compliant, high-quality data deliveries. Recognized for consistently meeting timelines while collaborating effectively with cross-functional teams across the clinical trial lifecycle.  
+
+EXPERIENCE  
+Clinical Data Manager  
+Labcorp Drug Development (formerly Covance) | Bangalore, IN | Jul 2023 – Present  
+- Experienced in global clinical trials, specializing in UAT, validation, data programming, data reconciliation, client data transfers, and documentation within DMP, QC, and CTDB systems.  
+- Designed and executed 85+ comprehensive UAT test cases aligned with protocol and system requirements, documented results, and trained end users, ensuring a seamless system rollout.  
+- Validated CRFs, edit checks, and system workflows, identifying and resolving 63+ critical issues prior to deployment, ensuring database readiness and regulatory compliance.  
+- Collaborated cross-functionally with Clinical Operations, Database Setup Automation, and Data Reconciliation teams to ensure database builds, database design, transfer automation, and workflows accurately reflected clinical protocol requirements.  
+- Supported 30,000+ clinical data transfers by creating Data Transfer Instructions (DTIs) with detailed mapping, logic specifications, and data cleaning procedures to ensure accuracy and completeness.  
+- Delivered 4,700+ data transfers on schedule per SOW/SOP standards; participated in 250+ client calls to align on data requirements and resolve clarifications.  
+- Proficient in Electronic Data Capture (EDC) platforms including Medidata Rave and PANTHER (in-house tool); supported multiple EDC system setups and UAT participation. Performed QC, SAS listings, programming, and test study database setup.  
+- Managed and resolved 100+ data queries across 15+ studies, ensuring compliance with GCP, ICH guidelines, and internal SOPs.  
+- Reviewed 13+ clinical protocols, data specifications, and annotated CRFs to ensure compliance with CDISC (CDASH/SDTM) standards and cross-functional alignment.  
+- Mentored 5 junior team members on UAT, edit check testing, and system setup, reducing onboarding time into production by 25%.  
+- Established standardized operating procedures (SOPs) for clinical data management, reducing data discrepancies by 20% and improving audit readiness scores to Tier 1 for 95+ clinical trials.  
+- Performed 7 interim database locks, 83+ protocol amendments, SAE reconciliation, and risk-based quality management (RBQM) processes to support timely, audit-ready database deliveries.  
+- Led client-facing data review meetings and audit preparation sessions, contributing to successful regulatory inspections and achieving client satisfaction scores above 95%.  
+
+KEY SKILLS  
+- Study Setup: Study build, eCRF design, edit check programming, User Acceptance Testing (UAT), database validation  
+- Mid-Study Data Management: Query management, risk-based quality management (RBQM), safety reconciliation, SAE reconciliation, vendor data integration (labs, ECG, imaging), and external data handling  
+- Standards & Programming: SDTM, CDASH, ADaM compliance and mapping; SQL, SAS, Medidata Rave, Excel  
+- Study Closeout: Interim analysis, amendments, data cleaning, database lock, data transfers, study closeout, and documentation review (DMPs, edit check specs, CRFs)  
+- Leadership & Collaboration: Client communication, cross-functional coordination, team mentoring, stakeholder management, and creation of programming/instruction templates to improve efficiency  
+- Regulatory Compliance: GCP, ICH guidelines, 21 CFR Part 11, and audit readiness  
+- In-house tools: Informatica PowerCentre, DT4, ORCA, JIRA, PRADA, SASGinte, Veeva Vault; Others: Blueprism, ServiceNow, Azure AD  
+
+EDUCATION  
+Master of Science in Bio-Technology  
+Bangalore University, Bangalore, IN | 2022  
+Bachelor of Science in Bio-Technology  
+Yogi Vemana University, Kadapa, IN | 2020  
+
+LANGUAGES  
+Kannada, English, Telugu, Hindi  
+
+AWARDS & ACHIEVEMENTS  
+- 2 Tier-1 Ace Awards in Quality and Client Excellence  
+- Performance Outstanding (2024–2025)

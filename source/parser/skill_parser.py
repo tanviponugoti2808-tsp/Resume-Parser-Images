@@ -25,9 +25,19 @@ class TaxonomyEntry:
     min_strong_keywords: int = 0
     parent: Optional[str] = None
 
+@dataclass
+class SkillMatch:
+    category: str
+    score: float
+    is_valid: bool
+    matched_text: List[str] = field(default_factory=list)
+
 W_NOISE, W_WEAK, W_MODERATE, W_STRONG, W_DEFINITIVE = 1, 2, 4, 7, 10
 _kw = lambda k, w=W_STRONG, s=None: KeywordEntry(keyword=k, weight=w, synonyms=s or [])
 
+# ---------------------------------------------------------
+# FULL TAXONOMY (Unchanged, kept for drop-in replacement)
+# ---------------------------------------------------------
 TAXONOMY: List[TaxonomyEntry] = [
     TaxonomyEntry(name="SAS Experience", priority=8, activation_score=8, min_strong_keywords=1, keywords=[_kw("Base SAS", W_DEFINITIVE), _kw("Statistical Analysis System", W_DEFINITIVE), _kw("SAS functions", W_DEFINITIVE, ["SAS function"]), _kw("PROC IMPORT", W_STRONG, ["PROC-IMPORT", "PROC_IMPORT"]), _kw("PROC EXPORT", W_STRONG, ["PROC-EXPORT", "PROC_EXPORT"]), _kw("PROC SORT", W_STRONG, ["PROC-SORT", "PROC_SORT"]), _kw("PROC DATASETS", W_STRONG, ["PROC-DATASETS", "PROC_DATASETS"]), _kw("PROC SQL", W_STRONG, ["PROC-SQL", "PROC_SQL", "PROC/SQL"]), _kw("PROC MEANS", W_STRONG, ["PROC-MEANS", "PROC_MEANS"]), _kw("PROC SUMMARY", W_STRONG, ["PROC-SUMMARY", "PROC_SUMMARY"]), _kw("PROC FREQ", W_STRONG, ["PROC-FREQ", "PROC_FREQ"]), _kw("PROC UNIVARIATE", W_STRONG), _kw("PROC ANOVA", W_STRONG), _kw("PROC GLM", W_STRONG), _kw("PROC REG", W_STRONG), _kw("PROC LOGISTIC", W_STRONG), _kw("PROC MIXED", W_STRONG), _kw("PROC PHREG", W_STRONG), _kw("PROC LIFETEST", W_STRONG), _kw("PROC TRANSPOSE", W_STRONG), _kw("PROC FORMAT", W_STRONG), _kw("PROC APPEND", W_STRONG), _kw("PROC PRINT", W_STRONG), _kw("PROC REPORT", W_STRONG), _kw("PROC TABULATE", W_STRONG), _kw("PROC CHART", W_STRONG), _kw("PROC SGPLOT", W_STRONG), _kw("PROC SGSCATTER", W_STRONG), _kw("PROC GCHART", W_STRONG), _kw("PROC GPLOT", W_STRONG), _kw("PROC GREPLAY", W_STRONG), _kw("PROC TTEST", W_STRONG, ["PROC T-TEST", "PROC T TEST"]), _kw("PROC CORR", W_STRONG), _kw("PROC FACTOR", W_STRONG), _kw("PROC DISCRIM", W_STRONG), _kw("PROC CLUSTER", W_STRONG), _kw("PROC NPAR1WAY", W_STRONG), _kw("PROC LATTICE", W_STRONG), _kw("PROC STEPDISC", W_STRONG), _kw("PROC ARIMA", W_STRONG), _kw("PROC EXPAND", W_STRONG), _kw("PROC PANEL", W_STRONG), _kw("Macros", W_MODERATE, ["SAS Macros", "SAS macro"]), _kw("TFL", W_MODERATE), _kw("statistical methods", W_MODERATE), _kw("statistical techniques", W_MODERATE), _kw("descriptive statistics", W_MODERATE), _kw("hypothesis testing", W_MODERATE), _kw("regression analysis", W_MODERATE), _kw("survival analysis", W_MODERATE), _kw("non-parametric methods", W_MODERATE), _kw("SUBSTR", W_WEAK), _kw("UPCASE", W_WEAK), _kw("LOWCASE", W_WEAK), _kw("CATS", W_WEAK), _kw("STRIP", W_WEAK), _kw("SCAN", W_WEAK), _kw("TRIM", W_WEAK), _kw("INPUT", W_NOISE), _kw("MEAN", W_NOISE), _kw("MAX", W_NOISE), _kw("MIN", W_NOISE), _kw("ROUND", W_NOISE), _kw("CAT", W_NOISE), _kw("INDEX", W_NOISE), _kw("LENGTH", W_NOISE), _kw("YEAR", W_NOISE), _kw("MONTH", W_NOISE), _kw("DAY", W_NOISE), _kw("PUT", W_NOISE)]),
     TaxonomyEntry(name="R Experience", priority=7, activation_score=7, min_strong_keywords=1, keywords=[_kw("R Programming", W_DEFINITIVE, ["R programming language"]), _kw("Statistical analysis using R", W_DEFINITIVE), _kw("Visualization using R", W_DEFINITIVE), _kw("R Packages", W_STRONG, ["R package"]), _kw("ggplot2", W_STRONG), _kw("dplyr", W_STRONG), _kw("tidyr", W_STRONG), _kw("data.table", W_STRONG), _kw("randomForest", W_STRONG), _kw("shiny", W_STRONG), _kw("rmarkdown", W_STRONG), _kw("Rcpp", W_STRONG), _kw("glmnet", W_STRONG), _kw("caret", W_MODERATE), _kw("lubridate", W_MODERATE), _kw("plotly", W_MODERATE), _kw("tibble", W_MODERATE), _kw("reshape2", W_MODERATE), _kw("magrittr", W_MODERATE), _kw("stringr", W_MODERATE), _kw("readr", W_MODERATE), _kw("knitr", W_MODERATE), _kw("forecast", W_MODERATE), _kw("readxl", W_MODERATE), _kw("Data Manipulation", W_WEAK), _kw("R", W_WEAK)]),
@@ -76,6 +86,45 @@ TAXONOMY: List[TaxonomyEntry] = [
     TaxonomyEntry(name="data_reconciliation", priority=6, activation_score=6, keywords=[_kw("SAE reconciliation", W_DEFINITIVE), _kw("safety database cross-check", W_DEFINITIVE, ["safety database cross check"]), _kw("reconciliation closure", W_STRONG), _kw("SAE database match", W_STRONG), _kw("final reconciliation", W_STRONG), _kw("reconciliation documentation", W_STRONG), _kw("reconciliation status report", W_MODERATE), _kw("lab reconciliation", W_MODERATE), _kw("external data reconciliation", W_MODERATE), _kw("vendor data match", W_MODERATE), _kw("safety data review", W_MODERATE), _kw("reconciliation listings", W_MODERATE), _kw("data discrepancy review", W_MODERATE), _kw("vendor sign-off", W_MODERATE), _kw("data transfer QC", W_WEAK)]),
     TaxonomyEntry(name="final_documentation_audit", priority=6, activation_score=5, keywords=[_kw("study closeout binder", W_DEFINITIVE), _kw("study closeout checklist", W_DEFINITIVE), _kw("eTMF upload", W_STRONG), _kw("data management final report", W_STRONG), _kw("DMP finalization", W_STRONG), _kw("database release note", W_STRONG), _kw("documentation index", W_MODERATE), _kw("QC log archive", W_MODERATE), _kw("lock report", W_MODERATE), _kw("final listings", W_MODERATE), _kw("data management summary", W_MODERATE), _kw("DMP sign-off", W_MODERATE), _kw("documentation QC", W_MODERATE), _kw("CRF annotation final", W_MODERATE), _kw("archiving", W_WEAK)]),
     TaxonomyEntry(name="database_lock", priority=7, activation_score=5, keywords=[_kw("database lock", W_DEFINITIVE), _kw("lock readiness", W_STRONG), _kw("lock documentation", W_STRONG), _kw("database closure", W_STRONG), _kw("data freeze checklist", W_STRONG), _kw("database freeze", W_STRONG), _kw("pre-lock QC", W_STRONG), _kw("lock meeting", W_MODERATE), _kw("CRF finalization", W_MODERATE), _kw("clean file", W_MODERATE), _kw("final data cleaning", W_MODERATE), _kw("query closure", W_MODERATE), _kw("data validation completion", W_MODERATE), _kw("data freeze", W_MODERATE), _kw("system freeze", W_WEAK)]),
+    TaxonomyEntry(name="EDC Experience", priority=8, activation_score=5, keywords=[
+        _kw("Medidata", W_DEFINITIVE), _kw("Rave", W_STRONG), _kw("Classic Rave", W_DEFINITIVE), _kw("Rave X", W_DEFINITIVE),
+        _kw("Oracle Clinical", W_DEFINITIVE), _kw("Inform", W_STRONG), _kw("RDC", W_WEAK), _kw("OC", W_WEAK), _kw("eClinical", W_MODERATE),
+        _kw("IBM CD", W_DEFINITIVE), _kw("RTSM", W_DEFINITIVE), _kw("Viedoc", W_DEFINITIVE), _kw("Veeva", W_DEFINITIVE),
+        _kw("CRIO", W_DEFINITIVE), _kw("Datalabs", W_DEFINITIVE), _kw("Zelta", W_DEFINITIVE), _kw("Vault", W_MODERATE, ["Veeva Vault"]),
+        _kw("Castor", W_DEFINITIVE), _kw("OpenClinica", W_DEFINITIVE), _kw("Medrio", W_DEFINITIVE), _kw("RedCAP", W_DEFINITIVE, ["REDCap"]),
+        _kw("Paper CRF", W_MODERATE), _kw("Electronic CRF", W_MODERATE),
+    ]),
+    TaxonomyEntry(name="CDM Experience", priority=7, activation_score=6, keywords=[
+        _kw("Data Manager", W_STRONG), _kw("Clinical Data Associate", W_STRONG), _kw("Clinical Data Management Scientist", W_DEFINITIVE),
+        _kw("Clinical Data Professional", W_STRONG), _kw("Trial Data Manager", W_STRONG), _kw("Principal Clinical Data Manager", W_DEFINITIVE),
+        _kw("Principal Data Manager", W_DEFINITIVE), _kw("Lead Data Manager", W_STRONG), _kw("Study Manager", W_MODERATE),
+        _kw("Process Associate", W_MODERATE), _kw("Data coordinator", W_MODERATE), _kw("Clinical Trial Data Management", W_DEFINITIVE),
+        _kw("Clinical Research", W_MODERATE), _kw("Data Cleaning", W_STRONG), _kw("Data review", W_MODERATE), _kw("Data validation", W_MODERATE),
+        _kw("Data monitoring", W_MODERATE), _kw("Reconciliation", W_STRONG), _kw("Third party data review", W_STRONG),
+        _kw("External Data", W_MODERATE), _kw("User Acceptance Testing", W_MODERATE), _kw("UAT", W_MODERATE), _kw("eCRF", W_MODERATE),
+        _kw("Case Report Form", W_MODERATE), _kw("Paper CRF", W_MODERATE), _kw("Electronic CRF", W_MODERATE), _kw("aCRF", W_MODERATE),
+        _kw("VDR", W_STRONG), _kw("DMP", W_STRONG), _kw("Specifications", W_WEAK), _kw("Edit checks", W_MODERATE), _kw("Automatic Edits", W_WEAK),
+        _kw("Quality Checks", W_WEAK), _kw("DBL", W_STRONG), _kw("Database Lock", W_STRONG), _kw("Post Production Changes", W_MODERATE),
+        _kw("Query response", W_MODERATE), _kw("Listings", W_WEAK), _kw("Datasets", W_WEAK), _kw("Metadata", W_WEAK),
+        _kw("Ethics Committee", W_MODERATE), _kw("IVRS", W_STRONG), _kw("IP Reconciliation", W_STRONG), _kw("EDC", W_STRONG),
+        _kw("Electronic Data Capture", W_STRONG), _kw("CTMS", W_STRONG), _kw("Clinical Trial Management Systems", W_DEFINITIVE),
+        _kw("Batch Data Load", W_MODERATE), _kw("Good Clinical Practice", W_STRONG), _kw("ICH guidelines", W_MODERATE), _kw("ICH-GCP", W_STRONG),
+        _kw("FDA regulations", W_MODERATE), _kw("Regulatory Guidelines", W_WEAK), _kw("CFR Part 11", W_STRONG), _kw("21 CFR Part 11", W_STRONG),
+        _kw("CDISC", W_STRONG), _kw("SDTM", W_MODERATE), _kw("Audits", W_WEAK), _kw("Inspection", W_WEAK), _kw("Vendor Management", W_MODERATE),
+        _kw("CDM Activity", W_MODERATE), _kw("Clinical Trial Phases", W_MODERATE), _kw("Clinical trial process", W_MODERATE),
+        _kw("Process Improvement", W_WEAK), _kw("Advance analytics", W_WEAK), _kw("Analyze data", W_NOISE), _kw("Aggregate data", W_NOISE),
+        _kw("Disparate source", W_WEAK), _kw("data integrity", W_WEAK), _kw("eDiary", W_MODERATE), _kw("Cohort studies", W_WEAK),
+        _kw("Quality Assurance", W_WEAK), _kw("regulatory compliance", W_WEAK), _kw("Monitoring", W_NOISE), _kw("Billing", W_NOISE),
+        _kw("CASH", W_NOISE), _kw("SME", W_WEAK), _kw("Subject Matter Expert", W_MODERATE), _kw("cross functional", W_NOISE),
+        _kw("Deliverables", W_NOISE), _kw("Documentation", W_NOISE), _kw("Training", W_NOISE), _kw("Mentor", W_NOISE),
+        _kw("Team Leadership", W_NOISE), _kw("Client Interaction", W_NOISE), _kw("multiple tasks", W_NOISE), _kw("project Management", W_NOISE),
+        _kw("project execution", W_NOISE), _kw("Stakeholders", W_NOISE), _kw("Migration", W_WEAK), _kw("Associate", W_NOISE),
+        _kw("Multitasking", W_NOISE), _kw("Problem solving", W_NOISE), _kw("Team work", W_NOISE), _kw("Communication", W_NOISE),
+        _kw("Time management", W_NOISE), _kw("Laboratory skills", W_NOISE), _kw("AI", W_NOISE), _kw("ML", W_NOISE),
+        _kw("Prompt engineering", W_NOISE), _kw("Use cases", W_NOISE), _kw("technical leadership", W_NOISE), _kw("functional", W_NOISE),
+        _kw("administrative", W_NOISE), _kw("financial oversight", W_NOISE), _kw("guidance", W_NOISE), _kw("Project Team", W_NOISE),
+        _kw("Data review strategy", W_WEAK),
+    ]),
 ]
 
 _SEP_RE, _WS_RE = re.compile(r"[-_/\\|]"), re.compile(r"\s+")
@@ -104,30 +153,65 @@ def _build_automaton(taxonomy: List[TaxonomyEntry]) -> Tuple[object, Dict[str, a
 _AUTOMATON, _KEYWORD_INDEX = _build_automaton(TAXONOMY)
 _TAXONOMY_INDEX = {e.name: e for e in TAXONOMY}
 
-def match_skills_detailed(text: str) -> List[any]:
-    norm_text = normalize_text(text); norm_lower = norm_text.lower(); hits = {}
+def match_skills_detailed(text: str) -> List[SkillMatch]:
+    norm_text = normalize_text(text)
+    norm_lower = norm_text.lower()
+    hits = {}
+    
+    # Store the exact text segments from the resume that triggered the taxonomy match
+    captured_text = {} 
+
     if _AUTOMATON is not None:
         for end_idx, (norm_kw, meta) in _AUTOMATON.iter(norm_lower):
             start = end_idx - len(norm_kw) + 1
-            if ((start == 0 or not norm_lower[start - 1].isalnum()) and (end_idx + 1 == len(norm_lower) or not norm_lower[end_idx + 1].isalnum())):
+            if ((start == 0 or not norm_lower[start - 1].isalnum()) and 
+                (end_idx + 1 == len(norm_lower) or not norm_lower[end_idx + 1].isalnum())):
+                
                 if meta["strict"]:
                     pat = re.compile(r"(?<![A-Za-z0-9])" + re.escape(norm_text[start:end_idx + 1]) + r"(?![A-Za-z0-9])", re.I)
-                    if not pat.search(text) and not pat.search(norm_text): continue
+                    if not pat.search(text) and not pat.search(norm_text): 
+                        continue
+                
                 hits.setdefault(meta["category"], {})[meta["canonical"]] = (meta["weight"], meta["is_syn"])
+                
+                # Extract the literal matching span from the original text (accounting for normalization length mapping)
+                # Note: norm_text length is closely aligned with text, but strip handles minor edge cases.
+                original_snippet = norm_text[start:end_idx + 1].strip()
+                if original_snippet:
+                    captured_text.setdefault(meta["category"], []).append(original_snippet)
     else:
+        # Fallback to regex iteration if Ahocorasick is missing
         for norm_kw, meta in _KEYWORD_INDEX.items():
-            if re.search(r"(?<![A-Za-z0-9])" + re.escape(norm_kw) + r"(?![A-Za-z0-9])", norm_lower):
+            for m in re.finditer(r"(?<![A-Za-z0-9])" + re.escape(norm_kw) + r"(?![A-Za-z0-9])", norm_lower):
                 hits.setdefault(meta["category"], {})[meta["canonical"]] = (meta["weight"], meta["is_syn"])
+                
+                original_snippet = norm_text[m.start():m.end()].strip()
+                if original_snippet:
+                    captured_text.setdefault(meta["category"], []).append(original_snippet)
 
     results = []
     for cat, kw_hits in hits.items():
-        entry = _TAXONOMY_INDEX[cat]; score = sum(w for w, _ in kw_hits.values()); scount = sum(1 for w, _ in kw_hits.values() if w >= 5)
-        results.append(SkillMatch(category=cat, score=score, is_valid=(score >= entry.activation_score and scount >= entry.min_strong_keywords)))
+        entry = _TAXONOMY_INDEX[cat]
+        score = sum(w for w, _ in kw_hits.values())
+        scount = sum(1 for w, _ in kw_hits.values() if w >= 5)
+        results.append(SkillMatch(
+            category=cat, 
+            score=score, 
+            is_valid=(score >= entry.activation_score and scount >= entry.min_strong_keywords),
+            matched_text=list(set(captured_text.get(cat, []))) # Deduplicate exact matches
+        ))
     return results
 
-@dataclass
-class SkillMatch:
-    category: str; score: float; is_valid: bool
-
 def extract_skills(text: str) -> List[str]:
-    return [m.category for m in match_skills_detailed(text) if m.is_valid]
+    """
+    Returns the literal text snippets found in the text that triggered a valid taxonomy match,
+    rather than the internal taxonomy category labels.
+    """
+    raw_matches = []
+    for m in match_skills_detailed(text):
+        if m.is_valid:
+            # Extend list with the actual substrings matched in the resume
+            raw_matches.extend(m.matched_text)
+    
+    # Return unique raw text snippets
+    return list(set(raw_matches))

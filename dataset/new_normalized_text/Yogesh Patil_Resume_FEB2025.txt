@@ -1,0 +1,138 @@
+Yogesh Vana Patil  
+(Senior Clinical Data Scientist/Deputy General Manager)  
+Mobile No: +91-9860389713  
+E-mail id: ypatil108@gmail.com  
+
+**Career Objective**  
+To work with an organization that gives me an opportunity to gain experience and grow in the field of Clinical Research, at the same time provide a chance to apply my knowledge & skills to contribute towards its growth.  
+To be associated with the organization in the field of Clinical data management where there is a continuous learning process, which is beneficial to organization growth along with my personal growth.  
+Experienced Clinical Data Management professional with 9.6 years end-to-end CDM expertise. Having clinical trials management experience, my expertise includes study setup, conduct and close-out activities in different therapeutic areas and platforms. Delivering trainings to new team members and enhancing process knowledge is my key interest.  
+
+**Academic Qualifications**  
+Year | Discipline | School/Collage Name | Board/University  
+---|---|---|---  
+2015 | B. Pharmacy | SES’S R. C. Patel Institute of Pharmaceutical Education and Research, Shirpur, Dhule (MH) | North Maharashtra University, Jalgaon  
+
+Along with the above qualifications, completed the certification course of “Data Science and Data Analytics” from Simplilearn (2023). The course covers the below tools:  
+- Basics of SQL  
+- Python  
+- Machine learning  
+- Tableau  
+- Microsoft Excel  
+
+**Professional Experience Details**  
+Total Experience: 9.6 Years  
+
+**CURRENT EXPERIENCE**  
+1. Accenture Solutions PVT. LTD.  
+   - Position: Senior Clinical Data Scientist/Deputy General Manager  
+   - From Date: 05-Oct-2020  
+   - To Date: Till date  
+
+**PREVIOUS EXPERIENCE**  
+2. Tata Consultancy Services  
+   - From Date: 05-Oct 2015  
+   - To Date: 17-Jul-2017  
+
+3. Cognizant Technology Solutions  
+   - From Date: 25-Jul-2017  
+   - To Date: 15-Jun-2018  
+
+4. IQVIA RDS (INDIA) PVT. LTD.  
+   - From Date: 25-Jun-2018  
+   - To Date: 01-Oct-2020  
+
+**Functional Area Expertise**  
+Therapeutic areas worked upon:  
+- Neuroscience  
+- Immunology  
+- Oncology  
+- COVID and lightspeed trials  
+- Medical Device trial  
+- Cardiovascular  
+
+Databases worked upon:  
+- Rave  
+- Inform  
+
+Experience of all the three phases of clinical data management i.e. Setup, Conduct & Close-out  
+
+**In Setup phase below activities, I have worked upon:**  
+- Review the clinical trial protocol to understand data collection requirements and procedures  
+- Preparing and maintain Data Management Plan (DMP) metrics  
+- Preparation of quality control plan as per the SOPs  
+- Writing eCRF specifications (ASL-Architect loader spreadsheet)  
+- Writing DVR specification and writing test cases  
+- Preparation of protocol deviation document  
+- Drafting eCRF completion guidelines  
+- Creation of UAT plan, performing UAT and preparing UAT report  
+- Worked on all the below mentioned UAT (Scripting, Testing & documentation):  
+  - Database (SDS) UAT  
+  - Edit checks and derivations (Front end) UAT  
+  - Standard Data Review Model (SRDM) UAT  
+  - DRP and back-end checks (BE Checks) UAT  
+  - Non-CRF UAT for vendor data files  
+- Preparing data transfer agreement (DTA) and Data file specifications (DFS) for vendor  
+
+**In Conduct phase below activities, I have worked upon:**  
+- Performing regular discrepancy management on front end checks and the backend listings output in accordance with the agreed timelines  
+- Reviewing all protocol deviations  
+- Escalate any discrepancy in the clinical data to concerned designee  
+- Identifying issues with validation procedures during study conduct and communicate finding to concerned designee  
+- Point of contact to monitor for data flow, discrepancy management, and all other data management related process  
+- Communicating site data issues (dataflow, discrepancies, etc) with concerned designee  
+- Co-ordinate with coding team for coding related activities  
+- Requesting Reports from the programming team for various trackers and reports to be send to the study team  
+- Creation and maintenance of Automated Clean Patient Tracker  
+- Create and share the study metrics with the clinical team  
+- Performed reconciliations for below mentioned data types:  
+  - Serious Adverse Event (SAE) reconciliation  
+  - TVRS/TWRS/IRT data reconciliation  
+  - E-dairy data reconciliation  
+  - PK/ADA Data reconciliation  
+  - Histogenex data reconciliation  
+- Laboratory (Local as well as Central) data reconciliation  
+- Perform local Jab outlier’s data review  
+- ECG reconciliation  
+- Perform protocol deviation review and report the PD in PDIE module  
+- Missing Pages report review  
+
+**In Close-out phase below activities, I have worked upon:**  
+- Conduct a final review of study data to ensure completeness and accuracy  
+- To ensure error free, quality data with no open queries prior to database lock  
+- Perform Source Data Verification (SDV) and Source Data Review (SDR)  
+- Co-ordinate with coding team for coding related activities  
+- Perform locking and freezing of eCRFs  
+- Perform domain wise review for SDTM Dataset before final submission to regulatory requirements  
+- Generate final study reports summarizing the trial results and data collected  
+- Archive study documents, including the database, CRFs, and other essential documents, according to regulatory requirements  
+- Finalize the study database and lock it to prevent further data entry or modifications  
+
+**Other Skills**  
+- Worked as process SME  
+- Worked as process trainer and trained the new-joiner in the team  
+- Closely involved in SOP, SWI, checklist creation process  
+- Created guidance documents and shared idea across the team to make the process streamline and maintain the consistency  
+- Working as final documentation peer reviewer  
+- Co-ordinate with Clinical Data Scientist (CDS) Global Data Manager (GDM) regarding study timelines and unresolved issues etc  
+- Always passionate to learn the new things and accept challenges  
+- Team Lead: Along with the above activities, I have managed the team of 15 people as a backup of my team lead in his absence. To track the study wise deliverables if anything need attention, allocate the sufficient work to resource, provide the work support within or across the team in case of urgent deliverables.  
+
+**Social Media Links**  
+Facebook: https://www.facebook.com/yogesh.patil.3538  
+LinkedIn: https://www.linkedin.com/in/yogesh-patil-9b186b8a/  
+
+**References**  
+According to need, reference will be provided.  
+
+**Personal Profile**  
+Name: Yogesh Vana Patil  
+Address: 505 F Wing Anand Vatika, Datir Nagar, Ambad MIDC Nashik PIN 422010  
+Date of Birth: 5th June 1993  
+Language: English, Hindi, Marathi  
+
+**Declaration**  
+Thereby declare that the information given above is complete and correct to the best of my knowledge and belief. I understand that I am liable to lose my lien on the job, prior to or any time during employment, in the event of the above personal information being provided false or incorrect.  
+
+Date: -2025  
+Yours Faithfully

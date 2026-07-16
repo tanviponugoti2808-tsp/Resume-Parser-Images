@@ -1,0 +1,214 @@
+Cell
+SRIVIDYA MAKKENA Em:
+Cell
+Summary
+Over 9 years of experience in health care domain for Clit
+data management processes. I have comprehensive exper
+studies in various indications including oncology, dermat
+Ihave experience working in Clinical Database such as I
+ClinicalInk. I have handled Data management activities f
+out.
+Technical Skills
+e ICH GCP guidelines °
+e SAE Reconciliation
+e Migration activities °
+¢ Query management °
+e Creating CCI’s, Mockshells °
+e Vendor Reconciliation
+e Medidata Rave knowledge
+Work Experience
+Clinical Data Analyst II
+PAREXEL International — Hyderabad, Telangana
+November 2022 to Present
+As a Clinical Data Analyst III, my responsibilities includ
+e Lead and independently perform all clinical data n
+projects.
+e Icoordinate & prioritize tasks for the team in the
+e Provide input on the data management timelines
+activities during database set up, migrations, inter
+e Perform and or support the setup of DM docume
+as per Standard Operating Procedures, ICH/GCP
+e Support data processing activities from database s:
+testing edit checks on study database setups, up
+creating Mockshells, CRF Completion Guidelin:
+listing reviews, external vendor data reconciliatio
+e Actively involve in migration, interim analysis ac
+e Train and mentor project team members.
+e Bea subject matter expert when needed.
+e Interaction with cross functional departments suc]
+and SAS team.
+e Lead status calls with sponsors, vendors.
+mail: vidhya.makkenal 15@gmail.com
+‘ell: +91 9989584987
+“linical research, Imaging and Clinical
+perience in phase I/ IV/III clinical
+natology and ophthalmology.
+'s Datalabs, Medidata Rave,
+»s from start-up till close-
+e Clinical trial knowledge
+e Data validation
+e User Acceptance Testing
+e Writing edit checks
+e Manual listing review
+e Dataset review
+e Protocol Deviation review
+lude:
+a management activities for the assigned
+he Primary CDA role.
+nes and coordinate the DM operational
+iterim analysis and database lock.
+nents and ensure proper documentation
+>P Guidelines.
+e setup to database lock, e.g. writing and
+updating Data validation specification,
+lines, query management, manual/SAS
+tion, SAE reconciliation.
+activities.
+uch as coding team, Programming team
+e
+Archiving critical study documents on an ongoing basis.
+Clinical Data Analyst IL
+PAREXEL International — Hyderabad, Telangana
+September 2021 to November 2022
+As a Clinical Data Analyst II, my responsibilities include:
+e
+I Independently perform all clinical data management activitie
+e
+I support on data validation activities, Data Management docu:
+matrices e.g. Data Validation Specification, CRF Completic
+Deviation Specification, Mock Shells for Off-line listing etc
+I am responsible for data validation (cleaning/review/reconcil
+conduct and database lock (Primary CDA), e.g. query managerr
+reviews and external vendor data reconciliation.
+I Perform and/or support the setup of DM documents and ensu
+as per Standard Operating Procedures, ICH/GCP Guidelines.
+Lead/perform user acceptance testing on clinical database setu
+Review protocols and EDC Entry Screens if required.
+Provide input on the data management timelines and coordin
+activities during database set up.
+I coordinate & prioritize tasks for the team when in the Primar
+Imentor ACDA or other CDA peers
+Clinical Data Analyst I
+PAREXEL International — Hyderabad, Telangana
+October 2018 to September 2021
+As a Clinical Data Analyst I, my responsibilities include:
+e
+Review and understand the study protocol and the timelines
+e
+Perform study setup activities such as User acceptance testin
+testing edit checks on study database setups, updating Data «
+creating Mockshells, CRF Completion Guidelines
+Responsible for study conduct activities such as data cleaning a
+including Query management, Dataset review, Offline listing
+review, Statistical Data issue Tracker review
+Support data processing activities from database setup to dat:
+reconciliation, locking and freezing data.
+Perform and or support the setup of DM documents and ensure
+Generation of study reports
+Interaction with cross functional departments such as coding te
+and SAS team
+e
+Independently perform all clinical data management activities
+Imaging Research Associate
+PAREXEL International — Hyderabad, Telangana
+March 2016 to October 2018
+As an Imaging Research Associate, my responsibilities include:
+e
+Perform quality assurance checks on medical imaging that cor
+care of patients.
+ties on assigned projects
+‘cuments and data cleaning
+*tion Guidelines, Protocol
+iciliation) activities during
+ement, manual/SAS listing
+sure proper documentation
+d
+>tups.
+dinate the DM operational
+yary CDA role.
+ting including writing and
+ta validation specification,
+¢ and data review activities
+ing review, Vendor listing
+latabase lock, e.g. Vendor
+ure proper documentation
+z team, Programming team
+es on assigned projects
+contribute to the quality of
+Perform image processing ( including downloading of Imaging
+digitizing, data entry) across multiple modalities (including but
+CT, MRI, Bone scan, endoscopy and PET) using Alice TM as‘
+software’s.
+Work with Investigator Site on Site Surveys and Site Qualifica:
+Querying and following up with sites to resolve imaging issues
+Delivering quality work within the assigned projects of Good C
+(GCP), additional regulatory requirements (21 CFR Part 1 I), a
+and companywide SOPs, and project specific protocol complia
+Addressing all eligibility and priority tasks within TAT for assi,
+and first time quality.
+e
+Mentor and assist in training of internal personnel
+Engineer — R&D
+Omya Healthcare Limited Bangalore, Karnataka
+June 2014 to March 2016
+As an R&D Engineer my responsibilities include:
+e
+Involved in preliminary Patent analysis Patent study, understz
+claims and key Inputs for designing biopsy device.
+Literature study and Experimental planning for needle tissue cl
+the product.
+Documenting the performed experiments and analyzing.
+Performing experimental reviews for the better design of the pr
+team.
+Assisting with the preparation of IRB applications, including p:
+consents.
+Coordinating for pre-clinical study.
+Involved in various phases of product development.
+Education
+e
+B.Tech in BioMedical Engineering at Gokaraju Rangaraju Inst:
+and Technology with aggregate 86.21% in 2014
+e
+Intermediate with 94.9% in MPC from Board of Intermediate E
+e
+SSC with 86.5% from Board of Secondary Education, A.P in 2
+Achievements
+Received Green Horn Award in 2016 year for exhibiting one c
+cultures of PAREXEL “I own the problem and solution”.
+Secured first rank in both semesters of B.Tech 3" year.
+Got first prize in project expo for the project “Emotional stress
+promethean’2k12 at Padmasri Dr. B.V. Raju Institute of Techn
+Strengths
+e
+Hard working
+e
+Self motivating
+e
+Ability to work in a group or alone
+ing data from media,
+but not limited to X-Ray,
+as well as other third party
+ication
+ies.
+d Clinical Practices
+', applicable departmental
+liance.
+ssigned studies with speed
+‘standing technology,
+: characterization setup of
+: product across the R&D
+3 protocol and informed
+astitute of Engineering
+e Education, A.P in 2010
+12008
+e of the high performance
+288 indicator kit” at
+hnology.
+Languages Known
+English, Hindi and Telugu
+Interests
+Hobbies: Drawing, Playing Badminton
+Declaration
+Thereby declare that the above written particulars are true to the best of my knowledge.
+Yours Faithfully,
+M. Srividya

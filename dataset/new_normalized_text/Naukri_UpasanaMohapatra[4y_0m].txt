@@ -1,0 +1,74 @@
+Upasana Mohapatra  
+Mobile No: +91-8984428832  
+E-mail: mohapatraupasana2@gmail.com  
+LinkedIn: www.linkedin.com/in/upasana-mohapatra  
+Address: Bangaluru, Karnataka - 560016  
+
+PROFESSIONAL SUMMARY:  
+Detail-oriented Clinical Data Specialist with 3+ years of experience across the full Clinical Data Management (CDM) lifecycle, including Study Start-up, Conduct, and Close-out phases. Skilled in Medidata RAVE, Veeva EDC, SAS checks, query management, data cleaning, UAT execution, validation, and migration testing. Strong understanding of GCP, eCRF guidelines, CDISC, FDA & EMA regulatory standards. Known for accuracy, ownership, and high-quality delivery in global, fast-paced environments.  
+
+WORK EXPERIENCE  
+Company: IQVIA, Bangalore, India  
+Role: Clinical Data Specialist  
+Duration: March 2025 — Present  
+Database: Medidata Rave, Veeva Vault  
+Therapeutic Area: Hematology/Oncology  
+Having experience on: Startup, Conduct and Close out activities of CDM  
+
+Job Responsibilities:  
+- Lead Start-up, Conduct, and Close-out activities for Hematology/Oncology clinical studies.  
+- Supported study meetings with sponsors by contributing to requirement discussions and validation-focused clarifications.  
+- Execute complex validation test scripts in Medidata RAVE and Veeva Vault.  
+- Perform data cleaning, query management, discrepancy review, and issue log maintenance.  
+- Conduct manual DRT checks, SAS-based checks, vendor data reconciliation, and root-cause analysis.  
+- Support User Acceptance Testing (UAT) for CRF updates, backend enhancements, and system fixes.  
+- Execute change control, migration validation, and regression testing during system upgrades.  
+- Prepare clean patient status trackers, metrics reports, and study documentation.  
+- Participate in internal and external meetings, providing status updates on validation and CDM deliverables.  
+- Ensure GCP compliance, protocol adherence, and alignment with study-specific SOPs and processes.  
+- Collaborate with global cross-functional teams to ensure timely data deliverables across the study lifecycle.  
+
+Company: Fortrea (formerly Labcorp), Bangalore, India  
+Role: Associate Validator II  
+Duration: August 2022 — February 2025  
+
+ROLES AND RESPONSIBILITIES:  
+- Performed Start-up activities including metadata review, study configuration validation, and CRF readiness checks.  
+- Executed validation for RAVE, Veeva, and TrialGrid automation tools.  
+- Conducted data discrepancy review, manual listings review, and reconciliation activities.  
+- Supported Conduct-phase tasks such as freezing & lock, discrepancy management, and validation checks.  
+- Assisted in Close-out activities, ensuring clean data and documentation required for database lock.  
+- Maintained audit-ready documentation aligned with GCP/ICH standards.  
+- Collaborated with internal functional teams to ensure timely completion of validation cycles.  
+
+RECOGNITIONS IN FORTREA:  
+- Commended with people excellence award by management for delivering high-quality validation support across multiple global studies — Dec 2024  
+- Promoted to Associate Validator II role based on demonstrated excellence, reliability, and contribution to validation quality — Aug 2024  
+- Process Improvement Achievement: Contributed to Veeva Validation process improvement by reducing the number of folders tested, resulting in faster study deliverables.  
+
+SKILLS:  
+Systems & Tools:  
+- Medidata RAVE, Veeva EDC, TrialGrid, SAS (checks), QPMT, DET, MIF, DMP  
+
+Clinical Data Management:  
+- Study Start-up, Conduct, Close-out, Data Cleaning, Query Management, Discrepancy Review, Migration Testing, Change Control, Reconciliation, UAT, DRT, Manual Checks, Vendor Tracking  
+
+Soft Skills:  
+- Attention to Detail, Documentation, Accuracy, Team Collaboration, Communication, Stakeholder Coordination  
+
+LANGUAGES:  
+- English, Hindi, Odia, Kannada (Learning)  
+
+EDUCATIONAL QUALIFICATION:  
+- M.Sc. Applied Microbiology (2020-2022): VIT, Vellore, Tamil Nadu — 8.67 CGPA  
+- B.Sc. Bioinformatics (2017-2020): BJB Autonomous College, Bhubaneswar — 79%  
+
+LOCATION PREFERENCE:  
+- Bengaluru, Hyderabad  
+
+CERTIFICATIONS AND TRAININGS:  
+- Good Clinical Practice (GCP)  
+- ICH Guidelines  
+- Clinical Data Management Foundations  
+- UAT & System Testing Workshops  
+- Internal tool training (RAVE, Veeva, TrialGrid)

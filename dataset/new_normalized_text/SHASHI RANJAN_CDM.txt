@@ -1,0 +1,98 @@
+It seems like your text is a mix of different languages and has some formatting issues. Based on the content, it looks like you're providing a **CV (Curriculum Vitae)** or **Resume** in **Hindi**, with some English and possibly other languages mixed in. The text includes details like:
+
+- **Education**: B.Pharm (Bachelor of Pharmacy), Senior Secondary School, etc.
+- **Skills**: Proficiency in Microsoft Excel, Power Pivot, Power Query, etc.
+- **Certifications**: Lifetime member of Indian Society for the Study of Reproduction and Fertility (ISSRE)
+- **Experience**: Mention of working with Medidata Rave, SharePoint, Veeva Vault, etc.
+- **Publications**: Some references to review articles and research topics
+- **Declaration**: A statement confirming the information is true
+
+---
+
+### ✅ What You Can Do Next:
+
+1. **Clean the Text**:
+   - Remove or fix the non-English characters and formatting errors.
+   - Use a consistent language (preferably English) for clarity.
+
+2. **Structure the CV Properly**:
+   - **Contact Information**: Name, Address, Email, Phone, LinkedIn, etc.
+   - **Objective/Summary**: A brief statement about your professional goals.
+   - **Education**: List degrees, institutions, years, and grades.
+   - **Skills**: Use bullet points for software, languages, and technical skills.
+   - **Work Experience**: Include job titles, companies, dates, and key responsibilities.
+   - **Publications/Research**: List articles, papers, or projects.
+   - **Certifications**: List relevant certifications with dates.
+   - **Languages**: Mention languages you're fluent in.
+   - **Declaration**: A formal statement confirming the accuracy of the information.
+
+3. **Use Professional Tone**:
+   - Avoid informal language.
+   - Use consistent formatting (font, spacing, bullet points).
+
+4. **Save as PDF**:
+   - Once cleaned and structured, save your CV as a PDF for easy sharing.
+
+---
+
+### 📌 Example of a Cleaned-Up CV Structure (in English):
+
+---
+
+**Name**: [Your Full Name]  
+**Contact**: [Email Address] | [Phone Number] | [LinkedIn Profile]  
+**Location**: [City, State, Country]  
+
+---
+
+### 📚 Education
+
+**Bachelor of Pharmacy (B.Pharm)**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (MP)  
+**Year of Graduation**: 2017  
+**CGPA/Percentage**: [Insert if available]  
+
+**Senior Secondary School (12th)**  
+BSEB, Bhopal (MP)  
+**Year of Passing**: 2013  
+**Percentage**: [Insert if available]  
+
+**Higher Secondary School (10th)**  
+BSEB, Hata, Bihar  
+**Year of Passing**: 2011  
+**Percentage**: [Insert if available]  
+
+---
+
+### 📊 Skills
+
+- **Microsoft Office Suite**: Excel (Power Pivot, Power Query, Lookup, Logical & Statistical Functions), Word, PowerPoint  
+- **Software**: Medidata Rave, Sharepoint, Veeva Vault  
+- **Languages**: English, Hindi  
+- **Communication & Teamwork**: Strong verbal and written communication skills, team leadership experience  
+
+---
+
+### 📚 Publications & Research
+
+- **"Point of Care Diagnostics Approaches for Detection of Lung Cancer Associated Circulating Biomarkers"** – Review Article  
+- **"Exosome-Based Low Assay-Based Detection of Long Non-Coding RNAs: A Point-of-Care Platform for Early Detection of Lung Cancer"** – Research Paper  
+
+---
+
+### 📜 Certifications & Memberships
+
+- **Lifetime Member**, Indian Society for the Study of Reproduction and Fertility (ISSRE)  
+- **30 Days Online Program**, "Svarnam Pustakalaya-2020" organized by CSIR, Jabalpur Incubation Center & RGPV, Bhopal  
+
+---
+
+### 📌 Declaration
+
+I hereby declare that all the information provided above is true, accurate, and to the best of my knowledge.  
+**Signature**: ___________________________  
+**Date**: [Insert Date]  
+
+---
+
+Would you like help cleaning up and formatting your CV in English or Hindi? I can assist with that!

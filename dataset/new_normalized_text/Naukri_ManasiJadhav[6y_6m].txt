@@ -1,0 +1,50 @@
+Manasi Jadhav  
+Sr. Process Associate  
++919673621695 | manasibiotech@gmail.com | Pune, Maharashtra  
+LinkedIn: linkedin.com/in/manasi-jadhav  
+
+SUMMARY  
+Experienced Clinical Data Manager specialising in oncology studies, proficient in data management, query resolution, and vendor data reconciliation, with a strong focus on quality control procedures and checks. Seeking a Clinical role to apply my technical expertise in data management, analysis, programming, and consistent adherence to timelines and productivity metrics.  
+
+PROFESSIONAL EXPERIENCE  
+Clinical Data Manager, Tata Consultancy Services, Pune  
+Mar 2023 — Present  
+Core Competencies:  
+- EDC Systems: INFORM, RAVE, MEDIDATA  
+- ICH-GCP & CDM SOP Compliance  
+- Edit Checks: Manual & Automated  
+- Vendor Data Reconciliation: Lab, SAE, PK, SBCMA, ePRO  
+- Protocol Deviation & Query Management Systems  
+- Study Tool Handling & Maintenance  
+- Clinical Trial Phases: Start-up, Conduct, Close-out  
+- Testing Activities: UATs, Edit Check Validation  
+
+Roles and Responsibilities:  
+- Clinical Data Review & Validation: Reviewed and validated oncology clinical trial data for accuracy, completeness, and protocol compliance using manual and programmed edit checks.  
+- Query Management: Managed the full lifecycle of data queries—issuing, updating, reissuing, and closing—in line with quality metrics and timelines.  
+- Regulatory Compliance: Ensured all data management activities adhered to ICH-GCP, SOPs, and regulatory standards; maintained audit readiness through detailed reports and trackers.  
+- Data Reconciliation & Oversight: Performed SAE and third-party vendor data reconciliation (e.g., SBCMA, PK, ADA, ePRO), and monitored Yellow Traffic Light (YTL) reports for CRF completeness.  
+- Stakeholder Collaboration: Supported database lock activities and collaborated with Study Data Managers to deliver study metrics, dashboards, and listings to stakeholders.  
+
+Medical Reviewer, Omega Healthcare Solutions, Bangalore (Remote)  
+Aug 2021 — Jan 2023  
+- Reviewed and abstracted clinical data from US healthcare documents and oncology EMRs, ensuring accuracy and compliance across multiple cancer studies (Breast, Prostate, CLL, NSCLC).  
+
+Medical Data Executive, IT Cube Solutions, Pune  
+Jan 2017 — Jul 2019  
+- Managed and reviewed medical, legal, and insurance documents with a focus on quality and compliance, while leading data analysis, reporting, SOP creation, and team coordination for operational efficiency.  
+
+EDUCATION  
+KIT's College of Engineering, Kolhapur, India  
+Bachelor of Engineering, Biotechnology  
+2012 — 2016  
+
+CERTIFICATION  
+- Certification in Clinical Research and Clinical Data Management, Clinnovo Research  
+- SAS Base and Advanced Course, Clinnovo Research Labs  
+
+SKILLS  
+Documentation, Quality Control, Data Validation  
+Clinical Research: CRFs, Clinical Trial Protocol, Discrepancy Management  
+Data Management: Vendor Data Reconciliation, EDC Systems, Edit Checks, ICH-GCP, PDMS  
+Statistical Analysis: SAS (Base & Advanced), SDTM, ADaM

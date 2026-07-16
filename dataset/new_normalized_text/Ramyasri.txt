@@ -1,0 +1,42 @@
+Ramyasri Macharla  
+Clinical Data Associate - II  
+
+Career Summary  
+Dedicated Clinical Data Management professional with over 4 years of experience ensuring high-quality, reliable data across Phases II-III of clinical research in Cardiology and Endocrinology. Adept at designing eCRFs, extensive experience in developing and validating robust edit checks, comprehensive User Acceptance Testing (UAT), and performing reconciliation between clinical, safety, and external vendor databases. Expert in ensuring 100% data integrity through meticulous SAE reconciliation and lab data reconciliation. Highly proficient in using Rave database with expertise in CDISC standards and ICH-GCP guidelines to ensure inspection readiness and compliance with 21 CFR Part 11. Ability to cross-functional collaboration, excellent time management and multitasking skills.  
+
+Work Experience  
+Organization: ClinicaMapletree Analytics, Hyderabad  
+Designation: Clinical Data Associate - II  
+Duration: September 2021 to till date  
+
+Responsibilities:  
+- Designed eCRF layouts for global Phase II/III trials, ensuring alignment with CDASH standards and protocol requirements.  
+- Designed edit check specifications for cardiovascular and endocrinology trials that reduced query rate by 40%.  
+- Executed comprehensive User Acceptance Testing (UAT) for EDC builds, identifying critical errors prior to the first patient's first visit.  
+- Developed study-specific Data Transfer Agreements (DTA) for external vendors, streamlining the ingestion of biomarker and PK/PD data for global Phase III trial.  
+- Built query prioritization framework that cut average site response time from fortnight to a week.  
+- Managed the end-to-end SAE reconciliation process, ensuring 100% consistency between Clinical (EDC) and Safety (PV) databases for global Cardiology and Endocrinology trials.  
+- Oversaw complex lab reconciliation for central laboratories in handling markers (HbA1c) and lipid profiles and ensured 100% synchronization.  
+- Collaborated with cross-functional study teams to finalize data transfer agreements, achieving on-time delivery of high-quality project.  
+
+Technical Skills  
+- Clinical Data Management Systems: RAVE EDC  
+- CDM Skills: DMP, eCRF design, data validation by edit checks, SAE reconciliation, lab data reconciliation, DB lock checklists and UAT, DTA, Query management  
+- Office Tools: MS Office  
+- Strong domain knowledge in Clinical trial life cycle  
+- Sound knowledge of medical terminology  
+
+Education  
+- Master of Pharmacy (Pharmacy Practice): St. Peter's Institute of Pharmaceutical Sciences, Kakatiya University, Warangal, Telangana (84.2%)  
+- Bachelor of Pharmacy: Rosary College of Pharmacy, Jawaharlal Nehru Technological University, Warangal, Telangana (77.18%)  
+
+Personal Details  
+Date of Birth: 18-08-1990  
+Marital Status: Married  
+Permanent Address: Hyderabad, Telangana  
+
+Declaration  
+Thereby declare that the information furnished above is true to the best of my knowledge.  
+
+Place: Hyderabad  
+Ramyasri Macharla

@@ -1,0 +1,187 @@
+Shivaraj Baradi
+Mobile: 7400188544
+Email: bsr8669@gmail.com
+Career Objective
+Aspiring to have challenging position and growth-oriented opportunities in the field of Clinical
+Research, which will allow me to utilize my potentials and provide a satisfying professional experience.
+Experience
+10 years & 8 months of experience in Clinical Data Management.
+Accenture Solutions Pvt Ltd:
+e
+Medical Services Specialist from Dec 2022 to till date.
+e
+Medical Services Senior Analyst from Aug 2018 to Nov 2022
+Cognizant Technology Solutions:
+e
+Data Analyst from Sept 2016 to Aug 2018.
+Tata Consultancy Services:
+e
+Clinical Data Manager (May 2014 to Sept 2016)
+Technical Index
+> Study Setup
+e
+eCRF specifications
+e
+Validation specifications
+e
+Visit Matrix
+User acceptance testing
+Test script creation
+eCRF Review Manual and eCRF completion guidelines
+e
+TSDV
+e
+Safety Gateway
+> Study Conduct
+e
+Protocol Data Review Plan
+e
+Data Quality Management Plan
+e
+Discrepancy management
+Manual Reconciliation
+Regular liaisons with Sponsor, DB programmer, medical coding and stats team
+SAE reconciliation.
+Quality Check
+> Tools
+Medidata rave/ Rave X
+JReview
+eTMF
+RDC
+Page i1|3
+e Oracle clinical
+e Spot Fire
+e CDW
+Responsibilities
+As Medical Services Specialist
+e Provide inputs regarding Study Start up activities and time
+e Identify and Document risks and issues for study start up i
+e Review Stable Draft Protocol and provide comments
+e Track study start up activities and provide regular process
+e Add Site payment requirements in site payment vendor tr
+with DBD, then perform complete payments matrix docur
+perform UAT and verify UAT completion from Site paymel
+e Schedule IRM Meetings and document MOM, provide eC!
+make recommended changes.
+e Assess Global library (GLIB) updates for critical changes ta
+initial or migration stage.
+e Develop Data Management Plan including study specific d
+with Study DRP Data Review Strategy (e.g.: PDRP Appendi
+e Conduct Data Quality meetings to understand inputs on li
+inputs.
+e Develop various documents during the set-up phase of th
+check specifications, Database Specifications, dynamic me
+e Review test migration and production audit trial migratior
+e Create TSDV (Targeted Source Data Verification) specifica
+route for review to respective study stakeholders.
+e Perform the testing of integration configuration (e.g: Safe
+e Develop eCRF instructions and prepare eCRF Training bas:
+check specifications
+e Submit Change Request (CR) if any update to the fields/ fc
+e Request initial and final database snapshot or data extrac
+e Lock forms in Rave on an ongoing basis in rave in accordal
+lock forms if needed.
+e Ensure all required documents are present in eTMF for th
+e Monitor and communicate timelines at protocol level for:
+e Confirm all database cleaning activities are completed for
+e Facilitate DBL risk assessment and presentation to the DB
+e Track missing page, pending SDV and pending PI signature
+sites/clinical studied via various applicable reports.
+e Track and follow-up with site-facing roles to have data en’
+missing eCRFs-at the time of lock.
+e =Perform quality check for DM activities.
+imelines.
+Jp activities, develop mitigation plans.
+ess updates.
+r trigger matrix template and share
+cuments to site payment vendor and
+nents vendor.
+eCRP’s to study team for review and
+3 to be included in specification during
+ic data cleaning listings, consistent
+ndix IIb)
+n listing specifications and provide
+‘the study (e.g.: Procedures/edit
+metrices specification) as applicable.
+tion.
+ication and configuration plan, and
+afety Gateway)
+yased on Protocol/ procedures / edit
+/ forms is required in Standard library
+ract.
+‘dance with lock timelines; also, re-
+‘the respective study timelines.
+or data management activities.
+for site closure.
+DBLRC.
+ure status of assigned investigative
+entry completed by sites or critical
+Page 2|3
+As Medical Services Senior Analyst
+Performing Listing review of all the man
+Cleaning). Handling multiple study tin
+process. Coordinate with CDR to underst
+as needed. Develop procedures/edit cl
+prepared by client and prepare eCRF tri
+screens and other study start up meetir
+internal DM’s as needed, and report stat
+and training the team members. Supervi
+As Data analyst:
+Worked with two trial data managers an
+reports for 2 studies. am key contribut
+team members. Prepared mock CRF’s fc
+Daily work allocation to team members. ;
+by team members.
+As Clinical Data Manager:
+Worked with a team of clinical data ma
+that including study setup, conduct anc
+UMBRELLA Trials, and handling a team
+regular liaisons with sponsor, database
+teams to ensure smooth functioning of c
+daily work allocation, updates of study ti
+Extra —Curricular Activities
+e
+Secured Post Graduate Diploma
+Secured Lean Six Sigma Green Be
+Secured 203 rank in National lev
+A Paper entitled “FAST DISSOLVI
+Poster Presentation at 2nd Ind
+Bangalore.
+Personal Information
+Gender
+: Male
+: Indian
+Nationality
+Language Known
+: English, Hindi,
+Declaration
+solemnly affirm and state that the partic
+timelines.
+ianual checks for multiple studies along with peer review. (Data
+timelines.
+Preparing standard work instructions (SWI’s) for
+trstand inputs on listing specifications and provide input to client
+i check specifications as applicable. Review eCRF instructions
+‘training if needed. Attend study meetings to review database
+etings. Regularly review status of open queries, follow up with
+status to client. Performing end to end activities. Handling team
+2rvising team of 9 members. Oncology Phase Il, III and IV trials.
+and carrying out conduct activities which include creating study
+autor for both the studies liaising with study calls and updating
+s for setup studies. Performed UAT of post-production change.
+rs. Additional responsibilities involve reviewing reports prepared
+managers carrying out end-to-end data management activities
+and closure activities. am one of the key contributors to the
+am member in Data management, Study design. This involves
+ase programming, medical coding and statistical programming
+of clinical study. Additional responsibilities involve with tracking
+y trackers and SOP compliance etc.
+na in Management (Operations Management) on 31Dec2019.
+Belt Certification from Var Sigma with a score of 73% in Jul2019.
+level Pharmacy Talent Search Examination (Senior Level)-2010.
+LVING TABLETS: A PATIENT FRIENDLY DRUG DELIVERY SYSTEM”
+Indian Pharmaceutical Association-Student’s Congress-2009 at
+di, Telugu
+irticulars mentioned above are true to the best of my knowledge.
+SHIVARAJ B
+Page 3|3

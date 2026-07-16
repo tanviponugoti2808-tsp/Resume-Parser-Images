@@ -1,0 +1,92 @@
+SATYAM TRIPATHY  
+Plot no-1083/3632, Nuagaon  
+Bhubaneswar, Odisha, Pin-751003  
+Phone no: 8658627128  
+E-Mail: tripathysatyam30@gmail.com  
+
+PROFILE SUMMARY  
+Licensed pharmacist with experience as a data management analyst in clinical research. Strong problem-solving skills and ability to perform data management activities. Believes that good communication skills, hard work, attention to detail, and excellent organizational skills are keys to success in today’s business world. Motivated to learn, grow, and excel in clinical data management domain.  
+
+EXPERIENCE  
+Clinical Data Analyst I, Parexel International  
+Apr 2024 to Present  
+- Therapeutic area expertise: Multiple Myeloma (Phase II), Macular Degeneration (Phase II/III), Non-Alcoholic Steatohepatitis (Phase III), Chronic Heart Failure (Phase II)  
+- Responsible for data cleaning and data review activities, data management, and manual/SAS listing reviews  
+- Responsible for external vendor data reconciliation, PK reconciliation, ECG reconciliation, and MRI reconciliation  
+- Responsible for review of medical monitor listings and posting queries as applicable  
+- Perform user acceptance testing (UAT) on clinical databases  
+- Responsible for writing logic text and test cases during study setup  
+- Responsible for writing offline listing mockshells and test cases for review  
+- Responsible for QC of newly created SAS listings for appropriateness  
+- Responsible for updating the DVS  
+- Filing of documents in Vee, Vault  
+- Good understanding of oncology trials  
+- Responsible for dataset review  
+
+Clinical Data Analyst, Parexel International  
+Jan 2023 to Apr 2024  
+- Responsible for data cleaning and data review activities in RAVE database, data management, and manual/SAS listing reviews  
+- Responsible for external vendor data reconciliation, MRI reconciliation, PK reconciliation  
+- Responsible for review of medical monitor listings and posting queries as applicable  
+- Perform user acceptance testing (UAT) on clinical database setup  
+- Responsible for writing logic text and test cases during study setup  
+- Responsible for writing offline listing mockshells and test cases for review  
+- Responsible for QC of newly created SAS listings for appropriateness  
+- Responsible for updating the DVS  
+- Filing of documents in Veeva Vault  
+- Good understanding of oncology trials  
+- Responsible for dataset review  
+
+Intern, Clinical Data Analyst, Parexel International  
+July 2022 to Jan 2023  
+- Responsible for data cleaning and data review activities in RAVE database, data management, and manual/SAS listing reviews  
+- Support data processing activities from database setup to database lock, including vendor data reconciliation  
+- Perform user acceptance testing (UAT) on clinical database setup  
+- Track and review CRFs. Support data entry where required  
+- Support the setup of DM documents and ensure proper documentation per ICH/GCP guidelines  
+- Ensure compliance to SOP, ICH/GCP guidelines  
+- Support functional QC activities on database and patient data as per SOP or business needs  
+- Reviewing newly created database, e.g. query resolution, external vendor reconciliation, Safety lab data reconciliation as applicable  
+
+KNOWLEDGE AND EXPERIENCE  
+- Uploading of project-related documents in Veeva Vault  
+- Demonstrates technical aptitude with awareness/potential for learning and using software tools (basic computer skills)  
+- Basic understanding of data management processes and data validation flow (e.g. data cleaning, DB lock)  
+- Basic understanding of relevant ICH-GCP Guidelines, local regulatory requirements, and Parexel SOPs and study-specific procedures  
+- Basic knowledge of Clinical Data Management Systems (e.g. Medidata Rave, Veeva)  
+- Basic understanding of Clinical Study Team roles within Data Management  
+- Experience in clinical research industry  
+- Basic knowledge of medical terminology and coding dictionaries (e.g. MedDRA & WHODRUG)  
+- Basic knowledge of Data Management Operational processes and tasks during study start-up, including database setup, configuration specifications, and setup of Data Validation Specifications  
+
+EDUCATION  
+- B.Pharm, SPS, SOA University, Bhubaneswar, Odisha, 9.69 CGPA (2018-2022)  
+- 12th Science, D.M. School, CBSE Board, Bhubaneswar, Odisha, 75.2% (2018)  
+- 10th, D.M. School, CBSE Board, Bhubaneswar, Odisha, 9.4 CGPA (2016)  
+
+TECHNICAL SKILLS  
+- Medidata Rave Database  
+- Calyx Database  
+- Veeva Vault  
+- RaveX  
+- Trilagrid  
+- Elluminate  
+- Microsoft Office  
+
+SOFT SKILLS  
+- Evidence of strong problem-solving skills and logical reasoning  
+- Commitment to first-time quality, including a methodical, analytical, and accurate approach to work (attention to detail)  
+- Time management and prioritization skills to meet objectives and timelines  
+- Evidence of ability to work collaboratively within a team environment  
+- Good interpersonal, oral, and written communication skills  
+- Learning ability and knowledge-sharing approach; swift understanding of technologies and new processes  
+- A flexible attitude with respect to work assignments and new learning; ability to adjust rapidly to changing technical environments  
+
+CERTIFICATION  
+- Medidata Classic RAVE EDC – Essential All Roles  
+
+DECLARATION  
+In view of the above, I kindly request you to give me an opportunity to serve your esteemed organization in the capacity mentioned. I shall be very thankful for such an act of kindness.  
+I hereby declare that all the statements made above are true. Any discrepancy found in the above information will render me liable for cancellation of my candidature at your esteemed organization.  
+
+Signature: Satyam Tripathy

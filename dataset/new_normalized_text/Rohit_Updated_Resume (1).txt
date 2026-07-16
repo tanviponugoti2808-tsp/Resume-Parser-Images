@@ -1,0 +1,50 @@
+Rohit Sinha  
+Clinical Database Designer  
+rohit.sinha@elite1995@gmail.com  
++91 7992322213  
+Bangalore, India  
+linkedin.com/in/rohit-sinha  
+
+WORK EXPERIENCE  
+Database Designer  
+Tata Consultancy Services  
+03/2023 – Present  
+1+ years of work experience in multiple clinical EDC tools like iMedidata, Veeva, and Encapsia.  
+Work involves CRF design, Edit checks programming, Post production changes & Migration activities.  
+Pre-Post Migration comparison reports and all the relevant documentation.  
+
+Database Programmer  
+ALTEN  
+01/2022 – 03/2023  
+1.2 years of experience in Medidata Rave & Encapsia which consist of Edit Checks, Derivations, and User Management.  
+Proven experience in quality delivery of database build and loader build.  
+Supporting all study leads to meet the deliverables with compliance.  
+Capable of understanding the protocol and designing the EDC database.  
+Strong knowledge in Medidata Rave study design, Programming of eCRF's layout & Encapsia study design, Programming of PC.  
+Problem Solving Skills, Ability to Follow Industry standards and procedures.  
+
+Programmer Analyst  
+HCL Technologies  
+02/2020 – 01/2022  
+2 years of experience in infrastructure operations. Strong knowledge in full PC assembling, troubleshooting and software installation.  
+Working on ServiceNow to manage ticketing and resolve user problems with maintaining SLA.  
+
+Programmer Analyst  
+Varta Software Service Pvt. Ltd.  
+06/2018 – 02/2020  
+1.8 years of experience in Medidata Rave Edit Checks, Derivations, and User Management.  
+Proven experience in quality delivery of Edit Checks, POEs Programming, Derivations, and EDC database.  
+
+LANGUAGES  
+English – Full Professional Proficiency  
+Hindi – Native or Bilingual Proficiency  
+
+HOBBIES  
+Maintaining effective communication with the Data Management lead for smooth flow of study.  
+Performing UAT for different studies & QC for the checks programmed by other programmers.  
+
+EDUCATION  
+B.Tech (Electronics & Communication Engineering)  
+Karunya Institute of Technology and Sciences  
+07/2014 – 06/2018  
+Coimbatore, India

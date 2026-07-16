@@ -1,0 +1,113 @@
+Dr. Dhanvi K. Vyas
+Silver Spring, Near TRP Mall, Bopal, Ahmedabad 380058, India
++91 7984144704 shahdhanvil995@gmail.com
+e
+Curriculum Vitae
+Professional Summary
+Clinical Data Management professional with 5+ years of experience in CROs, speciali:
+reconciliation, CRF/eCRF design, and external data reconciliation across Oncology, Enc
+Immunology Skilled in ensuring data integrity, compliance with GCP/GCDMP, and sw
+including Biostatistics, Programming, and Safety. Strong background in audits, quality a
+Data Associates.
+Core Competencies
+e
+Clinical Data Management (CDM) Data Management Plans (DMP) Data Vali
+e
+Case Report Form (CRF/eCRF) Design User Acceptance Testing (UAT)
+e
+Edit Checks & Discrepancy Management SAE Reconciliation External Data I
+e
+Quality Assurance & Audits CAPA Management Training & Mentoring CDA
+e
+Tools: CodeAngelo, BizNET, Q-edge, Stacktrack, Knowledge-NET, CTMS
+Experience
+Cliantha Research Ltd., Ahmedabad
+Clinical Data Analyst-II Dec 2022 — Present
+Therapeutic Areas: Dermatology, Oncology, Endocrinology
+Database: CodeAngelo
+e
+Created, reviewed, and updated DMPs, DVS, database design specifications, ¢
+CRE/eCRF Completion Guidelines.
+Designed and reviewed Case Report Forms (CRFs/eCREs) including visit strv
+programmers for database builds.
+Performed User Acceptance Testing (UAT) for edit checks, CRF/eCRF screen:
+Conducted discrepancy management: reviewed validation listings, generated q
+study DMP/DVS.
+Managed external data reconciliation (lab data, PK, Protocol Deviation) and 1
+Performed SAE reconciliation, ensuring consistency with clinical databases.
+Conducted Data Dictionary QC, code list reviews.
+alizing in data validation, UAT, SAE
+indocrinology, Dermatology and
+supporting cross-functional teams
+ty assurance, and training Clinical
+validation Specification (DVS)
+ta Reconciliation
+DAs
+s, external data handling plans, and
+structures; coordinated with
+sens, role-based access.
+d queries, and ensured alignment with
+d resolved discrepancies.
+Page 1 of 3
+e
+e Generated ad-hoc data cleaning/status reports.
+e Provided training to CDAs and site staff on EDC usage and study-specific activities.
+e Supported Project Data Manager (PDM) by updating DMPs, attending sponsor meetings, and maintaining study
+documentation.
+Lambda Therapeutic Research Ltd., Ahmedabad
+CDM Auditor (Senior Officer) Aug 2020 — Nov 2022
+Therapeutic Areas: Oncology, Immunology, CNS, Dermatology
+Databases: BizNET Tools: Q-edge, Stacktrack, Knowledge-NET, CTMS
+e Reviewed DMPs, DVS, CRF/eCRF Completion Guidelines, and change request forms for accuracy and
+compliance.
+e Worked across start-up, conduct, and close-out phases of clinical trials.
+e Performed manual listing reviews, interim data cut checks, and final database QC prior to lock.
+e¢ Conducted system audits (on-site & remote) for Clinical Data Management; prepared detailed audit reports.
+e Tracked and closed CAPAs, deviations, IRs, and change controls to ensure data quality.
+e Ensured timely generation, tracking, and resolution of DCFs/Ex-DCFs for paper-based CRF studies.
+e Coordinated with cross-functional teams including Biostatistics, Programming, Safety, Medical Writing, and
+Clinical Operations.
+e Supported quality control of code lists, edit checks, and validated listings.
+Lambda Therapeutic Research Ltd., Ahmedabad
+Research Associate (Early Phase, QA) Jun 2019 — Aug 2020
+Database: BizNET Tools: Q-edge, Stacktrack, Knowledge-NET
+e¢ Conducted in-process and retrospective audits of CPMA (Clinical Pharmacology & Medical Affairs) activities
+(check-in, ICF presentation, IMP dosing/dispensing, MSR review).
+e Reviewed SOPs, QA & CPMA documents for correctness and compliance.
+e Prepared audit certificates, QA statements, and presented findings to management.
+e Performed system audits in alignment with GCP & GCDMP standards.
+Page 2 of 3
+Education
+e
+Doctor of Pharmacy (Pharm.D) — K.B. Institute of Pharmaceutical Education é
+2019) 85%
+e
+Intermediate — Kendriya Vidyalaya, Himatnagar (2011) — 9.6 CGPA
+High School — St. Kabir School, Ahmedabad (2013) — 89.9%
+Certifications & Training
+e
+Certified Diabetes Educator NDEP
+Good Clinical Data Management Practices (GCDMP)
+Good Clinical Practice (GCP) & NDCT 2019 {GSR 227(E)}
+SAS Workshop — Epoch Research Institute
+Workshop on Advanced Statistical Tools
+Basic ECG Learning Course — CIMS Hospital
+c
+Skills & Tools
+Technical/Hard Skills: Clinical Data Management (CDM), User Acceptance Testing (U
+Design, Edit Checks, SDV, SAE Reconciliation, Discrepancy Management, External Dat
+Data Dictionary QC, Audit & Compliance
+Tools/Software: CodeAngelo, BizNET, Q-edge, Stacktrack, Knowledge-NET, CTMS,S.
+Excel
+Soft Skills: Attention to detail, problem-solving, time management, teamwork, training ¢
+adaptability
+Personal Details
+Date of Birth: 18 May 1995
+Languages: English, Hindi, Gujarati
+Marital Status: Married
+m & Research, Gandhinagar (2013-
+-(UAT), DMP, DVS, CRF/eCRF
+Data Reconciliation, Medical Coding,
+3,SAS (QC exposure), Microsoft
+ig & mentoring, communication,
+Page 3 of 3

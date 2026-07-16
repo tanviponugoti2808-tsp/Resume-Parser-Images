@@ -1,0 +1,87 @@
+Sudhir Ghawade  
+Protocol Data Manager, Accenture  
++91-9503153987  
+Sudhir.ghawade@gmail.com  
+LinkedIn: Sudhir Ghawade  
+
+PROFESSIONAL SUMMARY  
+Hold a Master’s degree in Pharmacology and have extensive 10+ years of experience as a Senior Clinical Data Management Scientist. My expertise includes Clinical Data Management, Data Validation, and analyzing data in different therapeutic areas. Excel in ensuring the integrity and accuracy of clinical data through meticulous validation and cleaning processes. With a strong background in leading data management projects, I am proficient in utilizing advanced data management systems to support clinical trials. My proactive approach and effective communication skills make me a reliable primary contact in collaborative settings.  
+
+SKILLS  
+Good Clinical Practice  
+Clinical Data Analysis  
+Project Management  
+Team Management  
+Electronic Data Capture  
+Quality Management  
+Operations Management  
+Strategic Planning  
+Risk Management  
+Study Build  
+Team Leadership  
+Collaboration, and Innovation  
+
+WORK HISTORY  
+PROTOCOL DATA MANAGER  
+08/2020 to Current  
+Accenture Technology Solutions Pvt. Ltd, Hyderabad  
+- Management and oversight of study start-up and close-out activities (as applicable per scope) in various aspects of Data Management for a clinical trial to ensure consistency, high standard database(s) delivery with respect to quality and timelines.  
+- Identify and document risks and issues for study start-up activities, develop mitigation plans and share with client, if required.  
+- Share study plan and timelines with tower lead and work with lead to allocate Accenture resources to study, as and when required.  
+- Develop Data Management Plan including study specific data cleaning listings.  
+- Develop various documents during setup phase of the study (e.g. procedure/edit check specifications, Database Specification, Dynamic Matrices Specification) as applicable.  
+- Review test migration and production audit trail reports for Rave.  
+- To support for Data Management and study start-up (DMSSU) activities, collaborate with Database Developer team as well as build and testing team, CF programmer to support overall eCRF build, programming and UAT of edit checks as well as UAT testing of CRF.  
+- Attend study meetings to review database screens and other study start-up meetings as needed.  
+- Coordinate with the EDR and biomarker lead to oversee BICR Reconciliation and other External Data transfer reconciliation.  
+- Review timelines for migration/PPC and provide inputs regarding activities to client.  
+- Review study DB lock timelines and provide inputs regarding activities to client.  
+- Host the monthly study data quality meeting and present slides of study trial health to the client and all external stakeholders.  
+
+SENIOR CLINICAL DATA COORDINATOR  
+01/2019 to 07/2020  
+IQVIA RDS (India) Pvt. Ltd, Thane, Maharashtra  
+- Acted as Functional Lead for Data Management on full-service contracts, primary contact for internal liaison between Data Management and Company Project Management, Clinical Monitoring, and other functional groups.  
+- Monitored and communicated project progress to the customer and project team including use of project status reports and tracking tools/metrics.  
+- Planned and managed resources as required for assigned studies.  
+- Regularly reviewed project file and ensured that all filing is up to date.  
+- Provided project specific training for: DMs to be able to train site staff to use EDC System; project team in project specific requirements.  
+- Participated in, and presented at internal, customer, third-party, and investigator meetings.  
+- Performed the peer QC of the studies to across team to improve the quality of data.  
+
+SENIOR PROCESS ASSOCIATE  
+09/2015 to 01/2019  
+Tata Consultancy Services, Mumbai  
+- Worked on all study set up activities. It includes the preparation of eCRF specifications, EDC Specification, Completion Guidelines, Data Validation Specifications, test scripts writing, DMP, DQRP etc.  
+- Performed set up of Oncology and Immunology Studies with collaboration with Rave DBD and SAS programmer.  
+- Coordinated and participated in the development of the CRF (eCRF) according to the specifications.  
+- Performing the UAT of the edit checks built in system and rectifying it.  
+- Handled the whole study migration activities responsibly in collaboration with the programmers.  
+- Coordinated the development and testing of data management system edit / data validation checks (diagnostics) and special listings / procedures used as tools for the data review and discrepancy management activities.  
+- Performed activities on reconciliation like External data, SAE reconciliation, non eCRF data, IVRS, Pharmacokinetic data Reconciliation.  
+
+JUNIOR DATA ANALYST  
+06/2013 to 08/2015  
+Cognizant Technology Solutions, Powai, Mumbai  
+- Worked as a clinical data manager to perform data management activities to ensure and improve the quality of the clinical data from ongoing Clinical Trials at the client sites all over the globe.  
+- Expertise in CRF Tracking, Data Entry (Single & Double Data Entry) and Verification.  
+- Execute Data Management activities viz. Data cleaning, Executing Manual & System Checks, update relevant trackers, Data entry as assigned.  
+- Assist in maintaining protocol level documentation of data management activities.  
+- Understanding study protocols and SOPs.  
+- IVRS and SAE Reconciliation  
+
+EDUCATION  
+Vidyabharati College of Pharmacy, Amravati, India  
+M. Pharm – 10/2012  
+
+Pataldhamal Wadhwani College of Pharmacy, Yavatmal, India  
+B. Pharm – 06/2010  
+
+Anglo Hindi Junior College, Yavatmal, India  
+H.S.C. Examination – 02/2005  
+
+Loknayak Bapuji Aney Vidyalay, Yavatmal, India  
+S.S.C. Examination – 03/2003  
+
+CERTIFICATIONS  
+Registered Pharmacist of Maharashtra State Pharmacy Council. Registration No – 124665.

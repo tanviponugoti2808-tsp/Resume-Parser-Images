@@ -1,0 +1,80 @@
+Parvesh Singh  
++91 8979039900  
+parveshsinghrangra@qmail.com  
+
+SUMMARY  
+4+ years of Clinical Research Experience in Oncology, Vaccine Trials, Respiratory, Neurology  
+Have end-to-end CDM Experience right from Study Setup, Conduct, and Closeout.  
+
+PROFESSIONAL EXPERIENCE  
+Jun 2025 - Present  
+Clinical Data Scientist  
+Novartis  
+As Clinical Data Scientist, provide data management input on Clinical Trial teams. May have the role of Trial Data Scientist on small low complexity trials.  
+Performs DM activities for start-up of a study including preparing the eCRF, CCG’s where needed, Data Quality plan (DQP), Data Quality Plan Module (DQPM), and performing user acceptance testing (UAT) as applicable.  
+Manages local lab set up for the Clinical Database as applicable.  
+Under supervision ensures consistency of assigned trials with program level standards.  
+Understands third party data requirements and begins to gather an understanding of new technologies that may be used in the course of clinical trials.  
+Performs ongoing review of all data generated from the clinical study including Third party and local lab data as well as SAE reconciliation where applicable.  
+With support from the Trial Data Scientist develops proposals to resolve issues that may occur during the running of assigned trials.  
+With support from the Trial Data Scientist gives input into Study Specification worksheets should assigned trials need to be outsourced.  
+Has a working knowledge of FDA and ICH guidelines.  
+Has proven ability to use the tools available to generate listings for data review and where necessary provides these to the study teams. Generates the study status reports for use at Clinical trial team meetings.  
+Conducts project and process specific training for subordinates.  
+Acting as a back-up for Clinical Data Coordinator.  
+
+Apr 2023 - May 2025  
+Clinical Data Associate-II  
+Thermo Fisher Scientific, Remote, India  
+Performs data management activities such as Serious Adverse Event and Third-party Vendor reconciliation as well as Data Listings reviews.  
+Performs advanced aspects of the data cleaning process with high level of accuracy and in accordance with GCPs and SOPs, to assess the safety and efficacy of investigational products and/or medical devices.  
+Identifies, resolves, updates data discrepancies. Makes changes to the data management database as required.  
+Generates, tracks and resolves data clarifications and queries.  
+May implement CRF design in identified graphic design package.  
+
+Dec 2021 - Mar 2023  
+Clinical Data Associate  
+Tech Observer, Noida, India  
+Responsible for project-specific and departmental document tracking and control activities.  
+Reviews CRF (as per protocol) and project-specific documents.  
+Responsible for initiating project-specific DMTMF (Data Management Trial Master File) and e-filing and reviewing it on an ongoing basis.  
+Responsible for preparing project-specific documents.  
+Handling requests/issues by the client and team, in coordination with PM.  
+Coordinates with CDA in User Acceptance Testing (UAT) leading to robust database design.  
+Performs procedure verification as a part of database validation.  
+Responsible for creating, reviewing, processing and tracking Data Clarification Forms and updating clinical databases for ensuring data validity as per the protocol.  
+Conducts basic QC functions for departmental activities.  
+Ensures SOP compliance in project deliverables.  
+Other responsibilities as delegated by reporting head and senior management.  
+
+Feb 2021 - Nov 2021  
+Associate-Clinical Research  
+Artemis Hospital, Gurugram, India  
+Clinical trial preparations – planning, assembling, evaluating patient information, informed consent forms.  
+Coordinate with the principal investigators, finance/legal department and respond to the feasibility questionnaire for conducting clinical research/trials.  
+Provide secretarial support to the ethical committee by arranging committee notification, meetings, managing ethical implementation decisions.  
+Project management for the trials in compliance with GCP.  
+Recruitment and coordination with the trial subjects that involve taking informed consent, screening of the subjects, and complete follow-up of protocol required visits, adhering to safety and compliance issues.  
+Coordination and management of the clinical trial, communication with authorities, time management, and product accountability.  
+Coordinates all lab-related activities between Local & Central lab and courier for shipment of samples.  
+Responsible for the management of study material including investigational products ordering, tracking, storage, dispensing, reconciliation, destruction, and maintaining the temperature range of IP and non-IP as per study Protocol.  
+Maintaining the study-related logs and forms and filing into study-wise.  
+Coordinate with Study Monitor during PSSV, SQV, SSV, SIV, AUc Preparation, Site close-out visit activities.  
+Data collection and management of source documents, CRF completion and query resolution, registration, and management of AEs filing and archiving, managing monitoring visits, dealing with queries.  
+Immediately reporting serious adverse events (SAEs) to the PI, the Sponsor, IRB, and other regulatory requirements.  
+
+ADDITIONAL SKILLS  
+Analytical Thinking  
+Problem Solving  
+Team Player  
+Result Oriented  
+Expertise in handling e-system of clinical data  
+Management of financial aspects like investigator fees, the IRB fees, site reimbursements  
+
+EDUCATION  
+2015 - 2019  
+Bachelors of Pharmacy  
+Institute of Bio-Medical Sciences & Research  
+Uttarakhand, India  
+Clinical trials like eCRFs & IWRS.  
+Negotiating the trial budget at the site including the site administration fees, study subject travel, and other expenses.

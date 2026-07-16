@@ -1,0 +1,97 @@
+Mittal R P — Clinical Process Coordinator (IQVIA)  
+Phone: +91-9619781939  
+Email: mitunupur@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mittal-panchal  
+Place: Mumbai, Maharashtra, India  
+
+OBJECTIVE  
+Analytical and detail-oriented clinical data management specialist skilled in EDC systems (Medidata Rave, RedCap), data cleaning, UAT & validation activities. Maintenance of SOP compliance, C checks specifications, query generation & discrepancy management, ICF filling and data procedures. Seeking an opportunity to apply my technical knowledge and data quality expertise to support successful clinical trial execution and database integrity. Currently pursuing an MBA in Healthcare Administration to strengthen expertise in clinical operations, data governance and strategic decision-making.  
+
+PROFESSIONAL EXPERIENCE:  
+Clinical Process Coordinator (May 2021 – June 2025)  
+- Prepare DMP & Data Transfer Specifications document for successful vendor data transfers.  
+- Assisted with system validation and UAT testing during study build and upgrades, ensuring compliance with CFR Part 11 and ICH-GCP.  
+- Microsoft Excel (formulas) & Power BI.  
+- Generation of Data Clarification Report/From (DCQ/DCF) to manage discrepancy lifecycle (track, resolve, write and escalate queries to ensure clean and accurate clinical data).  
+- Collaborate with the cross-functional teams (CTM/CRA) to resolve the discrepancies raised due to inconsistent lab data in Rave software.  
+- Edit Check Specifications in CDMS, Database Specifications, Unique Page Identifications.  
+- Performing UAT and eCRF designing based on protocol. Comparing & reviewing of CRF with Protocol.  
+- Performing investigation for team QC of sponsor data (QMS), presenting investigated data in formal memos and reports.  
+- Conduct timely data reconciliation activities (third party, vendor, SAE) between EDC and Lab data mismatches before data freeze/database lock (query resolution and data recon).  
+- Co-ordinate close-out activities including discrepancy resolution, final data cleaning, sharing reports and collaborate with cross-functional teams to resolve system related issues and provide timely user support.  
+- Data modification and validation using Electronic Data Capture systems (Medidata Rave) & LIMS software’s like QLIMS & NEWLIMS.  
+- Microsoft Excel, Generative AI & Co-Pilot, Lean Six Sigma Yellow Belt and Green Belt Projects.  
+- Regulatory compliance (ICH-GCP, 21 CFR Part 11), Organizational compliance to sponsor at all levels.  
+- Therapeutic areas like Cardiology, Immunogenicity, Oncology, GI, Respiratory, Hematology and Nephrology across Phase I, II, III clinical trials.  
+- Clinical Phase  
+Drug/Molecule  
+of the Study  
+Phase III  
+Sibeprenlimab  
+Autoimmune Disease  
+Phase III  
+Neoadjuvant  
+Trastuzumab Deruxtecan  
+Phase III  
+CRISPR-edited  
+allogeneic anti-CD-19  
+chimeric antigen receptor (CAR-T) Cell therapy  
+Phase III  
+Benralizumab  
+Pulmonary  
+Phase II  
+Atuliflapon  
+Respiratory-Asthma  
+
+EDUCATION & CERTIFICATIONS  
+Bachelors in Microbiology (University of Mumbai, 2014-2017)  
+PG Diploma in Clinical Research and Trial Operations (Bombay College of Pharmacy, 2017-2018)  
+Masters in Bioanalytical Sciences (University of Mumbai, 2018-2020)  
+Current Education: MBA in Healthcare Administration (Symbiosis, 2025-2026)  
+ICH-GCP Training — NIDA (Ongoing), Clinical Trials: Good Clinical Practice — Novartis (Ongoing, 2025)  
+Clinical Data Management (Deep Dive: Basics to Advance 3 months course) — Udemy (September – November 2025)  
+
+CORE COMPETENCIES  
+- Maintenance of SOP Compliance  
+- CRF Design & Review  
+- Database Validation Specification  
+- Preparation of monitoring & QC plans for the study (PMP & DMP)  
+- Roster Maintenance, TPL shipment  
+- Generation of Data Clarification Query Report, Specimen Management Summary Report, Cancelled Tests Report, Kit Summary/Kit Contents Report, Monthly Monitoring Report  
+- Data Transfer Specifications  
+- Edit Check Specifications and Manual Listings  
+- Performing UAT & Validation  
+- Query writing & Discrepancy Management  
+- Regulatory/ICH-GCP/CGMP/GMP Compliance  
+- Electronic Data Capture (Medidata Rave, Sugam Portal, OctalSoft, RedCap, LIMS based QLIMS & NEWLIMS)  
+
+TECHNICAL SKILLS  
+- Microsoft 365 (Outlook, PPT, Word, Excel)  
+- VBA Programming  
+- Lucid Chart Visual Basics Chart  
+- Mentorship (Training)  
+- Investigation & Presentation (Process specific)  
+- Data Cleaning & Validation  
+- UAT & Charter Review  
+- Strategic thinking  
+- Decision making  
+- Analytical & critical thinking  
+- Adaptability  
+- Conflict resolution  
+- Effective communication  
+
+LEADERSHIP  
+- Mentored new hires for the ongoing monitoring activities (study start-up & conduct phase) and represent the team data (sponsor metrics & query closure) in OCL Calls for team sponsor (FSP)  
+- Handled escalation calls for team members along with processing and going through the investigation to represent the data in the triage calls  
+- Reviewed the project charters and guided through further process for the new process initiative projects under Process Improvement Initiative (Lean Six Sigma Yellow Belt Project)  
+- Have led study kickoff calls and study approval calls in the absence of the Project Manager  
+
+AWARDS (Cash Prizes):  
+SPOTLIGHT AWARD under IQVIA IMPACT PROGRAM 2022-2023 (Monitoring the study for its smooth run despite ongoing amendments and variety of monitoring expectations)  
+SPOTLIGHT AWARD under IQVIA IMPACT PROGRAM 2023-2024 (Adapting quickly to changes in complex monitoring requirement and constantly working in collaboration with cross-functional teams for data accuracy)  
+
+Place: Mumbai, Maharashtra  
+Date: 10-11-2025  
+
+Best Regards,  
+Mittal R P

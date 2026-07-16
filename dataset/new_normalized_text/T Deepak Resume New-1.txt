@@ -1,0 +1,84 @@
+Deepak T  
+deepak.tl512@gmail.com  
++91-9148865908  
+7/ B, Street No. 6, Sector 4, Bhilai, Chhattisgarh, India  
+
+Professional Summary  
+M.Sc. in Biotechnology from VIT University, Vellore, with 9.5 years of core experience in Clinical Data Management. Skilled in collecting and analyzing highly confidential clinical trial data across all trial phases, including Startup, Conduct, and Closeout, majorly for oncology, neuroscience, and cardiovascular trials. A detail-oriented data analyst committed to delivering excellence daily. Collaborates effectively with data teams and IT professionals to ensure accurate and timely data transfers. Proficient in troubleshooting common data transfer issues. Demonstrates strong teamwork with customers and colleagues to achieve high-quality, on-time data delivery. Committed to continuous skill development through training, workshops, and professional meetings. Worked on centralized and risk-based monitoring trials.  
+
+Professional Experience  
+Cognizant Technology Solutions Pvt. Ltd  
+Team Lead  
+Feb 2022 – Present  
+* Attending kick-off, regular meetings with the sponsor and project team for discussion relating to data management issues and providing status updates for the projects.  
+* Developing and validating Data Management Plans, eCRF Integrated Master of Science Completion Guidelines, Test Scripts, Data Transfer Specifications during Setup and Conduct phase of trials.  
+* Creating study-specific training materials for CRAs, sites, and internal teams.  
+* Updating EDC specification documents to align with study and programming team requirements.  
+* Performing User Acceptance Testing and Database Validation (Form validation, triggers validation, log forms validation) as per study-specific documents.  
+* Implementing quality control procedures, generating reports, addressing client inquiries, and maintaining study records.  
+* Monitoring and evaluating overall study progress, identifying risks and resolving challenges.  
+* Leading training sessions and mentoring new team members.  
+
+Tata Consultancy Services Ltd  
+Assistant Manager  
+Feb 2021 – Nov 2021  
+* Led clinical data management for multiple studies, including study setup, conduct, and closeout.  
+* Conducted User Acceptance Testing (UAT) for data entry screens, edits, and data review listings.  
+* Managed multiple database-related activities such as data locks, data review, cleaning, coding, and SAE reconciliation.  
+
+Syneos Health  
+Clinical Data Associate II  
+Nov 2019 – June 2021  
+* Managed clinical data processing, validation, and quality control for multiple trials.  
+* Performed User Acceptance Testing (UAT) for data entry screens across different roles.  
+* Received, entered, and managed Lab Normal Ranges.  
+* Submitted CDMS-specific access forms and spreadsheets.  
+* Reviewed discrepancy (edit check) output and validation listings based on clinical database entries.  
+* Conducted data discrepancy reviews, quality reviews, and internal quality control checks per electronic data capture (EDC) system guidelines.  
+* Participated in internal meetings and audits, maintaining documentation in the Data Management Study File (DMSF).  
+* Ensured consistency between external datasets and clinical database records.  
+* Performed SAE reconciliations and data cleaning during snapshots and database locks.  
+
+IQVIA (Ex- Quintiles IMS)  
+Clinical Data Specialist  
+Nov 2015 – Nov 2019  
+Startup Phase Responsibilities:  
+* Developed eCRF Completion Guidelines in compliance with ALS and Data Requirement Tools.  
+* Validated Data Management Plans to align with protocols and regulatory requirements.  
+* Conducted edit check validation and database reviews.  
+* Timely escalation of study-related issues for resolution.  
+
+Conduct & Closeout Phase Responsibilities:  
+* Performed holistic data review for Oncology and Neuroscience trials.  
+* Reviewed oncology trial data in compliance with RECIST and MRECIST criteria.  
+* Conducted trend analysis and safety assessments across trials.  
+* Participated in Centralized Monitoring and Risk-Based Monitoring (RBM) trials.  
+* Managed subject-level data reviews during major milestones (Interim Analysis, DB locks).  
+* Conducted data reconciliation for IVRS, missing labs, and external data sources.  
+* Led quality review and discrepancy management using LLR and DQR logs.  
+
+Technical Skills  
+* Medidata Rave Classic  
+* Medidata Rave X  
+* Data Management Tool  
+* Veeva Database  
+* JIRA  
+* Entimice  
+* Spotfire (Visualization Tool)  
+* Veeva Vault & Veeva Clinical (CTMS)  
+* Cognos Report Review  
+* Microsoft Office  
+* Operating Systems (Jarvis, Lablinks)  
+* eTMF  
+* English, Hindi, Telugu  
+
+Languages  
+* English  
+* Hindi  
+* Telugu  
+
+Declaration  
+I hereby declare that the details and information given above are complete and true to the best of my knowledge.  
+
+Place: Bhilai, Chhattisgarh  
+Date: 07 May 2025

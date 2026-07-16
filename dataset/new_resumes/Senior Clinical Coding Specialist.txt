@@ -1,0 +1,129 @@
+Rani Challa- Senior Clinical Coding Specialist
+Accenture +91-9361645162
+Mail: ranichalla25@gmail.com
+Clinical Data Management/Clinical Data Codi
+Result oriented, process driven and highly skilled Clinical Data Management
+experience with exposure to all stages of drug development and therapeutic
+21 CFR Part 11 and other guidelines. Strong academic qualifications include r
+Diploma in Clinical Research and management.
+HIGHLIGHTS OF EXPERIENCE
+Played a key role in migrating studies from OC to Rave
+Working experience on clinical studies — Oncology, and other Therapeutic
+Experience in performing end-to-end data management activities Start-
+In-depth knowledge and understanding of Protocol, ICF, CRF’s and other [
+Working knowledge of MedDRA, WHODD.
+Performed assigned tasks independently and within timelines according t
+Sponsor specific requirements.
+°
+Working knowledge in Clinical database tools such as RAVE, OC.
+o Working knowledge in Database and coding tools like iMedidata RAVE COL
+J*Review, SQL, Veeva Vault, CDW.
+PROFESSIONAL EXPERIENCE
+1. Sr Clinical coding specialist Accenture, Chennai — December, 2012 to P
+Coding Activities: Start-up Phase
+e Performed the UAT as per validation plan for data management special
+e Provided the Data flow UAT feedback and ensured the database was ur
+specifications to perform UAT.
+e Participated in study meetings and provide inputs related to Medical Cx
+Conduct Phase
+e
+Query Management Generate queries per data cleaning specificatio
+Quality check for open and closed queries. Monitor the answered que
+Sponsor for clarifications, as appropriate.
+oding
+nt professional with 12 years of
+tic areas. Well versed with ICH-GCP,
+e my Advanced Postgraduate
+rtic areas (Phase |, II, Ill}
+rt-up, Conduct and close-out.
+sr DM documents.
+ig to the CDM Project Plan, SOPs and
+‘ODER, RAVE EDC, OC-TMS,
+o Present.
+sially in Medical Coding
+updated with required
+Coding.
+tions and protocol knowledge.
+jueries and communicating with
+eo
+e Clinical Data Coding:
+e Effectively and accurately reviewed clinical database for investigator
+assigned manual codes for all the terms which have failed to auto-e
+¢ Performed accurate and consistent medical coding for assigned stuc
+MedDRA Dictionary and Client Drug Dictionary or UMC WHO Drug [
+¢ Effectively ensuring all the coding activities are compliant with prov
+¢ Participated in coding review meetings and provided inputs on codii
+¢ Drafted the manual queries for the terms that cannot be classified t
+Coder
+¢ Performed consistency review of MedDRA and UMC WHO or Client
+vendor coded data and perform remap request & Created queries t
+coded data is consistent and accurate with standard guidelines and
+¢ Supported in User Acceptance Testing (UAT) for coding in initial stuc
+production changes. Performed spontaneous reporting of identified
+to study team to make sure coding UAT is completed within assigne:
+¢ Worked on MedDRA versioning activities and performed MedDRA v
+manual remap identification.
+¢ Performed Query management, SAE Reconciliation (missed coding f
+activity by following SOPs.
+« Generate Coding reports with the unresolved discrepancies and wo!
+DML/CTMs in resolving all discrepancies.
+¢ Serves as a SME for interval review of coded terms and provided fee
+quality
+¢ Performed documentation of all the study coding related document
+resolved QR findings (if any) occurs when work flow changes.
+Close-Out Phase
+e Perform final cleaning as per timelines and last query out.
+e Perform database pre-lock checklist review and adhere to timelines for re
+documentation.
+e Manage and review data per PDM instructions for Interim analysis, Final li
+e Ensure all coding data is reviewed, clean with no outstanding issues and a
+tor reported verbatim terms and
+-encode.
+tudies in TMS/RAVE Coder using
+ig Dictionary.
+‘ovided SOPs and guidelines
+dding and query review decisions
+‘d to TMS Administrator, RAVE
+int customized synonym tables,
+s to site when required to ensure
+1d conventions.
+tudy set up and in post-
+ied errors or missing information
+ned timeframe.
+A version upgrade potential
+1g fields) and uncoded reports
+work with medical monitors and
+feedback towards increasing the
+ants into eTMF and proactively
+relevant activities for
+al lock.
+d approved
+PASSING MARKS
+ACADEMIC CREDENTIALS
+YEAR OF
+PERCENTAGE OF
+QUALIFICATION
+NAME OF INSTITUTION
+PASSING
+MARKS
+Advanced
+74
+Jaipur National University,
+Postgraduate Diploma
+Jaipur
+2011
+in Clinical Research
+and Management
+Dr. MGR Medical University,
+B.Pharm
+2009
+Chennai.
+67.7
+[COMPUTER SKILLS SS
+MS Word, Excel, Power Point, Outlook, Adobe Acrobat.
+Technical Tools: iMedidata coder, OC-TMS, J*Review, SQI, CDW.
+DECLARATION:
+hereby declare that the above information and particulars are true and correct to the best of
+my knowledge and belief.
+Place: Chennai
+Rani Challa

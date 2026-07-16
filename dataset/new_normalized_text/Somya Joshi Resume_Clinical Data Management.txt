@@ -1,0 +1,76 @@
+Curriculum Vitae  
+Somya Joshi  
+Clinical Data Management Professional (Immediate Joiner)  
+Email: soumnya.sah@hotmail.com  
+M: +91-9599992532  
+Address: 502, Sri Susmita Residency Shilpa Park | Kondapur  
+Hyderabad-500084  
+
+SUMMARY  
+An enthusiastic, skilled, experienced Clinical Research Professional with 15 years in the Clinical Research Industry, including 9 years of specialized expertise in Clinical Data Management. Acclaimed for overseeing data across all clinical trial phases with precision and a commitment to quality, regulatory compliance, and therapeutic integrity. Proficient in using advanced data management systems to deliver accurate, efficient, and timely results. Trusted team player known for aligning seamlessly with organizational goals and contributing to high-performing project teams.  
+
+PROFESSIONAL EXPERIENCE  
+SYNEOS HEALTH, Hyderabad  
+Senior Clinical Data Associate (Dec 2019 - June 2025)  
+Platform: Medidata Rave, Veeva Vault, Inform, Oracle Clinical (OCRDC and Paper-based)  
+Therapeutic areas: Respiratory, Oncology, Dermatology, Cardiovascular, Vaccine  
+
+INC Research (Formerly known as Syneos), Gurgaon  
+Clinical Data Associate III (Sep 2015 - Dec 2019)  
+Platform: Medidata Rave, Inform, Oracle Clinical (OCRDC and Paper-based)  
+Therapeutic areas: Respiratory, Oncology, Cardiovascular  
+
+KPS Clinical Services Pvt. Ltd, Greater Noida  
+Asst. QA (Jan 2014 - Sep 2015)  
+
+Max Health Care, New Delhi  
+Senior Research Officer (June 2010 - Dec 2013)  
+
+WORK EXPERIENCE  
+Study Start-up  
+- Perform User Acceptance Testing (UAT) for data entry screens, edits and data review listings.  
+- Execute role-based testing to ensure appropriate system access and permissions across all study roles.  
+- Create key data management documents during the study start-up phase, including Data Validation Specifications and eCRF Completion Guidelines, ensuring alignment with protocol requirements and regulatory standards.  
+
+Study Conduct  
+- Lead clinical data management activities across multiple projects, providing strategic support to the Project Manager as needed and coordinating with fellow Clinical Data Associates (CDAs).  
+- Perform comprehensive data validation by reviewing Data Listings and SAS-generated outputs to identify inconsistencies and anomalies.  
+- Review data queries throughout the trial, ensuring timely resolution and adherence to data quality standards and regulatory guidelines.  
+- Receive, review, and enter site-specific laboratory normal ranges (LNR) into the clinical database, ensuring accuracy and compliance with protocol specifications.  
+- Ensure consistency between external datasets (e.g., vendor-provided lab, ECG, or imaging data) and the CRF database by performing systematic data reconciliation. Identify discrepancies, document them according to standard processes, and raise data queries to the appropriate stakeholders for resolution in compliance with regulatory standards.  
+- Perform Serious Adverse Event (SAE) reconciliations by comparing SAE data reported in clinical databases with safety databases to ensure consistency, completeness, and accuracy. Collaborate with pharmacovigilance and clinical teams to resolve discrepancies, adhering to regulatory timelines and standards for safety reporting.  
+- Conduct Data Management quality reviews and internal quality control (QC) checks for Electronic Data Capture (EDC) studies, ensuring adherence to study protocols and system-specific standards.  
+- Serve as backup for the Project Data Manager (PDM), including participation in sponsor meetings to provide updates, ensure alignment with study timelines and quality standards, and provide accurate time estimates for task completion, convey current availability for additional assignments, and flag any potential resourcing conflicts.  
+- Ensure transparency and alignment to support effective project planning and delivery.  
+- Effectively manage and prioritize multiple tasks across concurrent clinical projects to ensure timely completion. Adapt to shifting timelines or changing priorities by reorganizing daily workload as needed. Maintain proactive communication with project teams and management, providing accurate task estimates, availability updates, and early identification of potential resourcing conflicts.  
+- Conduct post-migration testing activities to ensure functional accuracy and data integrity across Electronic Data Capture (EDC) systems. Validate updates to screens, edit checks, matrices, and user role configurations following system migrations or protocol amendments, ensuring alignment with study requirements and compliance standards.  
+- Provide support to the PDM on a study as required. May involve soliciting support from other CDAs, taking full responsibility for an aspect of the study delivery, or acting as the PDM's backup for specific activities (including attending sponsor's meetings to provide updates).  
+- Support Migration/PPC related activities. Creation of Change order log and Edit check specification document as per client expectations and delivery standards.  
+
+Database Lock Planning & Documentation Oversight  
+- Review database lock and interim milestones, ensuring alignment with clinical timelines.  
+- Support the Data Management Lead in the strategic planning and execution of database lock activities.  
+- Perform critical final lock processes, including database freezing and formal documentation.  
+- Carry out postlock and archival activities, maintaining compliance with regulatory and organizational standards.  
+
+EDUCATION QUALIFICATION  
+- P.G Diploma in Clinical Research from CLINIMIDS in 2010.  
+- M.Sc (Microbiology) from Vinayaka Mission University in 2010.  
+- B.Sc (Medical Microbiology) from H.N.B University in 2008.  
+- 12th Grade XII passed under UA Board in 2005.  
+
+PERSONAL DETAILS  
+Name: Somya Joshi  
+Husband Name: Manish Joshi  
+Gender: Female  
+Nationality: Indian  
+Marital Status: Married  
+
+Hobbies: Art and craft, Reading, Listening to music, Travelling  
+Strengths: Positive Attitude, Determined, High Energies  
+Languages Known: English & Hindi  
+
+DECLARATION  
+Given an opportunity, have the confidence of executing any given assignment with utmost diligence and to the growth of the organization. I hereby declare that the information furnished above is true to the best of my knowledge.  
+
+Place: Hyderabad

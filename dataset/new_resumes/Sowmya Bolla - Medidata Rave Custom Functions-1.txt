@@ -1,0 +1,43 @@
+SOWMYA BOLLA
+Phone: +91 7780556182
+Email: sowmyabolla95@gmail.com
+PROFESSIONAL SUMMARY
+°
+Experienced Clinical Data Management Professional with 5+ years of expertise in
+Medidata Rave custom function programming.
+Having sound knowledge in custom functions, Migration, eCOA Custom functions,
+Workflow, eCRF, User administration, Site administration, Architect, EDC, Data validation,
+Patient cloud registrations, Patient cloud settings, DB Restoration, URL setup.
+lam skilled in designing, developing, and maintaining custom functions (CFs) in Medidata
+Rave EDC systems.
+Good experience in coding standards.
+Experienced in Custom Function Development, Understanding requirements.
+Having strong knowledge on the Study setup in Medidata Rave platform which involves
+creation of Folders, Forms, Fields, Matrix, Data Dictionaries, User and Site
+Administrations, Migration, Publish Checks.
+TECHNICAL SKILLS
+Medidata Rave Expertise: Custom Functions, CRF Design
+Source Code Management: GitHub
+Programming Languages: C#, SQL, Medidata RAVE
+Data Management Systems: Medidata Rave
+Project Management Tools: JIRA
+PROFESSIONAL EXPERIENCE
+J
+Senior Software Engineer Paradigm IT Technology Services Pvt Ltd, Hyderabad (Oct 2019 to
+till date)
+Specific responsibilities include:
+°.
+[had 5+ years of experience in Medidata Rave custom function programming.
+e
+Developed and maintained custom functions in the Medidata Rave environment.
+°.
+Involved as a Custom Function developer and as a SWAT team member (Production
+Support/RCA).
+Developed and deployed ePRO custom functions for clinical trials.
+Worked on total root cause analysis of a PROD issue, fixing the issue and making
+resolutions to resolve the issue.
+Held Training sessions for internal teams on Rave system usage, custom function scripting,
+and troubleshooting techniques.
+Technologies used: C#, MS SQL Server.
+EDUCATION
+B. TECH (ECE) 2018 TKR College of Engineering and Technology —- Hyderabad, TG.

@@ -1,0 +1,55 @@
+Saloni Pal  
+Junior Data Analyst - Clinical Data Management  
+SAS Certified Specialist: Base Programming Using SAS 9.4  
+https://www.credly.com/badges/c7760123-5ab9-4700-b70f-0e794c09fae6/public_url  
+Durgapur, West Bengal  
+Phone: 8617454217  
+Email: salonipal1111@gmail.com  
+
+PROFESSIONAL SUMMARY  
+Clinical Data Associate with 3 years of experience supporting global clinical trials across conduct and close-out phases. Strong hands-on expertise in EDC systems (Medidata Rave/Veeva), data review, third-party reconciliations, and data listings. Proven ability to ensure data integrity, inspection readiness, compliance with GCP, SOPs, and study protocols while collaborating cross-functionally to deliver high-quality, analysis-ready datasets. SAS Certified Specialist with hands-on training in SDTM/ADaM standards and exposure to data transformation logic. Adept at collaborating with physicians, safety teams, statisticians, and cross-functional stakeholders to ensure clean, high-quality, submission-ready clinical datasets.  
+
+Cognizant Technology Solutions  
+Clinical Data Management, Dec 2022 - Present  
+* Supported conduct and close-out phase data management activities across global clinical trials in compliance with ICH-GCP and sponsor SOPs.  
+* Executed comprehensive data reviews as per DRPs and IDRPs, identifying discrepancies and data quality issues.  
+* Performed query generation, tracking, and resolution in Medidata Rave, Veeva Vault Clinical, ensuring adherence to DVP timelines.  
+* Conducted external data reconciliations including SAE, IVRS/IWRS, Canfield, Lab, and vendor data, coordinating with internal and external stakeholders.  
+* Reviewed and verified Lab Normal Ranges (LNRs) in Vee, ensuring compliance with protocol specifications.  
+* Maintained LNR integrity through QC workflows, discrepancy investigation, and ongoing quality checks following sponsor-specific guidelines (AbbVie Veeva Labs module exposure).  
+* Coordinated with site monitors and study teams to close data quality issues and reinforce good data entry practices.  
+* Generated and maintained study trackers, issue logs, and reports including COV, Missing Data, and other quality checks to support study oversight.  
+* Supported interim and final database locks, including data freeze activities and close-out deliverables.  
+* Served as study documentation owner, performing periodic TMF/eTMF reviews to ensure inspection readiness.  
+* Actively participated in vendor data management, supporting data transfers, reconciliation, and issue tracking.  
+
+Tools & Systems: Medidata Rave, Veeva Vault Clinical, Jarvis, Tesla MS Excel (VLOOKUP, Pivot Tables)  
+
+TECHNICAL SKILLS  
+Clinical Data Management Systems: Medidata Rave, Veeva CDMS, eTMF  
+Programming & Analysis: Base SAS, PROC SQL, SAS Macros (training exposure)  
+Data Standards: SDTM, ADaM (academic & training exposure)  
+Processes: Data Cleaning, Validation, Reconciliation, UAT, Database Testing  
+
+CORE COMPETENCIES  
+Clinical Data Review & Cleaning  
+Query Generation, Tracking & Resolution  
+SAE Reconciliation  
+Third-Party Vendor Reconciliation  
+Data Listings Review  
+Data Validation & Edit Check Review  
+CRF Review & Database Updates  
+Inspection Readiness & Quality Compliance  
+
+EDUCATION  
+M.Sc. Microbiology, The University of Burdwan, West Bengal, 2020-2022, 8.57  
+B.Sc. Microbiology, Kazi Nazrul University, Michael Madhusudhan Memorial College, West Bengal, 2017-2020, 8.69  
+
+TRAINING & CERTIFICATIONS  
+* SAS Certified Specialist: Base Programming Using SAS 9.4 (2025)  
+* Clinical SAS Programming certification from Bangalore Clinical Research Institute (BCRI) in 2024. Created and validated SDTM and ADaM datasets using mock clinical data per CDISC guidelines. Developed Tables, Listings, and Figures (TLFs) via Base SAS and PROC SQL. Gained exposure to data pooling and transformation logic across mock multicenter studies.  
+* Clinical Data Management certification from Bangalore Clinical Research Institute (BCRI) in 2024. Trained in data cleaning, coding, reconciliation, and EDC system testing. Learned GCDMP principles, SAE reconciliation, and database QC methodologies.  
+
+I certify the information in my CV to be correct and in compliance with the details shared.  
+Saloni Pal  
+TPT TFUELPL U7 Lo [7 |?

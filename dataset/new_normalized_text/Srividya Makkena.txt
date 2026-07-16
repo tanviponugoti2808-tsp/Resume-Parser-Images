@@ -1,0 +1,106 @@
+Srividya Makkena  
+Email: vidhya.makkena15@gmail.com  
+Phone: +91 9989584987  
+LinkedIn:  
+
+Summary  
+Over 9 years of experience in the healthcare domain, focusing on clinical data management processes. I have comprehensive experience in various indications including oncology, dermatology, and ophthalmology. I have experience working in Clinical Datalabs, Medidata Rave, and ClinicalInk. I have handled data management activities from start-up till close-out.  
+
+Technical Skills  
+- ICH GCP guidelines  
+- SAE Reconciliation  
+- Migration activities  
+- Query management  
+- Creating CCI’s, Mockshells  
+- Vendor Reconciliation  
+- Medidata Rave knowledge  
+
+Work Experience  
+Clinical Data Analyst II  
+PAREXEL International — Hyderabad, Telangana  
+November 2022 to Present  
+- Lead and independently perform all clinical data management activities for the assigned projects.  
+- Coordinate and prioritize tasks for the team in the Primary CDA role.  
+- Provide input on the data management timelines and coordinate activities during database set up, migrations, interim analysis, and database lock.  
+- Perform and/or support the setup of DM documents as per Standard Operating Procedures, ICH/GCP Guidelines.  
+- Support data processing activities from database setup to testing, edit checks on study database setups, updating Data Validation Specification, creating Mockshells, CRF Completion Guidelines, listing reviews, external vendor data reconciliation.  
+- Actively involve in migration, interim analysis activities and database lock.  
+- Train and mentor project team members.  
+- Be a subject matter expert when needed.  
+- Interaction with cross-functional departments such as coding team, programming team, and SAS team.  
+- Lead status calls with sponsors, vendors.  
+- Archive critical study documents on an ongoing basis.  
+
+Clinical Data Analyst II  
+PAREXEL International — Hyderabad, Telangana  
+September 2021 to November 2022  
+- Independently perform all clinical data management activities.  
+- Support on data validation activities, Data Management documentation matrices e.g. Data Validation Specification, CRF Completion Guidelines, Protocol Deviation Specification, Mock Shells for Off-line listing etc.  
+- Responsible for data validation (cleaning/review/reconciliation), conduct and database lock (Primary CDA), e.g. query management, manual/SAS listing review, external vendor data reconciliation.  
+- Perform and/or support the setup of DM documents and ensure proper documentation as per Standard Operating Procedures, ICH/GCP Guidelines.  
+- Lead/perform user acceptance testing on clinical database setups.  
+- Review protocols and EDC Entry Screens if required.  
+- Provide input on the data management timelines and coordinate activities during database set up.  
+- Coordinate & prioritize tasks for the team when in the Primary CDA role.  
+- Mentor ACDA or other CDA peers.  
+
+Clinical Data Analyst I  
+PAREXEL International — Hyderabad, Telangana  
+October 2018 to September 2021  
+- Review and understand the study protocol and the timelines.  
+- Perform study setup activities such as User acceptance testing, testing edit checks on study database setups, updating Data Validation Specification, creating Mockshells, CRF Completion Guidelines.  
+- Responsible for study conduct activities such as data cleaning and review, including Query management, Dataset review, Offline listing review, Statistical Data issue Tracker review.  
+- Support data processing activities from database setup to data reconciliation, locking and freezing data.  
+- Perform and/or support the setup of DM documents and ensure proper documentation.  
+- Generate study reports.  
+- Interaction with cross-functional departments such as coding team, programming team, and SAS team.  
+- Independently perform all clinical data management activities.  
+
+Imaging Research Associate  
+PAREXEL International — Hyderabad, Telangana  
+March 2016 to October 2018  
+- Perform quality assurance checks on medical imaging that corresponds to the care of patients.  
+- Perform image processing (including downloading of Imaging data, digitizing, data entry) across multiple modalities (including but not limited to X-Ray, CT, MRI, Bone scan, endoscopy and PET) using Alice TM as software.  
+- Work with Investigator Site on Site Surveys and Site Qualification.  
+- Querying and following up with sites to resolve imaging issues.  
+- Delivering quality work within the assigned projects of Good Clinical Practices (GCP), additional regulatory requirements (21 CFR Part 11), and companywide SOPs, and project specific protocol compliance.  
+- Addressing all eligibility and priority tasks within TAT for assigned studies with speed and first time quality.  
+- Mentor and assist in training of internal personnel.  
+
+Engineer — R&D  
+Omya Healthcare Limited — Bangalore, Karnataka  
+June 2014 to March 2016  
+- Involved in preliminary Patent analysis, Patent study, understanding claims and key inputs for designing biopsy device.  
+- Literature study and Experimental planning for needle tissue collection for the product.  
+- Documenting the performed experiments and analyzing.  
+- Performing experimental reviews for the better design of the product across the R&D team.  
+- Assisting with the preparation of IRB applications, including patient consents.  
+- Coordinating for pre-clinical study.  
+- Involved in various phases of product development.  
+
+Education  
+- B.Tech in BioMedical Engineering at Gokaraju Rangaraju Institute of Technology with aggregate 86.21% in 2014.  
+- Intermediate with 94.9% in MPC from Board of Intermediate Education, A.P.  
+- SSC with 86.5% from Board of Secondary Education, A.P. in 2010.  
+
+Achievements  
+- Received Green Horn Award in 2016 for exhibiting one of the high performance indicators kit.  
+- Secured first rank in both semesters of B.Tech 3rd year.  
+- Got first prize in project expo for the project “Emotional stress indicator kit” at Padmasri Dr. B.V. Raju Institute of Technology.  
+
+Strengths  
+- Hard working  
+- Self motivating  
+- Ability to work in a group or alone  
+
+Languages Known  
+- English, Hindi, Telugu  
+
+Interests  
+- Hobbies: Drawing, Playing Badminton  
+
+Declaration  
+Thereby declare that the above written particulars are true to the best of my knowledge.  
+
+Yours Faithfully,  
+M. Srividya

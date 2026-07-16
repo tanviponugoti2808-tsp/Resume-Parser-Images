@@ -1,0 +1,124 @@
+Ritushree Chakrabor
+ritushreee1998@gmail.com +91 8159839152 linkedin.com/in/Ritushr
+OBJECTIVE
+Highly motivated and detail-oriented Clinical Data Associate with over 4 years
+trial data across therapeutic areas including oncology, immunology, neurology,
+COVID-19, and BA/BE studies. Demonstrated expertise in ensuring data accurz
+compliance (GCP, FDA, 21 CFR Part 11). Proficient in data collection, cleaning,
+management using industry-standard EDC systems such as Medidata Rave, Ora
+Actively enhancing technical skills by learning SQL to improve data retrieval, v:
+Committed to contributing to innovative and quality-driven clinical research en
+management practices and supporting successful trial execution.
+WORK EXPERIENCE
+Clinical Data Specialist (Clinical Data Management), IQVIA — Bangalore, India
+e Review clinical trial data in accordance with DMPs, study protocols, SOPs, GCP
+e Identify and resolve incomplete or inconsistent data through query generation,
+SAE/vendor reconciliation.
+Review auxiliary data outputs (special listings, reconciliation reports, SAS/P21,
+consistency and high-quality datasets.
+Support all study phases (start-up, conduct, close-out): draft DMP/CCG, desigr.
+UAT/lab/IWRS/safety gateway testing, develop edit checks, conduct TSDV, mai
+review , archiving and execute database lock.
+Perform aggregate data reviews to identify trends, site-level issues, and data in:
+Maintain study trackers (CPTs), generate study metrics, and prepare clean pati:
+Collaborate with coding specialists to ensure accurate and timely coding per DI
+Reconcile external data (PK/PD, imaging, labs, third-party vendors) and manag
+Review site query responses,medical query resolve, communicate with sites/CR
+of discrepancies.
+Serve as Data Operations Coordinator: lead end-to-end data management activ
+audits, system validation, change control, and maintain eTMF documentation (
+e Ensure full compliance with GCP, CDISC, and organizational SOPs across the st
+Data Coordinator, Labcorp Drug Development — Bangalore, India
+¢ Managed data collection, entry, and validation across multiple EDC platforms (
+(ZC, ORCA, GOPHER, FALCON, Forge, Veeva Vault).
+e Performed data mapping, cleaning, review, and discrepancy resolution to ensur
+e Conducted root cause analysis and resolved data queries; supported protocol ai
+e Led internal quality audits, regular QC checks, and prepared monthly performa
+e Streamlined workflows, validated reports, and managed clinical specimen and
+Clinical Research Coordinator, Leads Clinical Research & Bio Services Pvt Ltd
+Bangalore, India
+e Managed Electronic Data Capture (Oracle, Octal, Inform, Clinion) including ele
+e Handled Trial Master File (electronic and paper), dosing diary, and other clinic:
+¢ Conducted source document verification, CRF tracker and query resolution.
+irty
+shree Chakraborty Bangalore
+ars of experience managing clinical
+gy, respiratory conditions,
+‘uracy, integrity, and regulatory
+‘ng, validation, and database
+Oracle Clinical, and Inform EDC.
+L, validation, and reporting.
+tenvironments by optimizing data
+dia
+Feb 2024 — Present
+CP, and regulatory standards.
+on, discrepancy management, and
+'21/SDTM listings) to ensure
+sign and test eCRFs, perform
+manage migrations, freezing , DM
+inconsistencies.
+vatient reports.
+> DMP.
+nage scheduled data transfers.
+‘CRAs, and ensure timely resolution
+ctivities, support DTL, oversee
+m (ELVIS, Veeva Vault, SharePoint).
+e study lifecycle.
+March 2022 — Jan 2024
+1s (RAVE, XIP, LL) and databases
+sure data accuracy and integrity.
+iL and lab manual reviews.
+‘mance reports and presentations.
+nd lab data tracking.
+d-
+Aug 2021 Jan 2022
+electronic and paper CRF filling.
+nical research documentation.
+Code
+TECHNOLOGIES & SKILLS
+Tools: RAVE, ORACLE, INFORM, STRIDES, XIP-LL, Veeva Vault, D4U, ZC
+Code
+Technical Skills: Regulatory Compliance (ICH-GCP), CDSCO & FDA Gui
+SDTM), Query Management, 21 CFR Part 11
+EDC Systems: Medidata Rave, Inform, Oracle, Veeva
+SAE, Vendor, and Third-party Reconciliation
+Microsoft Office (Word, Excel, PowerPoint), VLOOKUP, Pivot Tables
+Data Validation & Cleaning, UAT
+EDUCATION
+Rajiv Gandhi University of Health Sciences, Bangalore, Karnataka
+M.Sc. in Clinical Research
+¢ Grade: 78%
+e Relevant Coursework: Clinical Research, Clinical Data Management,
+Clinical SAS
+North Bengal University, Siliguri, West Bengal
+B.Sc. in Microbiology (Specialization)
+e Grade: 65%
+¢ Relevant Coursework: Genetics, Bio Statistics, Bio Chemistry, Microb
+ACHIEVEMENTS
+e NIDA Clinical Trials Network certificate on ICH GOOD CLINICAL P
+e Spotlight Award from Iqvia
+e Awarded as TEAM OF THE YEAR 2022 at Labcorp Drug developme
+e Awarded as Scientific Session Award Winning Poster on the study “
+antioxidant power of different medicinal plants— Flower extract”
+RGUHS AHSCON 2020
+THESIS
+e Estimate total & free serum sialic acid in Type II diabetes patients
+The following follows a type of case control study. This study was este
+total & free serum sialic acid between Type II diabetic patients & norm
+of increased sialic acid which indicates extensive vascular damage & t
+micro vascular complications occurring due to diabetics, thereby decre
+, ZC, ORCA, GOPHER, FALCON, Forge, Global
+yuidelines, CDISC Standards (CDASH,
+Oct 2019 Dec 2021
+nt, Pharma Covigilence, Bio Statistics,
+Aug 2016 Jul 2019
+robiology
+L PRACTICE
+ment
+y “An in Vitro Protein Model: Evaluation of
+‘t” on National Allied Health Conference,
+nts in Indian sub population
+astablished based on the comparing levels of
+ormal healthy population to estimate the level
+& helps in early prediction and prevention of
+acreasing the mortality and morbidity in them.

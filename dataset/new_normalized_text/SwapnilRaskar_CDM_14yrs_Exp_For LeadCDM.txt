@@ -1,0 +1,139 @@
+Swapnil Suresh Raskar  
+swapnil.raskar@gmail.com  
+Mobile: +91 9823209897  
+LinkedIn URL: www.linkedin.com/in/swapnil-raskar-cdm  
+
+---
+
+**OBJECTIVE**  
+Experienced Clinical Data Manager with over 14 years of experience looking to leverage extensive background in clinical study start-up, conduct, and close-out activities and team leading capabilities.  
+
+---
+
+**EXPERIENCE**  
+
+**Data Manager**  
+Johns Hopkins India, Clinical Trial Unit (Unit of Johns Hopkins University, USA)  
+Jul 2013 – Till date  
+
+- Team Management:  
+  - Responsible for overall coordination of the Data Management Center.  
+  - Trained study team members regarding CRF resolution, query documentation, and documentation of query resolutions.  
+  - Prepared summary of the incident report form for monthly meetings. Analysis of this report will decide if additional training is required for data entry staff and data QA/QC staff.  
+  - Monitored activities of Records Management team. Ensured that the chain of custody for CRFs and SDs is maintained appropriately.  
+  - Supervised data entry and error check resolution.  
+  - Mentored team members whenever required.  
+  - Kept track of user access controls in the local database.  
+  - Ensured remote data collection tools connectivity with server and client.  
+  - Conducted annual performance review of DEOs, QA/QC Associates, Statisticians, and Associate Data Managers.  
+
+- Study Setup:  
+  - Designed and implemented CRF completion guidelines as per the environment used.  
+  - Developed study build document, validation plan, and edit check specification document.  
+  - Worked closely with programming team to ensure all critical data points are covered under various online and offline checks.  
+  - Prepared test cases and performed UAT in test database.  
+  - Ensured all Events/Visits and respective Forms are enabled as per schedule of events mentioned in protocol.  
+  - Set up study in EDC as per sponsor’s requirements (Programming in REDCap, Salesforce, MS Access, EPIDATA).  
+  - Prepared SOPs, MOPs, and updated them as per procedural changes whenever required.  
+
+- Study Conduct:  
+  - Performed data management activities on the assigned project in a timely and efficient manner.  
+  - Attended weekly/monthly conference calls.  
+  - Updated and tracked issues, resolutions of database (MS, validations, REDCap, Salesforce, MS Access, SPSS v16.0).  
+  - Responsible for data reconciliation of Lab values and SAEs.  
+  - Assigned queries generated within EDC to respective team members in the same activity in a timely manner.  
+  - Updated database with query resolutions.  
+  - Participated in protocol update discussions and highlighted data management aspects like CRF changes, Schedule of Evaluation, etc.  
+  - Learned new database environments as per study requirements and accordingly by their job roles.  
+  - Submitted required study data extracts to study investigators.  
+
+- Study Close Out:  
+  - Tracked and reviewed CRF pages for PI signature and CRA verification.  
+  - Ensured all data discrepancies are resolved.  
+  - Sent status reports with respect to enrolled patients, follow-up retention, lab data (storage data) to PI before final sign-off.  
+  - Conducted database lock.  
+
+**Junior Data Analyst**  
+Cognizant Technology Solutions  
+May 2012 – June 2013  
+
+- Performed data management activities with focus on quality and timely documentation.  
+- Coordinated with Lead Data Manager to ensure trail is managed efficiently with high quality.  
+- Supported UAT according to validation plan.  
+- Performed UAT of the Screen database as per the CRF to ensure consistency with the final CRF and performed UAT of Edit checks according to Edit Check Specification.  
+- Conducted ongoing data review and cleaning activities for assigned trial.  
+- Supported quality control checks for the trial.  
+- Ensured all data management activities are performed in compliance with the regulatory requirements.  
+- Regular follow-up with the CRA during the lock to ensure that CRF pages are verified and discrepancies or any other technical issues are resolved.  
+- Participated in knowledge sharing sessions as and when required.  
+- Escalated issues and trends in database in a timely manner to Lead Data Manager.  
+- Ensured adherence to productivity and quality targets.  
+- Contributed to process improvements.  
+
+**Clinical Data Processor**  
+Pharmanet/i3 (an inVentive Health Company)  
+Oct 2010 – May 2012  
+
+- Performed first pass and second pass entry of data.  
+- Scanned and indexed new data received.  
+- Managed Case Report Form file management (Records Management).  
+- Logged Case Report Forms.  
+- Provided quality control on completed work.  
+- Managed DCF and DRFA activities.  
+- Monitored data entry activity, ensured accurate application of Guidelines referencing Global Data Entry Review and Guidelines (DERG), and ensured quality and consistency to team members and taking part in data entry review and guidelines.  
+- Supported data entry activities and mentored the team members.  
+- Recognized and appreciated for process improvement initiatives like: Reducing time in QC activities, customer satisfaction internally and externally on timely deliverables of Record management, Data entry activities.  
+
+---
+
+**SKILL SET**  
+
+- **Databases**: Oracle Clinical, Oracle RDC (5.0.1), InFORM, Advantage eClinical, Medidata Rave (4.0), RE, Epidata, ODK (Open Data Kit), SQL, R  
+- **Packages**: MS Office 365 (Word, Excel, PowerPoint, Access), Salesforce  
+- **Experience**: Creating studies, designing forms, designing forms in Epidata Manager  
+- **Other Skills**: Data reconciliation, query management, UAT, data cleaning, quality control, data entry, record management, SOPs, MOPs, regulatory compliance, data reconciliation of Lab values and SAEs  
+
+---
+
+**EDUCATIONAL QUALIFICATION**  
+
+**MBA**  
+Dr. D.Y. Patil Institute of Hospital Administration & Healthcare Management, Pune  
+Online Learning, Pune  
+2022  
+Grade: A  
+GPA: 7.39  
+
+**PG Diploma in Clinical Research**  
+Bilcare Research Academy, Pune  
+2009  
+Percentage: 61.00  
+
+**Bachelor of Science (B.Sc.) in Industrial Microbiology**  
+Anna Saheb Magar Mahavidyalaya, Pune  
+2008  
+Percentage: 67.25  
+
+**H.S.C. (12th)**  
+T.C. College (Baramati), Maharashtra  
+2004  
+Percentage: 67.00  
+
+**SSC (10th)**  
+R.N. Agarwal Technical Institute, Baramati, Maharashtra  
+2002  
+Percentage: 76.80  
+
+---
+
+**STRENGTHS**  
+- Systematic and Hard Working  
+- Task Oriented  
+- Self-Motivated  
+
+---
+
+**DECLARATION**  
+I vouch for the authenticity of the above furnished information.  
+
+Swapnil Raskar

@@ -1,0 +1,97 @@
+Snehal Borade
+Pune, India 7387790343 snehalborade29@gmail.co1
+LinkedIn Profile Link: https://www.linkedin.com/in/snehal-borade
+Highly motivated and detail-oriented Clinical Data Management professional w
+in a CRO environment, specializing in query management, UAT, data validatior
+data reconciliation, with proficiency in Veeva EDC and Medidata Rave.
+Professional Experience
+Clinical Data Associate II- Clinical Data Management Oct 2025 Present
+Precision for Medicine Pune, Maharashtra, India
+e Perform data cleaning activities- manage queries as per query detailed listings,
+CRF completion guidelines and protocol.
+« Lead Lab Normal Range related activity and ensure accurate data is added in EI
+sponsor for any clarifications.
+e Manage and update EDC as per sponsor and site confirmations.
+e Support the Lead DM as a back-up and/or team member, ensuring continuity, re
+tasks are performed in a timely manner, perform quality control of data entry.
+Junior Data Analyst- Clinical Data Management Nov 2022 Oct 2025
+Cognizant Technology Solutions Pune, Maharashtra, India
+e Managed critical data processes including User Acceptance Testing (UAT) and gq
+EDC and Medidata Rave, ensuring data integrity and strict adherence to project
+reference guides.
+¢« Implemented comprehensive UAT test cases based on detailed business require
+contributing to quality assurance and validation of underlying programming lo;
+derivations.
+¢ Coordinated external vendor data reconciliation for multiple projects, ensuring
+supporting the testing of data integration, thereby strengthening customer relat
+e Proactively identified, reported, and tracked programming defects and data dis:
+using Edit Checks Study-Specifications, ensuring timely issue mitigation and prc
+identifying root causes.
+e Effectively documented and communicated test results and findings to cross-ful
+teams, fostering transparent collaboration and informed decision-making.
+« Gained hands-on experience with Veeva and Medidata Rave CDMS, demonstrati
+clinical data management systems for project data analysis and management.
+e Supported operational process execution across the study lifecycle, collaboratir
+programming teams to ensure timely project phase completion and adherence 1
+com
+\
+o
+com
+ade-2684b61a4/
+‘1 with 3 years of experience
+tion, and third-party vendor
+gs, MDRP review, as per the
+EDC, communicate with
+7, responsiveness, and that
+ye
+d query resolution in Veeva
+act specifications and
+tirements, significantly
+logic for edit checks and
+ng data consistency and
+alationships.
+liscrepancies to resolution
+project continuity by
+-functional development
+-ating proficiency in utilizing
+iting closely with
+ce to timelines.
+Professional Skills
+Technical:
+* Clinical & Third-Party Vendor Data Reconciliation
+¢ Clinical Data Management (CDM) Lifecycle: Data entry, data validation, User A
+management
+« Data Review & Clarification
+¢ Quality Control
+¢ Therapeutic Expertise: Oncology, Immunology
+Collaboration & Communication:
+¢ Cross-functional Team Collaboration
+« Issue Resolution & Escalation
+¢ Timeline/ milestone Management
+¢ Written & Verbal Communication (English)
+Analytical & Organizational:
+« Ability to Work Effectively in a Fast-Paced Environment.
+e Attention to Detail
+* Initiative Driven
+« Problem Solving
+Tools:
+¢ Microsoft Office Suite (Excel, PowerPoint, Word, Outlook)
+¢ Electronic Data Capture (EDC) Systems: Medidata Rave, Veeva Vault
+Education
+> MBA in Data Science and Analytics 2023 2025 CGPA: 9.1
+Jain University, Bengaluru, India (Remote)
+> Advanced Diploma in Clinical Research Management April 2022 September 2
+Dysmech Clinical Services, Ravet, India
+¢ Adept at maintaining accuracy and detail in project documentation an:
+¢ Basic knowledge of coding dictionaries (ICD10 Data, MedDRA, WHODI
+project data interpretation.
+e Knowledge of drug development processes, regulatory compliance, an
+crucial for managing projects within the life sciences sector.
+> Bachelor of Pharmacy 2017 2021 CGPA: 7.729
+Dr. D. Y. Patil College of Pharmacy, Akurdi, SPPU, India
+and execution.
+r Acceptance Testing, query
+vr 2022 Grade: A
+and execution.
+)DRUG), aiding in complex
+and drug safety reporting,

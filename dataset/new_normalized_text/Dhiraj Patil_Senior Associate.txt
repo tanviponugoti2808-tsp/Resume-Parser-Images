@@ -1,0 +1,68 @@
+Dhiraj Sanjay Patil  
+Senior Associate, Data Management  
+dhirajdesale2021@gmail.com  
+95034833;  
+Dahiwad, Tal-Amalner, Dist-Jalgaon (MH)  
+linkedin.com/in/dhiraj-desale2021  
+
+Profile  
+Clinical Data Management professional with 3.7 years of experience in end-to-end data management, ensuring data accuracy and compliance in clinical trials. Skilled in data cleaning and collaboration with cross-functional teams to support clinical trial success.  
+
+Work Experience  
+07/2022 - 07/2025  
+Biorasi LLC, Senior Associate, Data Management  
+Manage all study-related deliverables of the project.  
+Perform data cleaning procedures, maintenance, issue resolution, and review of EDC queries, including query issuance and resolution.  
+Develop data management listings, data management plans, data validation plans, and system validation plans.  
+Maintain the Trial Master File for Clinical Data Management.  
+Participate in vendor data reconciliation.  
+Perform, under supervision, database (EDC) design, setup, and administration.  
+Develop database validation specifications, CRF completion guidelines, User Acceptance Testing scripts of data for study data.  
+Assist with database lock and the completion of final study reports.  
+Assist with departmental audit and compliance requirements as needed.  
+
+07/2022 - 07/2025  
+Biorasi LLC, Associate, Data Management  
+Hands-on experience of activities and documentation throughout the study setup, conduct, and closeout phases.  
+Performing daily cleaning tasks and discrepancy management.  
+Responsible for ensuring quality and efficiency in data management activities, including reconciliation and all other data management related tasks.  
+Participated in process improvement and other data management related processes.  
+Communication with different stakeholders involved in the trial.  
+Performed User Acceptance Testing.  
+Prepared back-end data validation (manual checks) specification document.  
+Reviewed the back-end data validation outputs created by SAS programmer.  
+Maintaining user access request process and tracker.  
+
+Education  
+08/2021  
+Bachelor of Pharmacy (Dr. BATU), SVKM's Institute of Pharmacy, Dhule  
+7.99 CGPA  
+
+Projects  
+NASH  
+Vascular  
+Ophthalmic  
+Neurology  
+Oncology  
+
+Project:01  
+Management | Data Science  
+3321  
+
+Technical Skills  
+Database {Rave, EDC, Zelta (IBM), Oracle}  
+Performing routine data management tasks, including Discrepancy Management, Study Close-out, and Archival related activities.  
+Worked in early & late phase trials involving all data management related on-site and off-site activities.  
+Safety Data Reconciliation, Quality Control, Metrics Preparation, Data Reconciliation, and Study Preparation.  
+
+Certificates  
+Registered Pharmacist, State of Maharashtra, India  
+
+Courses  
+Artificial Intelligence  
+Data Management for Clinical Research  
+SOFTWARE PROFICIENCY  
+EDC (Rave, Zelta, Oracle)  
+MS Office  
+SAS 9.4  
+Perform User Acceptance Testing for edit checks, creation of test data, and maintenance of documents.

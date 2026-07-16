@@ -1,0 +1,186 @@
+Shashi Reddy Lankannagari
+Hyderabad- India
+BX]: Shashidm2014@gmail.com |@: + 91-9885051328
+CAREER OBJECTIVE
+Aspire to join a highly reputed and professional work environment and apply my skills and experience
+to achieve personal as well as organizational growth.
+BRIEF PROFILE
+I have 10+ years of experience in the Clinical Data Management domain, specializing in Oncology data
+management. My expertise spans across all phases of Clinical Data Management with proficiency in
+Inform, RAVE, Veeva and DataLabs databases. I hold an M.Sc. in Biochemistry from the University of
+Hyderabad and have worked with esteemed organizations such as Syneos Health, Parexel
+International, IQVIA, and Kentron Biotechnology Limited.
+PROFESSIONAL SUMMARY
+= Clinical Data Manager with 10+ years of experience, predominantly in Oncology data
+management.
+« Currently serving as a Senior Clinical Data Analyst at Syneos Health.
+" Experienced in all phases of Data Management, from startup to closeout.
+" Proficient in activities related to Oncology trials, including RECIST Reconciliation and PK
+Reconciliation.
+« Certified in Power BI.
+« Skilled in multiple EDC tools like Veeva, RAVE, INFORM and DATALABS.,
+PROFESSIONAL EXPERIENCE
+Current Job Information:
+Role: Senior Clinical Data Analyst (Study Team Lead)
+Organization: Syneos Health
+Location: Hyderabad
+Period: Oct 2021 Present
+Roles and Responsibilities
+» Lead the CDA team across multiple studies to deliver the DM activities on time.
+=" Oversee and Coordinate with CDA team to get all the DM activities addressed and deliver to the
+DML/Client.
+= Coach and mentor, the CDA team on any specific activity and make them independent to
+perform any DM activity.
+" Continuously meet the CDA team and track the progress of activities and update the status to
+PDM.
+" Drafting the Data Management plan, Edit check specifications, CRF Completion guidelines, DM
+Listings and Third-party recon Listings specification, SAE Recon listing specification etc.
+« Providing input in writing the study specific validation checks and necessary reports to ensure
+high quality and consistent data.
+= Support and assist data management staff for allocated trials.
+= Review protocols for proper data capture including Case Report Form design. Able to perform a
+thoroughly detailed review of eCRF data requirements.
+«Leads team and coordinates the testing of clinical study databases to match eCRFs according to
+company standards. Able to resolve database issues with team members.
+= Over see’s and manages the team activities and performance along with maintaining team
+alignment to project deliverables.
+" Perform database lock activities per company SOPs.
+" Perform Serious Adverse Event reconciliation activities according to SOPs and guidelines.
+" Perform Local Lab data review and resolved issues in timely manner by coordinating with Local
+Lab Standard committee.
+= Perform external and third-party data reconciliation like Biomarker, Imaging, and PK data as per
+applicable guidelines.
+" Performs LAB data reconciliation and LAB data QC in OC database.
+» Provides guidance and monitors the progress of data management activities with vendors.
+« Ability to present and provide professional DM input to Clinical Trial Team(s) on clinical study
+eCRFs and eCRF completion instructions needed.
+" Participate in regular team meetings and provide input when appropriate.
+« Interact with CRAs, programmers, study managers and statisticians in creating a clinical study
+database, performs data quality assurance activities, and manages the resolution of data queries.
+« Assist in database upgrades/migrations including performing User Acceptance Tests
+« Ability to maintain study workbooks and data management files.
+= Develop and track timelines and ensure CDM project milestones are met in coordination with the
+project team.
+=" Ensure clean and on-time Data and Image Transfers.
+« Contributes to a professional working environment and departmental initiatives.
+« Identify errors and inconsistencies, resolve them or initiate their resolution either via the field
+monitor or directly with the investigational site, to ensure high quality and timely database locks.
+= Determine root cause of operations-related project variance in a timely manner, based on DM
+operational metrics/labor hour reports provide input on Changes in Scope needed.
+Employment History 1:
+Role: Clinical Data Analyst II
+Organization: Syneos Health
+Location: Hyderabad
+Period: Feb 2021 — Sep 2021
+" Performing SAS Listings, vendor reconciliation, RECIST listings, query management, SAE
+reconciliation and notify appropriate team and follow-up on the issues through appropriate
+channels.
+«Prepare status reports, metrics, and clean patient tracker.
+«Review medical listings, query as per requirement and follow-up with site and medical team until
+resolution.
+« Allocating tasks like Listings, Queries and Vendor to DM team as well as other functional groups
+and follow-up on task completion.
+» Training Freshers on basic tasks like Query and listing Management to complex tasks like SAE
+and Vendor recons.
+" Perform and actively participate in PPC’s and DB modifications and provide suggestions to fix
+the issues.
+" Maintain Issue trackers and follow-up with respective functional groups to resolve the issue in
+timely manner.
+" Freeze and locking of eCRF.
+Employment History 2:
+Role: Clinical Data Analyst IT
+Organization: Parexel International
+Location: Hyderabad.
+Period: Sep 2017 — Jan 2021
+Roles and Responsibilities:
+= Acted as an independent CDM Coordinator on multiple projects.
+« Participating in Client facing aspects.
+"Worked as Primary point of contact and back up lead on all the assigned projects.
+= Managed all phases of data management activities from study start up to database close.
+" Reviewing the protocol and identifying the CRF’s needed for the study and presenting the data
+for DML and programmer for their review.
+« Providing the feedback and suggestions to programmer on CRF design and requirements.
+" Participating in the ICRM, Sponsor acceptance meeting in finalizing the CRF’s. Facilitated
+cross functional team meetings both internally and externally.
+« Identifying the potential PD’s in the study as per the protocol and drafting the PD specification
+document. Participating in PD review meeting.
+"Updated key study documents as delegated by DML.
+"Identifying the set-up checks (Dynamics, Email alerts, Derivations, Mappings), edit checks and
+drafting the DVS, drafting the SAE reconciliation plan, SAE Tool set up, PD tool set up, CCI
+guidelines, mock shell update.
+« Drafting the Data Management plan.
+» Perform/Review safety data reconciliation using a safety and clinical Listing.
+» Performed QC of the team as defined on a weekly basis and was responsible to send the weekly
+QC report to the team highlighting areas of improvement in query writing and handling
+discrepancy.
+= Conducting the weekly DM meeting the study team.
+= Directed team members in daily activities.
+" Actively reviewed and provided feedback on study productivity.
+"Recognized out of scope activities and communicated to GDO Lead.
+“Updating the Master tracker.
+"Responsible for completing the setup documentation.
+« Training sessions to CDA’s
+= Compare report review, Dry run report review post migration.
+Employment History 3:
+Role: Clinical Data Coordinator
+Organization: IQVIA
+Location: Bangalore
+Period: Nov 2014 — Sep 2017
+Roles and Responsibilities:
+Startup activities:
+" Protocol review, edit specification preparation, test custom reports, Validation of SAS Listings,
+edit check testing, testing of data import program according to data import guidelines, QC of Test
+dataset and Review of documentation.
+Conduct activities:
+» Performed manual data review and write data clarifications along with Discrepancy
+Management, SAS Listings, Vendor reconciliation (Pk, Lab & IVRS), RECIST listings, Query
+Management, SAE reconciliation, Status Reports, Updating study specific tracker. Able to
+escalate the issues through proper channels in timely manner.
+« Ensure data transfers to Sponsor are occurring as scheduled.
+"Compliant with Study Specific Documents and guidelines while performing Discrepancy
+Management
+= Understand and comply with core standard operating procedures and work instructions.
+" Develop and maintain good communication and working relationship with CDM team.
+Lock activities:
+"Performed Study Lock activities like validation of critical data checks, Dataset Review, Data
+Transfer QC, Finalization of DHR, Freezing and locking of ecrf.
+"Work to the appropriate standards of quality and efficiency.
+" On regular basis presenting matrices to client and DML to update study status.
+" Generating and Integration of queries, UAT, Listing Review, Vendor data reconciliation, D
+review, Freezing and Locking of forms, Internal QC, Edit Check implementation and testing.
+« Preparing and maintaining Trackers for all the activities/proceedings in a study such as count of
+CRF validated number of resolution and pending from site, number of queries resolved and
+answered.
+Employment History 3:
+Role: Clinical Research Coordinator
+Organization: Kentron Biotechnology Ltd
+Location: Bangalore
+Period: July 2014 to Oct 2014
+Roles and Responsibilities:
+= Submitting regulatory documents to IRB and Sponsor.
+= Attending investigator meeting(s).
+" Getting voluntary subject consent.
+» Mainiaining communication and correspondence (by telephone, email, fax, etc.) with subjects,
+sponsor, monitor and other site study personnel.
+EDUCATION
+= M.Sc. Biochemistry from University of Hyderabad, Hyderabad, 2013
+= B.Se. Biotechnology from HRD Degree College, OU, Hyderabad, 2011
+= Intermediate from Narayana junior college, 2007
+TECHNICAL SKILLS
+Databases
+Medidata Rave, Inform, Veeva and Data Labs
+Immunology, Oncology, Neurology, Cardiovascular,
+Therapeutic Areas
+Dermatology, Respiratory, HIV, Endocrinology,
+Congenital
+DM Experience in different
+Study Start-up, Conduct & Closeout.
+phases of study
+Data Presentation
+Power BI certification, Microsoft- Excel, Word,
+PowerPoint.
+I hereby solemnly declare that the particulars furnished above are true and correct to the best of my
+knowledge and belief.
+Date:
+Place: Hyderabad
+Sign: Shashi Reddy Lankannagari

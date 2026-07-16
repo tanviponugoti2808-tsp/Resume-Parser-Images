@@ -1,0 +1,65 @@
+Snehal Borade  
+Pune, India | 7387790343 | snehalborade29@gmail.com  
+LinkedIn Profile Link: https://www.linkedin.com/in/snehal-borade  
+
+Highly motivated and detail-oriented Clinical Data Management professional with 3 years of experience in a CRO environment, specializing in query management, UAT, data validation, data reconciliation, with proficiency in Veeva EDC and Medidata Rave.  
+
+Professional Experience  
+Clinical Data Associate II - Clinical Data Management  
+Precision for Medicine | Pune, Maharashtra, India  
+Oct 2025 - Present  
+- Perform data cleaning activities, manage queries as per query detailed listings, CRF completion guidelines and protocol.  
+- Lead Lab Normal Range related activity and ensure accurate data is added in EDC for any clarifications.  
+- Manage and update EDC as per sponsor and site confirmations.  
+- Support the Lead DM as a back-up and/or team member, ensuring continuity, reassign tasks are performed in a timely manner, perform quality control of data entry.  
+
+Junior Data Analyst - Clinical Data Management  
+Cognizant Technology Solutions | Pune, Maharashtra, India  
+Nov 2022 - Oct 2025  
+- Managed critical data processes including User Acceptance Testing (UAT) and data validation in Veeva EDC and Medidata Rave, ensuring data integrity and strict adherence to project reference guides.  
+- Implemented comprehensive UAT test cases based on detailed business requirements, contributing to quality assurance and validation of underlying programming logic for edit checks and derivations.  
+- Coordinated external vendor data reconciliation for multiple projects, ensuring data consistency and supporting the testing of data integration, thereby strengthening customer relationships.  
+- Proactively identified, reported, and tracked programming defects and data discrepancies to resolution using Edit Checks Study-Specifications, ensuring timely issue mitigation and project continuity by identifying root causes.  
+- Effectively documented and communicated test results and findings to cross-functional teams, fostering transparent collaboration and informed decision-making.  
+- Gained hands-on experience with Veeva and Medidata Rave CDMS, demonstrating proficiency in utilizing clinical data management systems for project data analysis and management.  
+- Supported operational process execution across the study lifecycle, collaborating closely with programming teams to ensure timely project phase completion and adherence to timelines.  
+
+Professional Skills  
+Technical:  
+- Clinical & Third-Party Vendor Data Reconciliation  
+- Clinical Data Management (CDM) Lifecycle: Data entry, data validation, User Acceptance Testing (UAT), query management  
+- Data Review & Clarification  
+- Quality Control  
+- Therapeutic Expertise: Oncology, Immunology  
+
+Collaboration & Communication:  
+- Cross-functional Team Collaboration  
+- Issue Resolution & Escalation  
+- Timeline/Milestone Management  
+- Written & Verbal Communication (English)  
+
+Analytical & Organizational:  
+- Ability to Work Effectively in a Fast-Paced Environment  
+- Attention to Detail  
+- Initiative Driven  
+- Problem Solving  
+
+Tools:  
+- Microsoft Office Suite (Excel, PowerPoint, Word, Outlook)  
+- Electronic Data Capture (EDC) Systems: Medidata Rave, Veeva Vault  
+
+Education  
+MBA in Data Science and Analytics  
+Jain University, Bengaluru, India (Remote)  
+2023 - 2025 | CGPA: 9.1  
+
+Advanced Diploma in Clinical Research Management  
+Dysmech Clinical Services, Ravet, India  
+April 2022 - September 2022 | Grade: A  
+- Adept at maintaining accuracy and detail in project documentation and execution.  
+- Basic knowledge of coding dictionaries (ICD10 Data, MedDRA, WHODD), aiding in complex data interpretation.  
+- Knowledge of drug development processes, regulatory compliance, and drug safety reporting, crucial for managing projects within the life sciences sector.  
+
+Bachelor of Pharmacy  
+Dr. D. Y. Patil College of Pharmacy, Akurdi, SPPU, India  
+2017 - 2021 | CGPA: 7.729
